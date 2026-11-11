@@ -36,14 +36,14 @@ export const PROJECT_MILESTONES: RoadmapMilestone[] = [
     title: 'Giao Diện 5 Tab Đầy Đủ & Tàng Kinh Các',
     summary:
       'Hoàn thiện Hành Trình A/B/C, Tu Luyện, Túi & Chợ, Thế Giới, Tàng Kinh Các và Lưu/Xuất Save.',
-    status: 'in_progress',
+    status: 'done',
   },
   {
     version: 'v1.0',
     title: 'Kiểm Thử Trình Duyệt & Phát Hành Chính Thức',
     summary:
       'Kiểm thử toàn diện mọi nhánh kết cục, chạy thật trên trình duyệt sạch lỗi và chốt bản hoàn chỉnh.',
-    status: 'pending',
+    status: 'done',
   },
 ];
 

@@ -84,3 +84,11 @@ Tất cả kho dữ liệu gốc nằm ở thư mục gốc (`*.txt`). Sau khi c
 - `web_game/src/engine/`: Toàn bộ logic game thuần TypeScript (`character.ts`, `events.ts`, `cultivation.ts`, `economy.ts`, `sect.ts`, `endgame.ts`, `save.ts`).
 - `web_game/src/components/`: Giao diện Dark Tiên Hiệp gồm 5 tab (*Hành Trình*, *Tu Luyện*, *Túi & Chợ*, *Thế Giới*, *Tàng Kinh Các*).
 - `.github/workflows/deploy.yml`: Tự động kiểm thử, build và triển khai GitHub Pages.
+
+---
+
+## 6. Mẹo chơi nhanh (4 Giai Đoạn)
+
+1. **Khởi kiếp:** Nhập Đạo hiệu -> bấm **Đổ Xí Ngầu Khởi Nguyên** để gacha Xuất thân, Thể chất, Linh căn, Khí vận, Mệnh cách -> bấm **Bước Vào Tu Chân Giới**.
+2. **Mỗi lượt thời gian:** Bạn nhận Điểm Hành Động (**AP**) để Bế quan, Bài trừ đan độc, Thám hiểm Bí cảnh, Rèn nghề phụ hoặc Di chuyển. Chọn phương án **A / B / C** trong tab **Hành Trình** rồi bấm **Sống tiếp** để sang năm tiếp theo.
+3. **Cửa ải sinh tử & Hậu kỳ:** Trước 100 tuổi nhớ đột phá lên **Trúc Cơ** (hoặc uống Đan tăng thọ). Ở tuổi cao có thể mở **Bảng Sinh Tồn** để dùng **Đoạt Xá** (1 lần/kiếp), **Xác Ướp Chiến Lược** (+500 năm) hoặc **Luân Hồi** tích lũy **Đạo Quả** và mang theo 1 Công pháp truyền kiếp!
