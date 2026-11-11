@@ -1,0 +1,90 @@
+[
+  {
+    "id": "de_tu_1",
+    "rankOrder": 1,
+    "roleType": "de_tu",
+    "name": "Đệ tử Tạp dịch (Tạp vụ đại đội)",
+    "minRealm": 0,
+    "salaryMultiplier": 1.0
+  },
+  {
+    "id": "de_tu_2",
+    "rankOrder": 2,
+    "roleType": "de_tu",
+    "name": "Đệ tử Ngoại môn (Đại chúng lớp)",
+    "minRealm": 1,
+    "salaryMultiplier": 1.45
+  },
+  {
+    "id": "de_tu_3",
+    "rankOrder": 3,
+    "roleType": "de_tu",
+    "name": "Đệ tử Nội môn (Lực lượng trung kiên)",
+    "minRealm": 2,
+    "salaryMultiplier": 1.9
+  },
+  {
+    "id": "de_tu_4",
+    "rankOrder": 4,
+    "roleType": "de_tu",
+    "name": "Đệ tử Hạch tâm (Cốt lõi)",
+    "minRealm": 3,
+    "salaryMultiplier": 2.35
+  },
+  {
+    "id": "de_tu_5",
+    "rankOrder": 5,
+    "roleType": "de_tu",
+    "name": "Đệ tử Thân truyền (Đồ đệ chân truyền)",
+    "minRealm": 4,
+    "salaryMultiplier": 2.8
+  },
+  {
+    "id": "de_tu_6",
+    "rankOrder": 6,
+    "roleType": "de_tu",
+    "name": "Thánh tử / Thánh nữ (Người thừa kế tối cao)",
+    "minRealm": 5,
+    "salaryMultiplier": 3.25
+  },
+  {
+    "id": "truong_lao_1",
+    "rankOrder": 7,
+    "roleType": "truong_lao",
+    "name": "Trưởng lão Ngoại môn (Ban quản lý cấp thấp)",
+    "minRealm": 2,
+    "salaryMultiplier": 3.7
+  },
+  {
+    "id": "truong_lao_2",
+    "rankOrder": 8,
+    "roleType": "truong_lao",
+    "name": "Trưởng lão Nội môn (Lực lượng điều hành chính)",
+    "minRealm": 3,
+    "salaryMultiplier": 4.15
+  },
+  {
+    "id": "truong_lao_3",
+    "rankOrder": 9,
+    "roleType": "truong_lao",
+    "name": "Thủ tọa các ngọn núi (Chưởng phong / Điện chủ)",
+    "minRealm": 4,
+    "salaryMultiplier": 4.6
+  },
+  {
+    "id": "truong_lao_4",
+    "rankOrder": 10,
+    "roleType": "truong_lao",
+    "name": "Trưởng lão Hộ pháp (Lực lượng răn đe chiến lược)",
+    "minRealm": 5,
+    "salaryMultiplier": 5.05
+  },
+  {
+    "id": "truong_lao_5",
+    "rankOrder": 11,
+    "roleType": "truong_lao",
+    "name": "Thái thượng Trưởng lão (Lão tổ tông ẩn thế)",
+    "minRealm": 6,
+    "salaryMultiplier": 5.5
+  }
+]

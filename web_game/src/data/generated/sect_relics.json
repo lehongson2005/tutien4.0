@@ -1,0 +1,242 @@
+[
+  {
+    "id": "relic_001",
+    "name": "Diệt Thế Cửu Thiên Trận Đồ",
+    "description": "Cần 10 vạn đệ tử hiến tế linh lực cùng kích hoạt, bắn ra một tia sáng tím nổ nát một nửa đại lục lục địa của đối thủ.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_002",
+    "name": "Chu Thiên Tinh Đẩu Đại Trận Bảo Vật",
+    "description": "Triệu hồi sức mạnh của 365 ngôi sao hộ thể tông môn, tạo màng bọc kháng được đòn đánh của Tiên Vương trong 100 ngày.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_003",
+    "name": "Thập Phương Tuyệt Sát Trận Đồ",
+    "description": "Biến toàn bộ phạm vi tông môn thành bãi mìn không gian, kẻ thù bước sai một bước sẽ bị nổ banh xác.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_004",
+    "name": "Hỗn Độn Khai Thiên Trận",
+    "description": "Trận đồ khi kích hoạt sẽ tự động đồng hóa toàn bộ linh lực của phe tấn công biến thành năng lượng phòng thủ cho phe mình.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_005",
+    "name": "Vạn Quỷ Phệ Hồn Trận Đồ",
+    "description": "Trấn phái của Ma tông, giải phóng 10 triệu âm hồn vây hãm và gặm nhấm sinh mệnh lực của quân địch.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_006",
+    "name": "Âm Dương Điên Đảo Đại Trận",
+    "description": "Làm đảo lộn toàn bộ hệ thống công pháp của kẻ địch đang bao vây núi (Địch hệ Hỏa tự nhiên ra chiêu hệ Thủy tự phế).",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_007",
+    "name": "Thiên Cơ Lâu Che Giấu Trận Đồ",
+    "description": "Xóa sổ hoàn toàn sự tồn tại của tông môn khỏi bản đồ và trí nhớ thế giới trong 10 năm để dưỡng thương.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_008",
+    "name": "Huyết Tế Trấn Phái Trận",
+    "description": "Cho phép trưởng lão hy sinh tính mạng bản thân để kéo theo một kẻ thù cao hơn 2 cảnh giới chết chung.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_009",
+    "name": "Lôi Đình Vạn Phương Trận Đồ",
+    "description": "Thu hút toàn bộ thiên lôi dị lôi tự nhiên về làm nguồn năng lượng bắn pháo binh.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_010",
+    "name": "Nhân Quả Nghịch Chuyển Trận",
+    "description": "Chuyển toàn bộ sát thương mà kiến trúc tông môn gánh chịu ném ngược lại vào đan điền của kẻ ra tay.",
+    "group": "Thượng Cổ Thần Trận Đồ (10 Trận Đồ Trấn Phái)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_011",
+    "name": "Tiên Nhân Khô Cốt",
+    "description": "Xác chết tiên nhân được phong ấn trong hòm băng ngọc, khi tông môn sắp diệt vong sẽ dùng bí pháp đốt cháy huyết tủy đệ tử để đánh thức cái xác sống dậy quét sạch chiến trường.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_012",
+    "name": "Thái Cổ Thần Ma Cánh Tay",
+    "description": "Một bàn tay khổng lồ làm bằng đá thiên thạch chôn dưới đất tông môn, khi kích hoạt sẽ trồi lên đập nát phi thuyền quân địch.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_013",
+    "name": "Long Tộc Thủy Tổ Nghịch Lân",
+    "description": "Một miếng vảy ngược của rồng tổ, phóng ra long uy tuyệt đối ép tất cả yêu thú linh thú của phe địch phản chủ quay lại cắn chủ.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "relic_014",
+    "name": "Phượng Hoàng Thần Lông Vũ",
+    "description": "Phóng ra ngọn lửa mặt trời bất diệt thiêu rụi hoàn toàn đại doanh liên minh kẻ thù trong một đêm.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_015",
+    "name": "Ma Vương Trái Tim",
+    "description": "Trái tim vẫn còn đập của ma đầu vực, liên tục tỏa ra ma khí dụ dỗ quân địch nổi loạn nội bộ.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "relic_016",
+    "name": "Huyền Vũ Mai Rùa Khiên",
+    "description": "Cái mai rùa khổng lồ làm tường thành bảo vệ, không một loại thần thông tấn công nào có thể chọc thủng trong thời gian ngắn.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "relic_017",
+    "name": "Thần Minh Mắt Trái",
+    "description": "Con mắt đá khổng lồ treo trên đỉnh tháp, quét ánh sáng đến đâu, tu vi kẻ địch bị giảm xuống 1 cảnh giới đến đó.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_018",
+    "name": "Khai Thiên Búa Sứt",
+    "description": "Món thần khí bị sứt mẻ từ thời khai thiên, tuy chỉ xài được 1 lần trước khi vỡ vụn nhưng một búa có thể xé rách màng bảo vệ thế giới.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "relic_019",
+    "name": "Vương Triều Khí Vận Đỉnh",
+    "description": "Chiếc đỉnh đồng khổng lồ chứa long mạch vận mệnh của cả một đất nước, đỉnh còn nước còn, đỉnh vỡ nước mất.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "relic_020",
+    "name": "Thời Không Cát Lún Ngọc Bình",
+    "description": "Chiếc bình chứa cát thời gian, khi mở nắp sẽ đóng băng toàn bộ quân địch trong bán kính vạn dặm suốt 10 giây để MC chạy trốn hoặc phản công.",
+    "group": "Xác Ướp / Vũ Khí Khô Cốt Chiến Lược (10 Bảo Vật)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "relic_021",
+    "name": "Thiên Đạo Chấp Pháp Lệnh",
+    "description": "Miếng bài ngọc do ông trời ban tặng, khi dơ lên có thể gọi 3 tia Tử Tiêu Thần Lôi xuống đánh chết kẻ địch mà không bị tính nghiệp lực.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_022",
+    "name": "Vạn Dược Tiên Tủy Bình",
+    "description": "Bình ngọc tự động sinh ra giọt nước sinh mệnh mỗi 100 năm, giúp hồi phục trạng thái cho thái thượng trưởng lão bế quan sắp chết già.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_023",
+    "name": "Kiếm Ý Bia Đá",
+    "description": "Bia đá chứa vết chém ngộ đạo của kiếm thánh, đệ tử ngồi quanh bia sẽ tăng 200% tốc độ học kiếm pháp.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_024",
+    "name": "Thần Cách Mảnh Vỡ",
+    "description": "Một mẩu năng lượng của vị thần đã chết, dùng để cưỡng ép một trưởng lão đột phá cấp Thần Cảnh tạm thời trong 1 giờ để cứu viện tông môn.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_025",
+    "name": "Luân Hồi Sổ Sinh Tử (Bản nhái)",
+    "description": "Viết tên kẻ thù dưới cấp Hóa Thần vào sổ, kẻ đó sẽ gặp xui xẻo liên tục và chết bất đắc kỳ tử trong vòng 7 ngày.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_026",
+    "name": "Nguyện Lực Thần Tượng",
+    "description": "Bức tượng thu thập lực tín ngưỡng của hàng triệu dân chúng, tỏa hào quang bảo vệ tông môn khỏi ma khí xâm nhập.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_027",
+    "name": "Hư Không Truyền Tống Trận Bàn",
+    "description": "Trận bàn chiến lược giúp truyền tống toàn bộ kho báu và đệ tử nòng cốt sang tinh cầu khác khi bị diệt môn (Phương án giữ lửa).",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_028",
+    "name": "Hợp Hoan Thánh Nữ Tranh",
+    "description": "Bức tranh cổ chứa ảo ảnh mị hoặc cấp cao, đại lão nhìn vào cũng bị sa lầy thần thức trong vài phút.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_029",
+    "name": "Kịch Độc Vạn Sinh Bình",
+    "description": "Bình chứa virus ăn mòn đan điền, khi mở ra sẽ thả dịch bệnh diệt chủng toàn bộ hệ sinh thái của phe đối địch.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "relic_030",
+    "name": "Bản Nguyên Thần Quy Vảy",
+    "description": "Miếng vảy của con rùa vũ trụ số 200, khi gõ vào sẽ kích hoạt hiệu ứng \"Lag không gian\", làm chậm mọi chiêu thức của kẻ thù xung quanh đi 100 lần.",
+    "group": "Thánh Vật Ban Phước / Bí Pháp Cấm Kỵ (10 Bảo Vật)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  }
+]

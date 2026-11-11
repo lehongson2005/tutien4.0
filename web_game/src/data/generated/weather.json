@@ -1,0 +1,242 @@
+[
+  {
+    "id": "weather_001",
+    "name": "Linh Khí Bạo Động (Bão Linh Khí)",
+    "description": "Linh khí bỗng nhiên quay cuồng như vòi rồng đại dương. Tu sĩ cấm hít thở, nếu cố hấp thụ, kinh mạch sẽ bị năng lượng bạo ngược làm nổ tung.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "weather_002",
+    "name": "Mưa Sương Muối Diệt Pháp",
+    "description": "Cơn mưa mang tính axit cực cao, rơi đến đâu làm tan chảy màng hộ thể tiên khí và làm rỉ sét, mất linh tính pháp bảo đến đó.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "weather_003",
+    "name": "Hư Không Liệt Phanh",
+    "description": "Những vết nứt không gian vô hình xuất hiện ngẫu nhiên theo luồng gió. Tu sĩ ngự kiếm bay qua vô tình sẽ bị xé làm đôi mà không kịp hiểu lý do.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "weather_004",
+    "name": "Hồng Trần Sương Mù",
+    "description": "Lớp sương mù dày đặc tràn vào thành thị, tu sĩ hít phải sẽ bị phong ấn toàn bộ tu vi trong 24 giờ, trở về thành người phàm trần.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "weather_005",
+    "name": "Cửu U Âm Phong",
+    "description": "Cơn gió thổi từ cõi chết, xuyên qua mọi giáp trụ giáp sắt, thổi trực tiếp vào thần hồn làm đông cứng ý thức.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "weather_006",
+    "name": "Thái Dương Tinh Hỏa Bộc Phát",
+    "description": "Mặt trời tu tiên phun trào điện từ lửa, khiến mặt đất các hành tinh nóng lên 1000°C, nước sông bốc hơi, tu sĩ phải trốn dưới hang ngầm.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "weather_007",
+    "name": "Tâm Ma Vũ Đêm",
+    "description": "Cơn mưa không ướt nhục thân nhưng hễ giọt nước chạm vào đầu sẽ kích hoạt tâm ma bẩm sinh, khiến cả một thành phố tu sĩ điên loạn chém giết nhau.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "weather_008",
+    "name": "Lôi Đình Thao Thiết Vũ",
+    "description": "Cơn bão sấm sét đen điên cuồng hút sạch năng lượng của các trận pháp phòng ngự hộ sơn tông môn.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "weather_009",
+    "name": "Tuyết Trầm Luân Đóng Băng Thần Thức",
+    "description": "Tuyết rơi màu xanh lam, người dính phải sẽ bị chậm tốc độ suy nghĩ và tốc độ ra chiêu xuống 10 lần.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "weather_010",
+    "name": "Huyết Nguyệt Triều Tịch",
+    "description": "Mỗi khi trăng máu xuất hiện, trọng lực thế giới tăng gấp 100 lần, tu sĩ cấp thấp rớt từ trên trời xuống đất gãy xương.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "weather_011",
+    "name": "Thiên Địa Đoạn Lưu",
+    "description": "Khí lưu đảo ngược khiến hướng Đông thành hướng Tây, gây nhiễu loạn toàn bộ la bàn định vị của phi thuyền.",
+    "group": "Chung",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "weather_012",
+    "name": "Oán Khí Cát Bụi",
+    "description": "Trận bão cát mang theo mảnh vỡ xương cốt thời cổ đại, cào rách da thịt tiên thể.",
+    "group": "Chung",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "weather_013",
+    "name": "Vương Giả Uy Áp Vũ",
+    "description": "Thiên đạo ngẫu nhiên hạ xuống áp lực tinh thần tương đương cấp Thần Vương, ép mọi sinh vật dưới cấp phải quỳ lạy phục tùng.",
+    "group": "Chung",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "weather_014",
+    "name": "Khí Vận Điên Cuồng Xoáy",
+    "description": "Cơn lốc xoáy vô hình hút khí vận đỏ, tím của vùng này ném sang vùng khác, tạo ra biến động nhân vật may rủi.",
+    "group": "Chung",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "weather_015",
+    "name": "Huyền Hoàng Địa Chấn Lôi",
+    "description": "Sấm sét đánh ngược từ lòng đất lên bầu trời, phá hủy các mỏ mạch linh thạch ngầm.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "weather_016",
+    "name": "Vực Biển Chết (Nhược Thủy Hải)",
+    "description": "Biển nước không có lực nổi, lông chim cũng chìm, tu sĩ rơi xuống không thể ngự không bay lên, bơi không được, chết chìm vĩnh viễn.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "weather_017",
+    "name": "Cấm Địa Ngủ Say (Vạn Cổ Phần)",
+    "description": "Nơi chôn cất hàng triệu đại lão thượng cổ, nơi đây cấm phát ra âm thanh lớn, nếu làm động giấc ngủ của các tàn hồn sẽ bị vây giết.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "weather_018",
+    "name": "Vết Nứt Vực Ngoại Biên Thùy",
+    "description": "Ranh giới giữa thế giới gốc và thế giới thiên ma, nơi không gian rách nát hoàn toàn, chỉ có đất đá trôi nổi.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "weather_019",
+    "name": "Đầm Lầy Phệ Linh",
+    "description": "Vùng đất sình lầy liên tục hút linh lực từ lòng bàn chân tu sĩ để nuôi dưỡng các loài cây độc.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "weather_020",
+    "name": "Núi Dao Kiếm Ý",
+    "description": "Ngọn núi được tạo ra từ một nhát chém của Tiên Đế, xung quanh núi tràn ngập kiếm khí bén ngót, tu sĩ đến gần sẽ bị cắt da nát thịt.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "weather_021",
+    "name": "Thung Lũng Tuyệt Tình",
+    "description": "Nơi từ chối mọi loại cảm xúc, tu sĩ bước vào đây nếu khởi lòng tham hay tình yêu sẽ bị quy luật thung lũng bóp nát tim.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "weather_022",
+    "name": "Hành Tinh Sương Mù Thiên Cơ",
+    "description": "Một hành tinh trôi nổi mà thần thức không thể xuyên qua, đi vào là lạc đường vĩnh viễn không thấy lối ra.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "weather_023",
+    "name": "Sông Hoàng Tuyền Nhánh Hạ Giới",
+    "description": "Con sông màu vàng đất chảy qua các cấm địa, nước sông làm thối rữa thần cốt lập tức.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "ha_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "weather_024",
+    "name": "Rừng Cây Hóa Thạch",
+    "description": "Cây cối ở đây làm bằng hợp kim cứng ngắt, động vật sống bước vào quá lâu sẽ bị đồng hóa biến thành tượng đá.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "weather_025",
+    "name": "Thành Phố Thời Gian Nghịch Chuyển",
+    "description": "Một phế tích cổ đại nơi thời gian chạy lùi, tu sĩ ở đây càng lâu càng bị trẻ hóa về thời sơ sinh rồi biến mất.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "weather_026",
+    "name": "Đỉnh Núi Lôi Đình Tập Trung",
+    "description": "Ngọn núi quanh năm bị 20 loại lôi kiếp dội xuống, nơi lý tưởng để MC luyện thể nhưng cực kỳ nguy hiểm.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "weather_027",
+    "name": "Sa Mạc Huyễn Thần",
+    "description": "Cát ở đây biết di chuyển tạo ra các ảo ảnh phòng đấu giá hoặc mỹ nhân để lừa tu sĩ sa ngã.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "weather_028",
+    "name": "Vực Sâu Không Đáy Càn Khôn",
+    "description": "Một cái hố khổng lồ xuyên thủng đại lục, rơi xuống đó sẽ bị ném sang một thế giới khác ngẫu nhiên.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "weather_029",
+    "name": "Mỏ Đá Khí Độc",
+    "description": "Nơi chứa các viên linh thạch biến dị chứa đầy độc tố, phu mỏ hít phải sẽ bị thối phổi.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "weather_030",
+    "name": "Hòn Đảo Trọng Lực Đảo Ngược",
+    "description": "Đảo bay trên trời nhưng đá lại rơi ngược lên mây, tu sĩ vào đây phải đi bằng đầu nếu không muốn bị hút bay lên vũ trụ.",
+    "group": "Địa Hình Đặc Thù Nguy Hiểm (15 Địa Danh)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

@@ -1,0 +1,4280 @@
+[
+  {
+    "id": "ev_301",
+    "numId": 301,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Chính thức được đề bạt làm **Trưởng lão Nội môn** (hoặc Đại chưởng quầy Liên Minh).",
+    "oneTime": true,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Siết chặt kỷ luật, cải cách phân phát tài nguyên công bằng giúp thế lực hưng thịnh.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Siết chặt kỷ luật, cải cách phân phát tài nguyên công bằng giúp thế lực hưng thịnh.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Xây dựng vây cánh thân tín, ưu tiên nguồn linh thạch vào động phủ bản thân.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Xây dựng vây cánh thân tín, ưu tiên nguồn linh thạch vào động phủ bản thân.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Giao việc lặt vặt cho cấp dưới, tự mình bế quan hướng tới Nguyên Anh Cảnh.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Giao việc lặt vặt cho cấp dưới, tự mình bế quan hướng tới Nguyên Anh Cảnh.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_302",
+    "numId": 302,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Khủng hoảng **Lạm phát Linh thạch** bùng nổ: giá Đan dược tại Vạn Bảo Các tăng gấp 3.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Ngừng mua đan ngoài chợ, mở Lò Luyện Đan riêng tận dụng nguồn Linh Thảo khai thác.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Ngừng mua đan ngoài chợ, mở Lò Luyện Đan riêng tận dụng nguồn Linh Thảo khai thác.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Đầu cơ tích trữ Thượng Phẩm Linh Thạch và Yêu Đan giữ giá trị tài sản.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Đầu cơ tích trữ Thượng Phẩm Linh Thạch và Yêu Đan giữ giá trị tài sản.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Đem tài nguyên thừa đi cứu tế đệ tử nghèo trong tông thu phục nhân tâm.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Đem tài nguyên thừa đi cứu tế đệ tử nghèo trong tông thu phục nhân tâm.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_303",
+    "numId": 303,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Phát hiện một **Thiên Tài thế hệ mới** mang Khí Vận màu Tím vừa nhập môn.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Thu nhận làm đệ tử thân truyền, che chở bồi dưỡng để kết nhân quả thiện lành.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Thu nhận làm đệ tử thân truyền, che chở bồi dưỡng để kết nhân quả thiện lành.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Kích hoạt bí pháp Cướp Khí Vận bóc tách mệnh cách của hắn bồi bổ bản thân.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Kích hoạt bí pháp Cướp Khí Vận bóc tách mệnh cách của hắn bồi bổ bản thân.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630,
+            "nghiepLuc": 18
+          },
+          "daoShift": "nghich_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Giữ khoảng cách trung lập, quan sát trưởng thành và dùng làm quân cờ đối ngoại.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Giữ khoảng cách trung lập, quan sát trưởng thành và dùng làm quân cờ đối ngoại.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_304",
+    "numId": 304,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Mỏ Linh Thạch chủ lực bị **Thú Triều** của 200 loài Linh thú hoang dã tấn công.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Đích thân dẫn đội Trưởng lão và Linh thú hộ pháp ra trận trấn áp, bắt thú vương.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Đích thân dẫn đội Trưởng lão và Linh thú hộ pháp ra trận trấn áp, bắt thú vương.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Kích hoạt đại trận hộ sơn phong tỏa mỏ quặng, dùng đan dược dẫn dụ thú triều đi hướng khác.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Kích hoạt đại trận hộ sơn phong tỏa mỏ quặng, dùng đan dược dẫn dụ thú triều đi hướng khác.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Bán quyền khai thác mỏ đang nguy hiểm cho thế lực lân cận kiếm một khoản rồi rút.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Bán quyền khai thác mỏ đang nguy hiểm cho thế lực lân cận kiếm một khoản rồi rút.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_305",
+    "numId": 305,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Thiên Cơ Lâu xếp hạng bạn vào danh sách ứng cử **Thiên Kiêu Bảng** (dưới 100-200 tuổi).",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Công khai khiêu chiến top 10 trên bảng để khuếch trương thanh thế tông môn.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Công khai khiêu chiến top 10 trên bảng để khuếch trương thanh thế tông môn.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Chi tiền cho Thiên Cơ Lâu giấu tên thật, âm thầm tích lũy sức mạnh.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Chi tiền cho Thiên Cơ Lâu giấu tên thật, âm thầm tích lũy sức mạnh.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Mượn danh tiếng trên bảng mở rộng hợp đồng ký gửi bảo vật tại Đấu Giá Hội.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Mượn danh tiếng trên bảng mở rộng hợp đồng ký gửi bảo vật tại Đấu Giá Hội.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_306",
+    "numId": 306,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Sứ giả Tiên Triều tới đòi tăng gấp đôi cống nạp Linh thạch hàng năm.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Khéo léo thương lượng giảm thuế bằng cách hiến tặng đan dược và trận đồ hiếm.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Khéo léo thương lượng giảm thuế bằng cách hiến tặng đan dược và trận đồ hiếm.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Thẳng tay cự tuyệt và bày đại trận chuẩn bị đối đầu quân đội Tiên Triều.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Thẳng tay cự tuyệt và bày đại trận chuẩn bị đối đầu quân đội Tiên Triều.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Chấp nhận nộp đủ thuế nhưng đánh thuế ngược lại lên các gia tộc phụ thuộc.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Chấp nhận nộp đủ thuế nhưng đánh thuế ngược lại lên các gia tộc phụ thuộc.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_307",
+    "numId": 307,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Đệ tử Hạch tâm gây họa lớn: lỡ tay chém chết Thiếu gia của Thái Cổ Thế Gia.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Đứng ra che chở đệ tử, sẵn sàng dùng uy áp Kim Đan/Nguyên Anh thương lượng.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Đứng ra che chở đệ tử, sẵn sàng dùng uy áp Kim Đan/Nguyên Anh thương lượng.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Giao nộp đệ tử kèm lễ vật tạ tội để tránh họa diệt môn cho toàn phái.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Giao nộp đệ tử kèm lễ vật tạ tội để tránh họa diệt môn cho toàn phái.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Giả chết đệ tử rồi bí mật đưa qua Hư Không Truyền Tống Trận đi lánh nạn.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Giả chết đệ tử rồi bí mật đưa qua Hư Không Truyền Tống Trận đi lánh nạn.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_308",
+    "numId": 308,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Mở ra một phân chi của **Thương Hội Vạn Giới** ngay tại lãnh địa của bạn.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Ký kết hiệp ước giao thương chính thống, thu phí hoa hồng ổn định dài hạn.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Ký kết hiệp ước giao thương chính thống, thu phí hoa hồng ổn định dài hạn.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Mở thêm sảnh ngầm Chợ Đen giao dịch đồ cấm để tối đa hóa lợi nhuận.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Mở thêm sảnh ngầm Chợ Đen giao dịch đồ cấm để tối đa hóa lợi nhuận.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Yêu cầu thương hội miễn phí thẩm định và ưu tiên đấu giá bảo vật của mình.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Yêu cầu thương hội miễn phí thẩm định và ưu tiên đấu giá bảo vật của mình.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_309",
+    "numId": 309,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "**Bão Linh Khí Vĩ Mô** càn quét cả Đông Vực và Trung Châu suốt nửa năm.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Mở **Chu Thiên Tinh Đẩu Đại Trận** bảo vệ toàn bộ phàm nhân và đệ tử dưới trướng.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Mở **Chu Thiên Tinh Đẩu Đại Trận** bảo vệ toàn bộ phàm nhân và đệ tử dưới trướng.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Nhân cơ hội cuồng phong linh khí bay vào mắt bão luyện công nâng cấp nhục thân.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Nhân cơ hội cuồng phong linh khí bay vào mắt bão luyện công nâng cấp nhục thân.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Lợi dụng lúc đối thủ rối loạn vì thiên tai để tập kích chiếm mỏ quặng của họ.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Lợi dụng lúc đối thủ rối loạn vì thiên tai để tập kích chiếm mỏ quặng của họ.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_310",
+    "numId": 310,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Bí mật phát hiện một Tông môn Ma Đạo lân cận đang dùng phàm nhân luyện **Vạn Hồn Phiên**.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Dẫn quân chính đạo tập kích tiêu diệt tận gốc, tích lũy công đức cực đại.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Dẫn quân chính đạo tập kích tiêu diệt tận gốc, tích lũy công đức cực đại.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Gửi thư tống tiền tông chủ Ma đạo đòi chia nửa kho báu để giữ bí mật.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Gửi thư tống tiền tông chủ Ma đạo đòi chia nửa kho báu để giữ bí mật.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Đứng nhìn làm ngơ để Ma đạo và phe chính thống địa phương tự tiêu hao nhau.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Đứng nhìn làm ngơ để Ma đạo và phe chính thống địa phương tự tiêu hao nhau.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_311",
+    "numId": 311,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Học được tin có **Huyền Hoàng Cự Long Thuyền** bị đắm tại đáy Loạn Tinh Hải.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Tổ chức đội thám hiểm tinh nhuệ xuống biển trục vớt thần thuyền cổ đại.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Tổ chức đội thám hiểm tinh nhuệ xuống biển trục vớt thần thuyền cổ đại.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Đơn thân lẻn đi bằng Thiên Cơ Gián Điệp Chu tránh chia chác tài nguyên.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Đơn thân lẻn đi bằng Thiên Cơ Gián Điệp Chu tránh chia chác tài nguyên.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Bán tọa độ vụ đắm tàu cho 3 thế lực lớn cùng lúc rồi ngồi thu lợi ngư ông.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Bán tọa độ vụ đắm tàu cho 3 thế lực lớn cùng lúc rồi ngồi thu lợi ngư ông.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_312",
+    "numId": 312,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Gặp **Sát Lục Nghiệp Tâm Ma** quấy nhiễu mỗi khi vận công chuẩn bị Phá Anh.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Lập đàn giải oán, đi làm việc thiện tích Công đức làm dịu nghiệp hỏa.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Lập đàn giải oán, đi làm việc thiện tích Công đức làm dịu nghiệp hỏa.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Dùng sát ý vô thượng chém tan oán hồn, ép Tâm Ma biến thành chiến ý thuần túy.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Dùng sát ý vô thượng chém tan oán hồn, ép Tâm Ma biến thành chiến ý thuần túy.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Nhờ Đạo Lữ hoặc Âm Nhạc Định Thần Sư tấu khúc thanh tâm suốt 7 ngày đêm.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Nhờ Đạo Lữ hoặc Âm Nhạc Định Thần Sư tấu khúc thanh tâm suốt 7 ngày đêm.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien",
+          "rewardPool": "companion"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_313",
+    "numId": 313,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Bằng hữu thuở hàn vi Lý Toàn Thông bị kẹt trong **Thiên Cơ Trận Đồ** cổ đại.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Xông vào trận đồ giải cứu huynh đệ bằng kiến thức Trận Pháp của bản thân.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Xông vào trận đồ giải cứu huynh đệ bằng kiến thức Trận Pháp của bản thân.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Chiêu mộ thêm đại sư Trận Pháp của thương hội cùng hợp sức phá trận.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Chiêu mộ thêm đại sư Trận Pháp của thương hội cùng hợp sức phá trận.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Chỉ gửi ngọc giản hướng dẫn từ bên ngoài vì sợ mình cũng mắc kẹt theo.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Chỉ gửi ngọc giản hướng dẫn từ bên ngoài vì sợ mình cũng mắc kẹt theo.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_314",
+    "numId": 314,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Cửa hàng của bạn bị tu sĩ đối địch tung tin đồn bán **Đan dược giả** gây mất uy tín.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Thách đấu thề độc trước Lời Thề Thiên Đạo, bồi thường gấp 10 nếu có hàng giả.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Thách đấu thề độc trước Lời Thề Thiên Đạo, bồi thường gấp 10 nếu có hàng giả.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Truy tìm kẻ tung tin đồn, bắt sống giao cho hình phạt điện xử lý công khai.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Truy tìm kẻ tung tin đồn, bắt sống giao cho hình phạt điện xử lý công khai.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Đóng cửa thương hội cũ, đổi tên mở lại tại khu vực khác của Trung Châu.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Đóng cửa thương hội cũ, đổi tên mở lại tại khu vực khác của Trung Châu.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_315",
+    "numId": 315,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Khai quật được hài cốt của một vị **Hóa Thần Cổ Tu** tại vùng Vạn Cổ Phần.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Cung kính mai táng rồi tiếp nhận ngọc giản truyền thừa một cách đàng hoàng.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Cung kính mai táng rồi tiếp nhận ngọc giản truyền thừa một cách đàng hoàng.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Luyện thi hài thành Khôi Lỗi Chiến Đấu cấp Hóa Thần bảo vệ động phủ.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Luyện thi hài thành Khôi Lỗi Chiến Đấu cấp Hóa Thần bảo vệ động phủ.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Lột sạch pháp bảo trên xác mang ra Phòng Đấu Giá bán kiếm Tiên Thạch sơ.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Lột sạch pháp bảo trên xác mang ra Phòng Đấu Giá bán kiếm Tiên Thạch sơ.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_316",
+    "numId": 316,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Đột phá **Nguyên Anh Cảnh**: mây đen **Cửu Thiên Huyền Lôi** chín đạo giáng xuống.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Tự lực gánh sinh, lấy nhục thân đối kháng 9 đạo thiên lôi rèn Nguyên Anh Tử Kim.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Tự lực gánh sinh, lấy nhục thân đối kháng 9 đạo thiên lôi rèn Nguyên Anh Tử Kim.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Bố trí Thập Phương Trận Pháp phối hợp Độ Kiếp Đan chia nhỏ sát thương lôi đình.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Bố trí Thập Phương Trận Pháp phối hợp Độ Kiếp Đan chia nhỏ sát thương lôi đình.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Dùng bí thuật Mượn Kiếp Thuật lôi kẻ thù đang truy sát vào vùng kiếp chịu đòn hộ.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Dùng bí thuật Mượn Kiếp Thuật lôi kẻ thù đang truy sát vào vùng kiếp chịu đòn hộ.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_317",
+    "numId": 317,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Trở thành nhân vật máu mặt, nhiều thế gia nhỏ muốn dâng con gái cầu kết minh.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Từ chối khéo, giữ trọn thủy chung với Đạo Lữ đồng cam cộng khổ từ thuở nhỏ.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Từ chối khéo, giữ trọn thủy chung với Đạo Lữ đồng cam cộng khổ từ thuở nhỏ.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien",
+          "rewardPool": "companion"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Kết minh chính trị theo nguyên tắc bình đẳng, trao đổi tài nguyên tu luyện.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Kết minh chính trị theo nguyên tắc bình đẳng, trao đổi tài nguyên tu luyện.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Tập trung hoàn toàn vào đại đạo, tuyên bố đóng cửa tạ khách 20 năm.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Tập trung hoàn toàn vào đại đạo, tuyên bố đóng cửa tạ khách 20 năm.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_318",
+    "numId": 318,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Lạm phát leo thang khiến **Hạ Phẩm Linh Thạch** mất giá nghiêm trọng như giấy vụn.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Chuyển toàn bộ tài sản sang Cực Phẩm Linh Thạch, Yêu Đan và Linh Thảo quý.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Chuyển toàn bộ tài sản sang Cực Phẩm Linh Thạch, Yêu Đan và Linh Thảo quý.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Phát hành Lệnh Bài Tông Môn làm tiền tệ nội bộ bảo chứng bằng đan dược sạch.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Phát hành Lệnh Bài Tông Môn làm tiền tệ nội bộ bảo chứng bằng đan dược sạch.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Tổ chức cướp phá các mỏ khoáng sản vô chủ để áp đảo nguồn cung thị trường.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Tổ chức cướp phá các mỏ khoáng sản vô chủ để áp đảo nguồn cung thị trường.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630,
+            "nghiepLuc": 18
+          },
+          "daoShift": "nghich_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_319",
+    "numId": 319,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Phát hiện **Gián điệp Vực Ngoại Thiên Ma** cải trang thành đệ tử mới trong tông.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Âm thầm giăng trận pháp bắt sống, trích xuất ký ức tìm hang ổ Thiên Ma.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Âm thầm giăng trận pháp bắt sống, trích xuất ký ức tìm hang ổ Thiên Ma.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Tiêu diệt ngay lập tức trước toàn thể tông môn để răn đe và tăng sĩ khí.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Tiêu diệt ngay lập tức trước toàn thể tông môn để răn đe và tăng sĩ khí.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Theo dõi lén để lần theo đầu mối tìm các bí cảnh ngoại giới chúng giấu đồ.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Theo dõi lén để lần theo đầu mối tìm các bí cảnh ngoại giới chúng giấu đồ.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          },
+          "rewardPool": "herb"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_320",
+    "numId": 320,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Nhận lời mời tham gia **Đấu Giá Hội Đỉnh Cao** tại Vạn Bảo Phi Thuyền trên mây.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Đấu giá bằng Cực Phẩm Linh Thạch mua bằng được mảnh bản đồ Di Tích Tiên Nhân.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Đấu giá bằng Cực Phẩm Linh Thạch mua bằng được mảnh bản đồ Di Tích Tiên Nhân.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Ngồi phòng chữ Thiên kết giao với Thủ Tọa các đại tông môn mở rộng ảnh hưởng.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Ngồi phòng chữ Thiên kết giao với Thủ Tọa các đại tông môn mở rộng ảnh hưởng.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Cài người mua các bảo vật bình dân bị che giấu linh văn với giá hời.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Cài người mua các bảo vật bình dân bị che giấu linh văn với giá hời.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_321",
+    "numId": 321,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Bị **Huyết Tế Trấn Phái Trận** của một Ma tông suy tàn nhắm làm mục tiêu báo thù.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Kích hoạt **Tiên Nhân Khô Cốt** hoặc Chí Bảo hộ thân đánh tan trận đồ ma đạo.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Kích hoạt **Tiên Nhân Khô Cốt** hoặc Chí Bảo hộ thân đánh tan trận đồ ma đạo.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630,
+            "nghiepLuc": 18
+          },
+          "daoShift": "nghich_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Dùng Thuấn Di Trận Bàn dịch chuyển thoát ra ngoài rồi bao vây ngược lại.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Dùng Thuấn Di Trận Bàn dịch chuyển thoát ra ngoài rồi bao vây ngược lại.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Thương lượng chia lại địa bàn để tránh hao tổn nguyên khí cho cả hai bên.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Thương lượng chia lại địa bàn để tránh hao tổn nguyên khí cho cả hai bên.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_322",
+    "numId": 322,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Linh thú đồng hành chạm ngưỡng đột phá **Hóa Hình Kiếp** hóa thành hình người.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Đứng hộ pháp bên cạnh chia sẻ linh lực giúp linh thú vượt 9 tia lôi kiếp an toàn.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Đứng hộ pháp bên cạnh chia sẻ linh lực giúp linh thú vượt 9 tia lôi kiếp an toàn.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          },
+          "rewardPool": "beast"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Tìm cho nó viên Hóa Hình Đan lục phẩm để bỏ qua rủi ro hóa hình thất bại.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Tìm cho nó viên Hóa Hình Đan lục phẩm để bỏ qua rủi ro hóa hình thất bại.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Khuyến khích nó giữ nguyên dạng thú chiến đấu để duy trì 100% phòng ngự vật lý.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Khuyến khích nó giữ nguyên dạng thú chiến đấu để duy trì 100% phòng ngự vật lý.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_323",
+    "numId": 323,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Tình cờ bắt gặp **Linh Tuyền Sinh Mệnh** nghìn năm chỉ chảy ra một lần trong rừng.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Hứng lấy chia đều cho Đạo Lữ, Bằng Hữu và đệ tử nòng cốt cùng tăng thọ nguyên.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Hứng lấy chia đều cho Đạo Lữ, Bằng Hữu và đệ tử nòng cốt cùng tăng thọ nguyên.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Độc chiếm toàn bộ dùng để luyện chế Trường Sinh Đan cấp cao cho bản thân.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Độc chiếm toàn bộ dùng để luyện chế Trường Sinh Đan cấp cao cho bản thân.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Dùng làm nguyên liệu cốt lõi tưới cho vườn Linh Thảo tăng phẩm cấp thần dược.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Dùng làm nguyên liệu cốt lõi tưới cho vườn Linh Thảo tăng phẩm cấp thần dược.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_324",
+    "numId": 324,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Hội đồng Trưởng lão bất đồng gay gắt về việc khai chiến với Thanh Vân Kiếm Tông.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Kiên quyết chủ hòa, thúc đẩy giao thương song phương cùng chống ngoại địch.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Kiên quyết chủ hòa, thúc đẩy giao thương song phương cùng chống ngoại địch.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Chủ chiến áp đảo, dẫn đầu chiến thuyền tiến công chiếm đoạt mỏ linh mạch.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Chủ chiến áp đảo, dẫn đầu chiến thuyền tiến công chiếm đoạt mỏ linh mạch.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Đứng trung lập giữ lực lượng nòng cốt của mình tránh bị lôi vào nội chiến.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Đứng trung lập giữ lực lượng nòng cốt của mình tránh bị lôi vào nội chiến.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_325",
+    "numId": 325,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Gặp hiện tượng **Thời Gian Ngưng Đọng Ảo Cảnh** khi bước vào Cấm Địa Thái Cổ.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Ngồi xuống lĩnh ngộ quy luật Thời Gian trôi qua ảo cảnh, mở khóa ngộ đạo sớm.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Ngồi xuống lĩnh ngộ quy luật Thời Gian trôi qua ảo cảnh, mở khóa ngộ đạo sớm.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "ability"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Vận dụng Thần Thức Hóa Kim Tiêu cắt đứt màn sương ảo cảnh thoát ra ngoài.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Vận dụng Thần Thức Hóa Kim Tiêu cắt đứt màn sương ảo cảnh thoát ra ngoài.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Uống Tĩnh Tâm Đan bám theo vệt ánh sáng của Đạo Lữ để tìm đường về thực tại.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Uống Tĩnh Tâm Đan bám theo vệt ánh sáng của Đạo Lữ để tìm đường về thực tại.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_326",
+    "numId": 326,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Thương hội đề nghị bạn ký hợp đồng độc quyền cung cấp **Thần Binh / Đan Dược**.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Nhận lời sản xuất số lượng lớn từ xưởng nghề phụ thu về lợi nhuận khổng lồ.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Nhận lời sản xuất số lượng lớn từ xưởng nghề phụ thu về lợi nhuận khổng lồ.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Chỉ nhận cung cấp hàng cực phẩm giá cao để giữ danh tiếng đại sư truyền kỳ.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Chỉ nhận cung cấp hàng cực phẩm giá cao để giữ danh tiếng đại sư truyền kỳ.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Từ chối để giữ quyền tự do định giá và bán trực tiếp tại đấu giá hội.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Từ chối để giữ quyền tự do định giá và bán trực tiếp tại đấu giá hội.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_327",
+    "numId": 327,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Một **Kẻ Xuyên Không (Mệnh cách Vô Căn)** xuất hiện làm loạn trật tự khu vực.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Hợp tác cùng hắn trao đổi kiến thức mới lạ để cải tiến cơ quan khôi lỗi/trận pháp.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Hợp tác cùng hắn trao đổi kiến thức mới lạ để cải tiến cơ quan khôi lỗi/trận pháp.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Báo cho Trấn Thế Minh đến thanh trừng bảo vệ dòng thời gian nguyên bản.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Báo cho Trấn Thế Minh đến thanh trừng bảo vệ dòng thời gian nguyên bản.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Thử dùng Thần Nhãn quan sát khí vận dị biệt của hắn để tìm lỗ hổng đại đạo.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Thử dùng Thần Nhãn quan sát khí vận dị biệt của hắn để tìm lỗ hổng đại đạo.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_328",
+    "numId": 328,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Phát hiện **Huyết Mạch Cổ Đại** ẩn trong cơ thể có dấu hiệu thức tỉnh lần 2.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Dùng Dị Thủy Tẩy Tủy Trì kích thích huyết mạch bùng nổ toàn diện sức mạnh.",
+        "successRateBase": 0.72,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Dùng Dị Thủy Tẩy Tủy Trì kích thích huyết mạch bùng nổ toàn diện sức mạnh.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630,
+            "nghiepLuc": 18
+          },
+          "daoShift": "nghich_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        },
+        "requirement": {
+          "minStat": {
+            "nhucThan": 50
+          },
+          "label": "Cần Nhục thân ≥ 50"
+        }
+      },
+      {
+        "key": "B",
+        "label": "Từ từ dẫn dắt nhẹ nhàng qua các chu kỳ bế quan để tránh biến dị mất kiểm soát.",
+        "successRateBase": 0.95,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Từ từ dẫn dắt nhẹ nhàng qua các chu kỳ bế quan để tránh biến dị mất kiểm soát.",
+          "statDelta": {
+            "tamCanh": 6,
+            "hp": 24,
+            "tuVi": 144
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": 6
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Nhờ Huyết Mạch Sư kiểm tra xem có cạm bẫy nguyền rủa tổ tiên nào đi kèm không.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Nhờ Huyết Mạch Sư kiểm tra xem có cạm bẫy nguyền rủa tổ tiên nào đi kèm không.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_329",
+    "numId": 329,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Mùa **Mưa Tuyết Trầm Luân** đóng băng thần thức kéo dài suốt 3 năm vùng Bắc Cực.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Bế quan tu luyện Băng hệ thần thông nhân lúc thiên địa cực hàn đậm đặc.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Bế quan tu luyện Băng hệ thần thông nhân lúc thiên địa cực hàn đậm đặc.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Chế tạo hàng loạt Hỏa Phù cứu trợ dân cư và kiếm điểm công đức cực lớn.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Chế tạo hàng loạt Hỏa Phù cứu trợ dân cư và kiếm điểm công đức cực lớn.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Dùng Phi Thuyền di chuyển toàn bộ nhân lực sang Nam Hoang tránh rét an toàn.",
+        "successRateBase": 0.95,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Dùng Phi Thuyền di chuyển toàn bộ nhân lực sang Nam Hoang tránh rét an toàn.",
+          "statDelta": {
+            "tamCanh": 6,
+            "hp": 24,
+            "tuVi": 144
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": 6
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_330",
+    "numId": 330,
+    "stage": 3,
+    "subStage": "100-250",
+    "title": "Tuổi **250**: Thế lực của bạn (hoặc Động phủ Tán Tu) đã đứng vững như bàn thạch.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Chuẩn bị bước vào giai đoạn tranh bá đại lục và chuẩn bị đột phá Hóa Thần.",
+        "successRateBase": 0.95,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Chuẩn bị bước vào giai đoạn tranh bá đại lục và chuẩn bị đột phá Hóa Thần.",
+          "statDelta": {
+            "tamCanh": 6,
+            "hp": 24,
+            "tuVi": 144
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": 6
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Đầu tư mạnh mẽ vào nghiên cứu Trận Pháp và Chí Bảo Trấn Phái phòng đại họa.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Đầu tư mạnh mẽ vào nghiên cứu Trận Pháp và Chí Bảo Trấn Phái phòng đại họa.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        },
+        "requirement": {
+          "minStat": {
+            "ngoTinh": 55
+          },
+          "label": "Cần Ngộ tính ≥ 55"
+        }
+      },
+      {
+        "key": "C",
+        "label": "Chuyển giao bớt sự vụ hành chính cho đệ tử tin cẩn để rảnh tay ngộ đạo.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Chuyển giao bớt sự vụ hành chính cho đệ tử tin cẩn để rảnh tay ngộ đạo.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_331",
+    "numId": 331,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Tông môn đối địch (hoặc Liên minh Ma đầu) huy động 10 vạn tu sĩ kéo đến diệt môn.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Kích hoạt **Diệt Thế Cửu Thiên Trận Đồ** (hoặc Chí bảo hộ thân) phản đòn hủy diệt địch.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Kích hoạt **Diệt Thế Cửu Thiên Trận Đồ** (hoặc Chí bảo hộ thân) phản đòn hủy diệt địch.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Đơn thương độc mã khiêu chiến Tông chủ đối phương để phân thắng bại nhanh gọn.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Đơn thương độc mã khiêu chiến Tông chủ đối phương để phân thắng bại nhanh gọn.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Dùng Hư Không Truyền Tống Trận di tản nòng cốt bảo toàn hỏa chủng rồi phản công sau.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Dùng Hư Không Truyền Tống Trận di tản nòng cốt bảo toàn hỏa chủng rồi phản công sau.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_332",
+    "numId": 332,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Chiến thắng đại chiến: bạn đứng trước kho báu và lãnh địa của tông môn bại trận.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Sáp nhập toàn bộ mỏ khoáng sản và đệ tử còn sống, mở rộng quy mô thế lực.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Sáp nhập toàn bộ mỏ khoáng sản và đệ tử còn sống, mở rộng quy mô thế lực.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Chỉ lấy công pháp trấn tông và linh thạch cực phẩm, tha cho đệ tử cấp thấp.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Chỉ lấy công pháp trấn tông và linh thạch cực phẩm, tha cho đệ tử cấp thấp.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Phá hủy toàn bộ trận pháp đối phương, chia chiến lợi phẩm cho bằng hữu đồng minh.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Phá hủy toàn bộ trận pháp đối phương, chia chiến lợi phẩm cho bằng hữu đồng minh.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_333",
+    "numId": 333,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Khủng hoảng **Lạm phát Siêu Cấp**: Linh thạch hạ giới mất 80% giá trị mua bán.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Dẫn đầu liên minh thương hội thiết lập **Chuẩn Tiền Tệ Mới** bằng Thượng Phẩm Linh Thạch.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Dẫn đầu liên minh thương hội thiết lập **Chuẩn Tiền Tệ Mới** bằng Thượng Phẩm Linh Thạch.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Đóng cửa giao dịch tiền tệ, chỉ trao đổi Vật Đổi Vật bằng Linh Thảo và Pháp Bảo.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Đóng cửa giao dịch tiền tệ, chỉ trao đổi Vật Đổi Vật bằng Linh Thảo và Pháp Bảo.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Đi cướp kho dự trữ của Cửu U Hắc Thị để cân bằng lại cán cân tài chính.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Đi cướp kho dự trữ của Cửu U Hắc Thị để cân bằng lại cán cân tài chính.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630,
+            "nghiepLuc": 18
+          },
+          "daoShift": "nghich_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_334",
+    "numId": 334,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Gặp **Quyền Lực Đỉnh Cao Tâm Ma** khi chạm ngưỡng Nguyên Anh viên mãn chuẩn bị Hóa Thần.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Đạp nát ngai vàng ảo ảnh, khẳng định quyền lực chỉ là công cụ chứ không phải đích đến.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Đạp nát ngai vàng ảo ảnh, khẳng định quyền lực chỉ là công cụ chứ không phải đích đến.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Tiêu hóa ảo cảnh đế vương để nâng cao uy áp thần thức lên cấp bá chủ.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Tiêu hóa ảo cảnh đế vương để nâng cao uy áp thần thức lên cấp bá chủ.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Rút lui về tân thủ thôn sống bình dị 5 năm để tìm lại sơ tâm thuở ban đầu.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Rút lui về tân thủ thôn sống bình dị 5 năm để tìm lại sơ tâm thuở ban đầu.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_335",
+    "numId": 335,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Phát hiện dấu vết của **Tiên Nhân Đạo Đài** cổ đại ẩn trong vết nứt Hư Không Chi Lộ.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Đặt chân vào vết nứt không gian tìm kiếm Tiên Khí sơ khai và mảnh quy luật.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Đặt chân vào vết nứt không gian tìm kiếm Tiên Khí sơ khai và mảnh quy luật.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "ability"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Dựng trận pháp thu hút tiên khí rò rỉ từ vết nứt về nuôi dưỡng đan điền.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Dựng trận pháp thu hút tiên khí rò rỉ từ vết nứt về nuôi dưỡng đan điền.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        },
+        "requirement": {
+          "minStat": {
+            "ngoTinh": 55
+          },
+          "label": "Cần Ngộ tính ≥ 55"
+        }
+      },
+      {
+        "key": "C",
+        "label": "Phong ấn vết nứt lại tránh dẫn dụ dị thú không gian tràn ra tàn phá đại lục.",
+        "successRateBase": 0.95,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Phong ấn vết nứt lại tránh dẫn dụ dị thú không gian tràn ra tàn phá đại lục.",
+          "statDelta": {
+            "tamCanh": 6,
+            "hp": 24,
+            "tuVi": 144
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": 6
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_336",
+    "numId": 336,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Bắt gặp một **Thiên Tài Khí Vận Đỏ/Vàng** đang cướp bóc tài nguyên mỏ của bạn.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Tha cho hắn và thu làm thuộc hạ tâm phúc, mượn khí vận của hắn hỗ trợ mình.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Tha cho hắn và thu làm thuộc hạ tâm phúc, mượn khí vận của hắn hỗ trợ mình.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Đánh gãy tu vi rồi cướp sạch Khí Vận và túi trữ vật bù đắp tổn thất mỏ.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Đánh gãy tu vi rồi cướp sạch Khí Vận và túi trữ vật bù đắp tổn thất mỏ.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630,
+            "nghiepLuc": 18
+          },
+          "daoShift": "nghich_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Đuổi hắn ra khỏi lãnh địa theo quy tắc giang hồ, tránh kết oán thù sâu xa.",
+        "successRateBase": 0.95,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Đuổi hắn ra khỏi lãnh địa theo quy tắc giang hồ, tránh kết oán thù sâu xa.",
+          "statDelta": {
+            "tamCanh": 6,
+            "hp": 24,
+            "tuVi": 144
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": 6
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_337",
+    "numId": 337,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Thiên Địa Dị Lôi **Ngũ Hành Hỗn Hợp Lôi** bất ngờ hội tụ khi bạn thử sức Hóa Thần.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Chống đỡ trực diện 5 loại lôi đình để dung hợp Ngũ Hành vào Nguyên Anh thành Hóa Thần.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Chống đỡ trực diện 5 loại lôi đình để dung hợp Ngũ Hành vào Nguyên Anh thành Hóa Thần.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Kích hoạt Ngũ Hành Tương Sinh Trận đồ và dùng bảo vật giảm bớt sát thương lôi.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Kích hoạt Ngũ Hành Tương Sinh Trận đồ và dùng bảo vật giảm bớt sát thương lôi.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Hấp thụ một phần lôi quang vào bản mệnh pháp bảo để thăng cấp lên Tiên Khí phôi.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Hấp thụ một phần lôi quang vào bản mệnh pháp bảo để thăng cấp lên Tiên Khí phôi.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          },
+          "rewardPool": "artifact"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_338",
+    "numId": 338,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Tiên Triều suy yếu, các vùng Đông-Tây-Nam-Bắc chia rẽ nổ ra **Đại Loạn Chiến**.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Ký hiệp ước liên minh với 3 tông môn lớn lập khối trung lập bảo vệ dân chúng.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Ký hiệp ước liên minh với 3 tông môn lớn lập khối trung lập bảo vệ dân chúng.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Thừa nước đục thả câu, mở rộng lãnh địa và thu phục nhiều tán tu tài giỏi.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Thừa nước đục thả câu, mở rộng lãnh địa và thu phục nhiều tán tu tài giỏi.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Đóng cửa sơn môn bằng Thiên Cơ Lâu Che Giấu Trận Đồ ẩn thế 10 năm tránh bão.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Đóng cửa sơn môn bằng Thiên Cơ Lâu Che Giấu Trận Đồ ẩn thế 10 năm tránh bão.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_339",
+    "numId": 339,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Đệ tử chân truyền do bạn nuôi dưỡng bỗng nảy sinh dị tâm muốn đầu quân Ma Đạo.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Thẳng tay thanh lý môn hộ, thu hồi công pháp trấn phái tránh hậu họa về sau.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Thẳng tay thanh lý môn hộ, thu hồi công pháp trấn phái tránh hậu họa về sau.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Tìm hiểu nguyên nhân, dùng tình nghĩa sư đồ cảm hóa kéo hắn quay lại chính lộ.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Tìm hiểu nguyên nhân, dùng tình nghĩa sư đồ cảm hóa kéo hắn quay lại chính lộ.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Mặc kệ hắn tự chọn con đường riêng, cắt đứt nhân quả sư đồ từ đây.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Mặc kệ hắn tự chọn con đường riêng, cắt đứt nhân quả sư đồ từ đây.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_340",
+    "numId": 340,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Trong một lần đi đấu giá, phát hiện mảnh vỡ **Bản Nguyên Thần Quy Vảy**.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Trả mọi giá để mua về vì cảm nhận được dao động quy luật tối cao bên trong.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Trả mọi giá để mua về vì cảm nhận được dao động quy luật tối cao bên trong.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "ability"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Nhường người khác mua rồi lén bám theo xem bí mật đằng sau món cổ vật.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Nhường người khác mua rồi lén bám theo xem bí mật đằng sau món cổ vật.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Báo cho Thiên Cơ Lâu thẩm định nguồn gốc trước khi quyết định đầu tư lớn.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Báo cho Thiên Cơ Lâu thẩm định nguồn gốc trước khi quyết định đầu tư lớn.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_341",
+    "numId": 341,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "**Dịch Bệnh Ma Đạo** lây lan khiến linh lực nhiều trưởng lão bị ăn mòn suy yếu.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Dốc kho Linh Thảo điều chế vạn viên giải độc đan phát miễn phí lập đại công đức.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Dốc kho Linh Thảo điều chế vạn viên giải độc đan phát miễn phí lập đại công đức.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Bán thuốc giải độc giá hợp lý cho các thế lực xung quanh thu hồi vốn lạm phát.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Bán thuốc giải độc giá hợp lý cho các thế lực xung quanh thu hồi vốn lạm phát.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Phong tỏa toàn bộ lối vào động phủ, bảo vệ tuyệt đối vòng tròn thân tín của mình.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Phong tỏa toàn bộ lối vào động phủ, bảo vệ tuyệt đối vòng tròn thân tín của mình.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_342",
+    "numId": 342,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Nhận lời thỉnh cầu của **Hạo Nhiên Thư Viện** đi trấn áp vết nứt U Minh Giới.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Mang theo Chí Bảo Trấn Phái phối hợp Nho Thánh Chính Khí phong ấn U Minh Môn.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Mang theo Chí Bảo Trấn Phái phối hợp Nho Thánh Chính Khí phong ấn U Minh Môn.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Nhân cơ hội vào U Minh Giới thu phục linh hồn chiến tướng cổ làm hộ pháp.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Nhân cơ hội vào U Minh Giới thu phục linh hồn chiến tướng cổ làm hộ pháp.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Từ chối vì nghi ngờ đây là cái bẫy chính trị nhằm tiêu hao thực lực của bạn.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Từ chối vì nghi ngờ đây là cái bẫy chính trị nhằm tiêu hao thực lực của bạn.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_343",
+    "numId": 343,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Gặp **Khí Vận Cân Bằng**: sau chuỗi ngày đại thắng, thiên tai bất ngờ giáng xuống.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Bình tĩnh dùng tài nguyên tích trữ vượt qua kiếp nạn theo đúng quy luật nhân quả.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Bình tĩnh dùng tài nguyên tích trữ vượt qua kiếp nạn theo đúng quy luật nhân quả.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "ability"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "San sẻ tài sản cho chúng sinh để hóa giải bớt sát khí và áp lực vận mệnh.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: San sẻ tài sản cho chúng sinh để hóa giải bớt sát khí và áp lực vận mệnh.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Dùng thần thông che giấu khí vận trốn tránh ánh mắt soi mói của Thiên Đạo.",
+        "successRateBase": 0.95,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Dùng thần thông che giấu khí vận trốn tránh ánh mắt soi mói của Thiên Đạo.",
+          "statDelta": {
+            "tamCanh": 6,
+            "hp": 24,
+            "tuVi": 144
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": 6
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_344",
+    "numId": 344,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Tình cờ đọc được tấm bia khắc **Minh Tộc Văn Tự** dưới đáy biển sâu Bắc Minh.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Bỏ nhiều năm giải mã để học bí thuật bảo toàn thần hồn trước khi thọ nguyên cạn.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Bỏ nhiều năm giải mã để học bí thuật bảo toàn thần hồn trước khi thọ nguyên cạn.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Sao chép văn tự vào ngọc giản rồi hủy bia đá tránh ma công rơi vào tay kẻ ác.",
+        "successRateBase": 0.95,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Sao chép văn tự vào ngọc giản rồi hủy bia đá tránh ma công rơi vào tay kẻ ác.",
+          "statDelta": {
+            "tamCanh": 6,
+            "hp": 24,
+            "tuVi": 144
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": 6
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Bán bản sao cổ văn cho Khôi Lỗi Vạn Thần Đạo đổi lấy khôi lỗi hộ vệ cấp cao.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Bán bản sao cổ văn cho Khôi Lỗi Vạn Thần Đạo đổi lấy khôi lỗi hộ vệ cấp cao.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_345",
+    "numId": 345,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Cường giả Hóa Thần ngoại vực ghé thăm động phủ đòi luận đạo và mượn pháp bảo.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Tiếp đón trọng thị, luận đạo 3 ngày đêm giúp cả hai cùng ngộ ra quy luật mới.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Tiếp đón trọng thị, luận đạo 3 ngày đêm giúp cả hai cùng ngộ ra quy luật mới.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "ability"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Cảnh giác từ chối cho mượn bảo vật, sẵn sàng khai chiến nếu đối phương ép buộc.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Cảnh giác từ chối cho mượn bảo vật, sẵn sàng khai chiến nếu đối phương ép buộc.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Lặng lẽ dùng trận pháp ghi lại dao động công pháp của lão để phòng thủ sau này.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Lặng lẽ dùng trận pháp ghi lại dao động công pháp của lão để phòng thủ sau này.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_346",
+    "numId": 346,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "**Địa Chấn Long Mạch** làm thay đổi bản đồ Hạ Giới, một Bí Cảnh Thượng Cổ trồi lên.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Dẫn đầu liên quân xông vào tầng sâu nhất tranh đoạt truyền thừa cấp Địa/Thiên.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Dẫn đầu liên quân xông vào tầng sâu nhất tranh đoạt truyền thừa cấp Địa/Thiên.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Chiếm giữ cửa vào thu phí vé vào cổng của các tu sĩ tán tu muốn thử vận may.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Chiếm giữ cửa vào thu phí vé vào cổng của các tu sĩ tán tu muốn thử vận may.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Chỉ thu thập thảo dược và khoáng sản thượng phẩm lộ thiên bên ngoài rồi rút sớm.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Chỉ thu thập thảo dược và khoáng sản thượng phẩm lộ thiên bên ngoài rồi rút sớm.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_347",
+    "numId": 347,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Cảm nhận được áp lực thọ nguyên đang tăng lên khi chạm gần mốc **400 tuổi**.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Tập trung toàn bộ nguồn lực để đột phá Hóa Thần nâng thọ nguyên lên 3.000+ năm.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Tập trung toàn bộ nguồn lực để đột phá Hóa Thần nâng thọ nguyên lên 3.000+ năm.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Tìm kiếm **Vạn Dược Tiên Tủy** hoặc luyện Tục Mệnh Đan kéo dài tuổi thọ trước.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Tìm kiếm **Vạn Dược Tiên Tủy** hoặc luyện Tục Mệnh Đan kéo dài tuổi thọ trước.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Chuẩn bị sẵn bí pháp Đoạt Xá và Hòm Băng Chiến Lược đề phòng bất trắc tương lai.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Chuẩn bị sẵn bí pháp Đoạt Xá và Hòm Băng Chiến Lược đề phòng bất trắc tương lai.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_348",
+    "numId": 348,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Bị một tổ chức sát thủ **Huyết Sát Lâu** đưa vào danh sách truy sát cấp Sát Thần Bảng.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Đích thân đánh thẳng vào tổng đàn Huyết Sát Lâu xóa sổ tên mình khỏi sổ tử.",
+        "successRateBase": 0.72,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Đích thân đánh thẳng vào tổng đàn Huyết Sát Lâu xóa sổ tên mình khỏi sổ tử.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630,
+            "nghiepLuc": 18
+          },
+          "daoShift": "nghich_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        },
+        "requirement": {
+          "minStat": {
+            "nhucThan": 50
+          },
+          "label": "Cần Nhục thân ≥ 50"
+        }
+      },
+      {
+        "key": "B",
+        "label": "Thuê Thiên Cơ Lâu phản ám sát lại kẻ đứng sau bỏ tiền mua đầu bạn.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Thuê Thiên Cơ Lâu phản ám sát lại kẻ đứng sau bỏ tiền mua đầu bạn.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Giả chết ẩn cư bằng Hư Vô Hóa Đạo Pháp khiến sát thủ mất dấu hoàn toàn.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Giả chết ẩn cư bằng Hư Vô Hóa Đạo Pháp khiến sát thủ mất dấu hoàn toàn.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_349",
+    "numId": 349,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Gặp cơ duyên song tu hoặc cộng hưởng quy luật cùng Đạo Lữ ở đỉnh cao Nguyên Anh.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Cùng Đạo Lữ bế quan hợp tu 20 năm giúp cả hai đồng loạt đột phá bình cảnh.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Cùng Đạo Lữ bế quan hợp tu 20 năm giúp cả hai đồng loạt đột phá bình cảnh.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien",
+          "rewardPool": "companion"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Nhường phần lớn tài nguyên quý để Đạo Lữ lên cảnh giới cao trước làm hậu thuẫn.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Nhường phần lớn tài nguyên quý để Đạo Lữ lên cảnh giới cao trước làm hậu thuẫn.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Giữ nhịp tu luyện độc lập để tránh bị ràng buộc nhân quả khi vượt Lôi Kiếp.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Giữ nhịp tu luyện độc lập để tránh bị ràng buộc nhân quả khi vượt Lôi Kiếp.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_350",
+    "numId": 350,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "**Cảnh báo Vực Ngoại**: một tia ma khí kỳ dị từ khe nứt vũ trụ rơi xuống Trung Châu.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Thu thập mẫu ma khí nghiên cứu điểm yếu của Vực Ngoại Thiên Ma từ sớm.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Thu thập mẫu ma khí nghiên cứu điểm yếu của Vực Ngoại Thiên Ma từ sớm.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Gọi tập hợp các đại lão Chính-Ma tạm gác ân oán lập liên minh phòng thủ giới vực.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Gọi tập hợp các đại lão Chính-Ma tạm gác ân oán lập liên minh phòng thủ giới vực.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Tự thu nhỏ phạm vi bảo vệ động phủ, tích trữ vật tư chuẩn bị cho đại loạn thế.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Tự thu nhỏ phạm vi bảo vệ động phủ, tích trữ vật tư chuẩn bị cho đại loạn thế.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_351",
+    "numId": 351,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Một tòa thành thị phàm nhân rộng lớn sắp bị nước sông Hoàng Tuyền tràn ngập.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Dùng Trận Pháp và Pháp Bảo dời non lấp bể cứu sống trăm vạn dân chúng.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Dùng Trận Pháp và Pháp Bảo dời non lấp bể cứu sống trăm vạn dân chúng.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Thu thập nước sông Hoàng Tuyền làm vũ khí độc môn nhưng sơ tán kịp thời dân cư.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Thu thập nước sông Hoàng Tuyền làm vũ khí độc môn nhưng sơ tán kịp thời dân cư.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Không can thiệp vào quy luật tự nhiên để giữ gìn linh lực cho trận chiến sắp tới.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Không can thiệp vào quy luật tự nhiên để giữ gìn linh lực cho trận chiến sắp tới.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_352",
+    "numId": 352,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Được bầu làm **Minh Chủ** (hoặc Đại Trưởng Lão Tối Cao) của liên minh vùng.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Xây dựng hệ thống luật lệ chống lạm phát và phân phối bí cảnh công bằng cho mọi người.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Xây dựng hệ thống luật lệ chống lạm phát và phân phối bí cảnh công bằng cho mọi người.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          },
+          "rewardPool": "herb"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Sử dụng quyền lực minh chủ tập trung tài nguyên hiếm vào kế hoạch Phi Thăng.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Sử dụng quyền lực minh chủ tập trung tài nguyên hiếm vào kế hoạch Phi Thăng.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Từ chức minh chủ sau 10 năm để giữ vị thế Thái Thượng Ẩn Thế tự do tự tại.",
+        "successRateBase": 0.95,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Từ chức minh chủ sau 10 năm để giữ vị thế Thái Thượng Ẩn Thế tự do tự tại.",
+          "statDelta": {
+            "tamCanh": 6,
+            "hp": 24,
+            "tuVi": 144
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": 6
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_353",
+    "numId": 353,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Phát hiện dấu vết của **Tứ Tượng Thần Điện** — nơi thử thách 4 quy luật cơ bản.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Vượt cả 4 cửa ải Kim-Mộc-Thủy-Hỏa-Thổ để rèn luyện căn cơ Hóa Thần hoàn mỹ.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Vượt cả 4 cửa ải Kim-Mộc-Thủy-Hỏa-Thổ để rèn luyện căn cơ Hóa Thần hoàn mỹ.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Chỉ lấy phần thưởng qua 2 cửa an toàn rồi rút lui trước cửa thử thách cuối.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Chỉ lấy phần thưởng qua 2 cửa an toàn rồi rút lui trước cửa thử thách cuối.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Mời bằng hữu thân thiết cùng chia nhau gánh 4 phương hướng phá trận thu bảo vật.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Mời bằng hữu thân thiết cùng chia nhau gánh 4 phương hướng phá trận thu bảo vật.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_354",
+    "numId": 354,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Một vị **Thái Cổ Thần Thú** non lạc khỏi phong ấn ở Cấm Địa đang hấp hối.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Dùng đan dược cứu sống và ký khế ước đồng hành bình đẳng, mở khóa sức mạnh thần thú.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Dùng đan dược cứu sống và ký khế ước đồng hành bình đẳng, mở khóa sức mạnh thần thú.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "elixir"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Báo cho Thú Tộc đến đón về để kết thiện duyên với Yêu Hoàng phương Nam.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Báo cho Thú Tộc đến đón về để kết thiện duyên với Yêu Hoàng phương Nam.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Thu lấy một giọt tinh huyết chân thủy tổ rồi phóng thích nó về rừng sâu.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Thu lấy một giọt tinh huyết chân thủy tổ rồi phóng thích nó về rừng sâu.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_355",
+    "numId": 355,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Linh lực đan điền đã tràn đầy, chuẩn bị ngưng tụ **Nguyên Thần Hóa Thần**.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Bước ra khoảng không tinh cầu đón nhận thiên địa nguyên khí hóa thân vạn trượng.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Bước ra khoảng không tinh cầu đón nhận thiên địa nguyên khí hóa thân vạn trượng.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Lập 9 tầng đại trận phòng thủ dưới lòng đất để đột phá trong yên tĩnh tuyệt đối.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Lập 9 tầng đại trận phòng thủ dưới lòng đất để đột phá trong yên tĩnh tuyệt đối.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        },
+        "requirement": {
+          "minStat": {
+            "ngoTinh": 55
+          },
+          "label": "Cần Ngộ tính ≥ 55"
+        }
+      },
+      {
+        "key": "C",
+        "label": "Dùng Tiên Linh Tẩy Tủy Pháp gột sạch toàn bộ tạp chất trước khi bước vào Hóa Thần.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Dùng Tiên Linh Tẩy Tủy Pháp gột sạch toàn bộ tạp chất trước khi bước vào Hóa Thần.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_356",
+    "numId": 356,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Thương hội Vạn Bảo Các mời bạn làm **Khách Khanh Chí Tôn** phát thẻ Đen VIP.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Nhận thẻ Đen để tự do mua bán ở cấp Tiên Giới sơ khai với mức chiết khấu cao.",
+        "successRateBase": 0.82,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Nhận thẻ Đen để tự do mua bán ở cấp Tiên Giới sơ khai với mức chiết khấu cao.",
+          "statDelta": {
+            "linhThach": 990,
+            "tuVi": 180
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "linhThach": 270,
+            "khiVan": -1
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Yêu cầu thanh toán công lao bằng thông tin giải mã Thái Cổ Thần Văn.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Yêu cầu thanh toán công lao bằng thông tin giải mã Thái Cổ Thần Văn.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Từ chối ràng buộc khách khanh, giữ vị thế trung lập giao dịch sòng phẳng.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Từ chối ràng buộc khách khanh, giữ vị thế trung lập giao dịch sòng phẳng.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_357",
+    "numId": 357,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Đêm **Mặt Trời Lặn Kiếp** thử nghiệm quét qua 7 ngày: âm hồn quấy phá khắp nơi.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Dẫn đầu đệ tử thắp sáng Thái Dương Tinh Hỏa xua tan bóng tối bảo vệ lãnh địa.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Dẫn đầu đệ tử thắp sáng Thái Dương Tinh Hỏa xua tan bóng tối bảo vệ lãnh địa.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Thu thập hàng vạn âm hồn tinh thuần luyện chế bảo vật tinh thần hệ.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Thu thập hàng vạn âm hồn tinh thuần luyện chế bảo vật tinh thần hệ.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Ẩn mình trong trận pháp phòng ngự chờ mặt trời mọc trở lại an toàn.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Ẩn mình trong trận pháp phòng ngự chờ mặt trời mọc trở lại an toàn.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_358",
+    "numId": 358,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Gặp lại đối thủ truyền kiếp thuở **Tiềm Long Bảng** nay đã thành Ma Đầu khét tiếng.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Quyết một trận sinh tử giải quyết dứt điểm ân oán mấy trăm năm hồng trần.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Quyết một trận sinh tử giải quyết dứt điểm ân oán mấy trăm năm hồng trần.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "array"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Ngồi uống trà đàm đạo chuyện cũ, nhận ra cả hai đều chỉ là hạt bụi trước Đại Đạo.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Ngồi uống trà đàm đạo chuyện cũ, nhận ra cả hai đều chỉ là hạt bụi trước Đại Đạo.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Bắt tay hợp tác tạm thời để cùng chia kho báu trong một di tích thượng cổ.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Bắt tay hợp tác tạm thời để cùng chia kho báu trong một di tích thượng cổ.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_359",
+    "numId": 359,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "Nhận được lời mời từ **Trấn Thế Minh** hoặc **Nghịch Mệnh Hội** gia nhập tổ chức ẩn thế.",
+    "oneTime": false,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Gia nhập phe Thuận Thiên bảo vệ trật tự quy luật dòng thời gian vũ trụ.",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Gia nhập phe Thuận Thiên bảo vệ trật tự quy luật dòng thời gian vũ trụ.",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "ability"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Gia nhập Nghịch Mệnh Hội nghiên cứu cách phá bỏ gông xiềng lôi kiếp Thiên Đạo.",
+        "successRateBase": 0.64,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Gia nhập Nghịch Mệnh Hội nghiên cứu cách phá bỏ gông xiềng lôi kiếp Thiên Đạo.",
+          "statDelta": {
+            "tuVi": 396,
+            "nhucThan": 9,
+            "linhThach": 630
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "hp": -42,
+            "tuVi": 90
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Từ chối cả hai, đi theo con đường Độc Tôn tự chủ vận mệnh của riêng mình.",
+        "successRateBase": 0.9,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Từ chối cả hai, đi theo con đường Độc Tôn tự chủ vận mệnh của riêng mình.",
+          "statDelta": {
+            "congDuc": 15,
+            "khiVan": 3,
+            "tamCanh": 6,
+            "tuVi": 216
+          },
+          "daoShift": "thuan_thien"
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "congDuc": 6,
+            "hp": -12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ev_360",
+    "numId": 360,
+    "stage": 3,
+    "subStage": "251-500",
+    "title": "**Ngưỡng 500 Tuổi Đã Điểm**: bạn đã đứng trên đỉnh cao thế lực Hạ Giới.",
+    "oneTime": true,
+    "choices": [
+      {
+        "key": "A",
+        "label": "Bước vào hành trình tu luyện Quy Luật Thời-Không, hướng tới Luyện Hư và Phi Thăng!",
+        "successRateBase": 0.84,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án A và thực hiện thành công: Bước vào hành trình tu luyện Quy Luật Thời-Không, hướng tới Luyện Hư và Phi Thăng!",
+          "statDelta": {
+            "ngoTinh": 9,
+            "tuVi": 324,
+            "tamCanh": 6
+          },
+          "rewardPool": "ability"
+        },
+        "onFail": {
+          "narrative": "Phương án A gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "ngoTinh": 1,
+            "hp": -15
+          }
+        }
+      },
+      {
+        "key": "B",
+        "label": "Tổ chức đại điển củng cố truyền thừa tông môn trước khi bế quan dài hạn hàng nghìn năm.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án B và thực hiện thành công: Tổ chức đại điển củng cố truyền thừa tông môn trước khi bế quan dài hạn hàng nghìn năm.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án B gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      },
+      {
+        "key": "C",
+        "label": "Thu dọn hành trang bước ra Vực Ngoại Tinh Không tìm kiếm manh mối Thần Giới.",
+        "successRateBase": 0.86,
+        "onSuccess": {
+          "narrative": "Bạn chọn phương án C và thực hiện thành công: Thu dọn hành trang bước ra Vực Ngoại Tinh Không tìm kiếm manh mối Thần Giới.",
+          "statDelta": {
+            "tuVi": 288,
+            "nhucThan": 6,
+            "khiVan": 2
+          }
+        },
+        "onFail": {
+          "narrative": "Phương án C gặp trở ngại bất ngờ ngoài dự liệu, chỉ thu được chút kinh nghiệm.",
+          "statDelta": {
+            "tuVi": 108
+          }
+        }
+      }
+    ]
+  }
+]

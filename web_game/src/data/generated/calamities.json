@@ -1,0 +1,162 @@
+[
+  {
+    "id": "calamity_001",
+    "name": "Linh Khí Khô Kiệt Kiếp",
+    "description": "Thiên đạo tự động thu hồi toàn bộ linh khí hạ giới vào lõi hành tinh trong 1000 năm, khiến 90% tu sĩ cạn kiệt linh lực, thoái hóa thành người phàm và già chết.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "calamity_002",
+    "name": "Vạn Yêu Triều Tịch Kiếp",
+    "description": "Lõi đại dương phun trào yêu khí, kích động toàn bộ 200 con linh thú nổi điên, lao lên bờ thảm sát phá hủy toàn bộ bờ cõi nhân loại.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "calamity_003",
+    "name": "Thiên Ngoại Vẫn Thạch Kiếp",
+    "description": "Cơn mưa sao băng cấp thần ném hàng triệu thiên thạch rực lửa xuống hạ giới, san phẳng các đại tông môn.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "calamity_004",
+    "name": "Mặt Trời Lặn Kiếp",
+    "description": "Bầu trời tối đen suốt 100 năm không có ánh sáng mặt trời, âm hồn, quỷ dữ vùng dậy biến hạ giới thành địa ngục.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "calamity_005",
+    "name": "Hồng Thủy Trầm Luân",
+    "description": "Đại dương dâng cao ngập đến tận đỉnh núi cao nhất, ép tu sĩ phải chiến đấu giành giật từng hòn đảo nhỏ trôi nổi.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "calamity_006",
+    "name": "Đại Dịch Bệnh Tu Sĩ",
+    "description": "Một loại virus ma đạo chuyên ăn mòn đan điền lây lan khắp chư thiên hạ giới.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "calamity_007",
+    "name": "Địa Chấn Long Mạch",
+    "description": "Toàn bộ long mạch dưới lòng đất tự bạo, thay đổi hoàn toàn bản đồ thế giới, bí cảnh cổ đại lộ ra ngoài.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "calamity_008",
+    "name": "Thiên Ma Hạ Phàm Kiếp",
+    "description": "Vết nứt không gian vực xuất hiện tại tân thủ thôn, thả hàng triệu ma con xuống tàn sát.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "calamity_009",
+    "name": "Nhân Quả Đảo Lộn Kiếp",
+    "description": "Công pháp chính đạo tu luyện hóa thành ma công, ma công hóa chính đạo, khiến tu sĩ điên loạn đánh nhau.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "calamity_010",
+    "name": "Lôi Đình Tẩy Tủy Kiếp",
+    "description": "Mưa sấm sét bao phủ toàn bộ lục địa suốt một năm, đánh chết tất cả những tu sĩ có điểm nghiệp lực đen quấn thân.",
+    "group": "Hạ Giới Lượng Kiếp (Chu kỳ 10 vạn năm/lần - 10 Kiếp)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "calamity_011",
+    "name": "Kỷ Nguyên Thay Đổi Lượng Kiếp (1 triệu năm)",
+    "description": "Thiên đạo thanh lọc bớt số lượng Tiên nhân để giảm tải cho vũ trụ. Quy luật không gian cũ bị xóa bỏ, quy luật mới được thiết lập, ai không ngộ kịp sẽ bị nổ nát tiên thể.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_012",
+    "name": "Tinh Không Cự Thú Di Cư (10 triệu năm)",
+    "description": "Đàn quái thú ăn hành tinh di chuyển qua tiên giới, chúng nuốt chửng vài mươi tinh hệ sầm uất làm thức ăn dọc đường đi.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_013",
+    "name": "Vô Kỷ Nguyên Đại Kiếp (100 triệu năm)",
+    "description": "Thời gian của vũ trụ chạy ngược lại 1 vạn năm, khiến mọi thành quả xây dựng của các vị thần bị xóa nhòa, ép họ phải đánh nhau giành trục thời gian thật.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_014",
+    "name": "Thiên Đình Sụp Đổ Kịch Bản",
+    "description": "Trật tự chính đạo cai trị tối cao bị lung lay do hoàng đế thiên đình đột tử không rõ lý do, dẫn đến nội chiến vĩ mô phe phái.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_015",
+    "name": "Hư Không Nuốt Chửng Lượng Kiếp",
+    "description": "Vùng tối ranh giới vũ trụ mở rộng, nuốt chửng các dải ngân hà biên thùy vào cõi chết vĩnh hằng.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_016",
+    "name": "Tín Ngưỡng Sụp Đổ",
+    "description": "Phàm nhân ở tất cả hạ giới đồng loạt ngừng thờ phụng thần minh do tiếp thu khoa học hoặc bị diệt chủng, khiến các vị thần mất nguồn năng lượng lực tín ngưỡng, suy yếu nát thần cách.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_017",
+    "name": "Đại Chiến Thần Thú Thủy Tổ",
+    "description": "Thái Cổ Chân Long và Bất Diệt Phượng Hoàng xảy ra mâu thuẫn, dẫn động toàn bộ tộc rồng và tộc chim lao vào trận chiến diệt chủng xé rách trục vũ trụ.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_018",
+    "name": "Bản Nguyên Chi Dịch Khô Cạn",
+    "description": "Suối nguồn đại đạo ngưng chảy, các Thần Vương không còn năng lượng quy luật để hấp thụ, buộc phải đi giết nhau cướp thần cách của đồng nghiệp.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_019",
+    "name": "Vô Niệm Kiếm Khí Càn Quét",
+    "description": "Một vết nứt vực phun ra hàng tỷ tia kiếm ý cổ đại vô chủ, bay tự do tàn phá mọi kết cấu hành tinh tiên giới.",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "calamity_020",
+    "name": "Vũ Trụ Giả Lập Sụp Đổ (Đại Kiếp Tối Cao - 1 tỷ năm)",
+    "description": "MC phát hiện ra toàn bộ thế giới tu tiên từ hạ giới đến thần giới thực chất chỉ là một giấc mơ hoặc một vũ trụ giả lập của Bản Nguyên Vũ Trụ Thần Quy (Con rùa số 200). Con rùa già sắp tỉnh giấc đổi tư thế ngủ, đồng nghĩa với việc toàn bộ đa vũ trụ sẽ tan thành mây khói, mở ra trận chiến cuối cùng của MC: Đột phá ranh giới giả lập, bước ra thế giới thực tại!",
+    "group": "Tiên Giới / Thần Giới Đại Kiếp (Chu kỳ 1 triệu năm đến 1 tỷ năm - 20 Kiếp)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  }
+]

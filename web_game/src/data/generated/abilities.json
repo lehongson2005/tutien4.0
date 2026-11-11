@@ -1,0 +1,802 @@
+[
+  {
+    "id": "ability_001",
+    "name": "Tuế Nguyệt Như Đao",
+    "description": "Chém ra một đao không mang sát thương vật lý, nhưng tước đi 1.000 năm thọ nguyên của kẻ địch trong 1 tích tắc.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_002",
+    "name": "Thời Gian Ngưng Đọng",
+    "description": "Đóng băng toàn bộ thời gian trong bán kính vạn dặm, vạn vật đứng yên, chỉ có người thi triển được cử động.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_003",
+    "name": "Quá Khứ Chi Thân",
+    "description": "Triệu hồi bản thân của 10 năm trước hoặc kiếp trước lên để cùng chiến đấu.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_004",
+    "name": "Nghịch Chuyển Thời Không",
+    "description": "Đưa trạng thái cơ thể trở lại 3 giây trước để xóa bỏ mọi vết thương chí mạng vừa nhận.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_005",
+    "name": "Kinh Niên Nhất Mộng",
+    "description": "Khiến đối thủ sa vào ảo cảnh thời gian, tưởng mình đã tu luyện vạn năm nhưng thực chất ngoài đời mới trôi qua 1 nhịp thở.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_006",
+    "name": "Không Gian Đại Băng Sụp",
+    "description": "Khóa mục tiêu vào một vùng không gian rồi bóp nát, khiến nhục thân đối thủ vỡ vụn theo mảnh vỡ không gian.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_007",
+    "name": "Trích Tinh Đoạt Nguyệt",
+    "description": "Há mồm hoặc thò tay xuyên không gian sang một tinh cầu khác để chộp lấy bảo vật hoặc bóp chết kẻ thù.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_008",
+    "name": "Vạn Lý Thuấn Di",
+    "description": "Dịch chuyển tức thời sang một đại lục khác mà không cần dùng đến trận pháp truyền tống.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_009",
+    "name": "Chưởng Trung Càn Khôn",
+    "description": "Biến lòng bàn tay thành một thế giới độc lập, thu gọn một tòa thành hoặc một con cự thú vạn trượng vào trong tay.",
+    "group": "Nắm giữ hai quy luật tối cao của vũ trụ, kẻ sở hữu những chiêu này luôn là vô địch cùng cấp.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_010",
+    "name": "Hư Không Độn Tẩu",
+    "description": "Đồng hóa cơ thể vào khe nứt hư không, miễn nhiễm mọi đòn tấn công vật lý và pháp thuật ở thế giới thực.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_011",
+    "name": "Pháp Tượng Thiên Địa",
+    "description": "Hóa thân cao vạn trượng, đầu đội trời chân đạp đất, nhục thân mạnh lên gấp trăm lần, một quyền đấm vỡ tinh cầu.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_012",
+    "name": "Tam Đầu Lục Tý",
+    "description": "Mọc ra ba đầu sáu tay, ba đầu nhìn góc chết 360°, sáu tay cầm sáu món thần binh chiến đấu liên tục.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_013",
+    "name": "Bất Diệt Kim Thân",
+    "description": "Toàn thân hóa vàng ròng tinh khiết, bỏ qua mọi sát thương từ vũ khí dưới cấp Tiên khí.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_014",
+    "name": "Tích Huyết Trùng Sinh",
+    "description": "Chỉ cần còn một giọt máu chưa bốc hơi, linh hồn có thể từ giọt máu đó tái tạo lại toàn bộ nhục thân trong vài giây.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_015",
+    "name": "Thần Ma Trướng",
+    "description": "Biến cơ thể thành nửa Thần nửa Ma, tốc độ và lực công kích bùng nổ vượt cấp.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_016",
+    "name": "Chân Long Hóa",
+    "description": "Kích hoạt huyết mạch rồng, mọc sừng mọc vảy rồng, nhục thân đạt đến giới hạn cứng nhất của sinh vật.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_017",
+    "name": "Phượng Hoàng Niết Bàn",
+    "description": "Khi sắp chết, tự thiêu rụi bản thân bằng thần hỏa và hồi sinh trong trạng thái đỉnh phong mạnh hơn trước.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_018",
+    "name": "Thiên Nhãn Thông (Thần Nhãn)",
+    "description": "Mọc con mắt thứ ba giữa trán, nhìn thấu mọi ngụy trang, nhìn xuyên thấu bí cảnh và thấy trước quỹ đạo ra chiêu của địch.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_019",
+    "name": "Vạn Độc Bất Xâm",
+    "description": "Cơ thể tự chuyển hóa nọc độc của đối thủ thành linh lực bổ dưỡng để hấp thụ.",
+    "group": "Biến cơ thể thành vũ khí tối thượng, nhục thân thành thánh.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_020",
+    "name": "Túc Thông (Thần Hành)",
+    "description": "Bước một bước đạp lên các vì sao, tốc độ di chuyển vượt qua cả vận tốc ánh sáng.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_021",
+    "name": "Cửu Thiên Lôi Phạt",
+    "description": "Gọi hàng triệu tia Tử Tiêu Thần Lôi xuống dội bom một tông môn, xóa sổ vạn dặm thành tro bụi.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_022",
+    "name": "Kiếm Khí Trường Hà",
+    "description": "Triệu hồi một con sông dài làm bằng hàng tỷ thanh kiếm năng lượng càn quét chư thiên.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ability_023",
+    "name": "Diệt Thế Thần Quyền",
+    "description": "Gom toàn bộ linh khí của một hành tinh vào một nắm đấm để dập tắt sinh mệnh của đối thủ.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_024",
+    "name": "Thần Hỏa Phần Thiên",
+    "description": "Thả ra ngọn lửa mặt trời thiêu rụi hoàn toàn một đại lục, nước sông bốc hơi, đất đá hóa thủy tinh.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_025",
+    "name": "Thương Hải Tang Điền",
+    "description": "Triệu hồi đại dương ngập tràn Nhược thủy dâng lên nhấn chìm toàn bộ các đỉnh núi cao nhất.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_026",
+    "name": "Vạn Ma Triều Bái",
+    "description": "Ép toàn bộ yêu ma, tà tu trong vùng phải quỳ rạp xuống và hiến tế linh lực cho người thi triển.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_027",
+    "name": "Đạo Âm Chấn Phách",
+    "description": "Tiếng rống phá vỡ thần hồn, khiến tu sĩ dưới 1 đại cảnh giới nổ não mà chết.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_028",
+    "name": "Khai Thiên Nhất Kiếm",
+    "description": "Đường kiếm xé rách bầu trời, chia đôi lục địa thành hai nửa ranh giới rõ rệt.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_029",
+    "name": "Tử Khí Đông Lai",
+    "description": "Luồng khí tím từ phương Đông tràn đến vạn dặm, đi đến đâu hóa giải và đè bẹp ma công đến đó.",
+    "group": "Chiêu thức thuần sát thương, sinh ra để đồ sát và diệt môn.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_030",
+    "name": "Huyết Sát Diệt Hồn",
+    "description": "Sát khí ngưng tụ thành thực thể huyết đao, chém đứt sợi dây nhân quả sinh mệnh của mục tiêu.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_031",
+    "name": "Sưu Hồn Đại Pháp",
+    "description": "Thò tay vào đầu đối thủ, cưỡng bức đọc sạch toàn bộ ký ức, công pháp từ nhỏ đến lớn của họ (Nạn nhân sẽ thành kẻ ngốc).",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_032",
+    "name": "Đoạt Xá Phân Thân",
+    "description": "Tách một phần thần phách ký sinh vào não kẻ địch, biến họ thành nội gián nằm vùng mà không ai phát hiện.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_033",
+    "name": "Tâm Ma Dẫn Dắt",
+    "description": "Kích hoạt nỗi sợ hoặc lòng tham ẩn giấu trong lòng đối thủ, khiến họ tự bốc cháy tâm ma, tẩu hỏa nhập ma mà chết.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_034",
+    "name": "Lục Đạo Luân Hồi Nhãn",
+    "description": "Ánh mắt kéo linh hồn đối thủ vào 6 nẻo luân hồi, trải qua vạn kiếp làm súc sinh để mài mòn ý chí chiến đấu.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_035",
+    "name": "Di Hồn Đại Pháp",
+    "description": "Thôi miên, điều khiển hành vi của đối thủ theo ý muốn của mình trong thời gian ngắn.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_036",
+    "name": "Thần Thức Hóa Kim Tiêu",
+    "description": "Ngưng tụ sức mạnh tinh thần thành những cây kim vô hình phóng vào đan điền thần thức, chọc thủng Nguyên Anh của địch.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_037",
+    "name": "Vô Niệm Tịch Diệt",
+    "description": "Xóa bỏ hoàn toàn mọi cảm xúc, biến đối thủ thành một cái xác biết đi không có ý chí phản kháng.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_038",
+    "name": "Oán Linh Tụ Hội",
+    "description": "Triệu hồi linh hồn của những kẻ từng bị đối thủ giết chết về để quấy rối tâm trí chúng khi chiến đấu.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_039",
+    "name": "Thiên Nhĩ Thông",
+    "description": "Nghe được tiếng lòng, suy nghĩ và kế hoạch tác chiến trong đầu đối thủ từ khoảng cách vạn dặm.",
+    "group": "Tấn công thẳng vào não bộ và thần thức, khiến kẻ địch tự sát hoặc hóa điên.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_040",
+    "name": "Đại Nguyện Lực Thuật",
+    "description": "Sử dụng lực tín ngưỡng của hàng triệu tín đồ để tạo ra một vầng hào quang bẻ cong suy nghĩ của kẻ thù từ ác thành thiện (Tẩy não).",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_041",
+    "name": "Tuyệt Đối Giới Vực",
+    "description": "Tạo ra một màng bọc vô hình bán kính 3 mét xung quanh bản thân, miễn nhiễm 100% mọi loại quy luật ngoại lai trong 5 giây.",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_042",
+    "name": "Di Tinh Hoán Đẩu",
+    "description": "Chuyển dịch toàn bộ sát thương chí mạng vừa nhận sang một ngọn núi gần đó hoặc sang chính nhục thân của thuộc hạ kẻ thù.",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_043",
+    "name": "Mộc Linh Phục Sinh",
+    "description": "Hút sạch sinh mệnh lực của khu rừng vạn dặm xung quanh để nối liền tay chân bị chặt đứt ngay lập tức.",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_044",
+    "name": "Huyền Vũ Kết Giới",
+    "description": "Triệu hồi ảo ảnh rùa thần Huyền Vũ bọc lấy bản thân, gánh chịu đòn tấn công vượt 2 đại cảnh giới mà không vỡ.",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_045",
+    "name": "Tẩy Tủy Tịnh Hóa",
+    "description": "Ánh sáng thần thánh gột rửa hoàn toàn mọi hiệu ứng kịch độc, nguyền rủa hay ma khí quấn thân.",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_046",
+    "name": "Hóa Thần Vi Hư",
+    "description": "Biến cơ thể thành làn sương khói vô định hình, để mọi đòn tấn công vật lý xuyên qua như không khí.",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_047",
+    "name": "Bất Diệt Linh Tủy",
+    "description": "Tự động hồi phục linh lực liên tục với tốc độ chóng mặt, đánh ba ngày ba đêm không biết mệt.",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_048",
+    "name": "Kim Cương Sa Mạc",
+    "description": "Biến mặt đất dưới chân thành bãi cát lún kim cương giam cầm chân kẻ thù, bảo vệ bản thân.",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_049",
+    "name": "Nhân Quả Đảo Ngược",
+    "description": "Biến đòn tấn công của kẻ địch thành đòn hồi máu cho mình (Cực kỳ tiêu hao tiên thạch).",
+    "group": "Càng đánh càng khỏe, khiên dày như tường thành.",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_050",
+    "name": "Thiên Địa Đồng Thọ",
+    "description": "Mượn tạm thọ nguyên vạn năm của trời đất để gia cố hàng phòng ngự nhục thân lên mức tối đa.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_051",
+    "name": "Huyền Hoàng Khí Trấn Áp",
+    "description": "Gọi luồng khí nặng nhất vũ trụ xuống ép dẹt đối thủ xuống mặt đất, không đứng dậy nổi.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_052",
+    "name": "Cửu U Hắc Thủy Tế",
+    "description": "Biến nước sông Hoàng Tuyền thành cơn mưa axit ăn mòn tiên cốt.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_053",
+    "name": "Thần Hành Ngân Lôi Bộ",
+    "description": "Kích hoạt sấm sét dưới chân, di chuyển để lại tàn ảnh sấm sét gây tê liệt kẻ địch đuổi theo.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_054",
+    "name": "Vạn Khô Canh Kim Kiếm",
+    "description": "Kiếm khí hệ Kim mang đặc tính rỉ sét, chém trúng vũ khí đối thủ khiến vũ khí đó mất linh tính.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ability_055",
+    "name": "Thanh Liên Tâm Hỏa Trận",
+    "description": "Thả ra đóa sen lửa nổ từ trong tim đối thủ ra ngoài.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_056",
+    "name": "Ngũ Hành Nghịch Chuyển",
+    "description": "Đảo lộn thuộc tính của địch (Địch hệ Hỏa bị biến thành hệ Thủy, tự xung đột công pháp nội bộ).",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_057",
+    "name": "Băng Phong Vạn Niên",
+    "description": "Đóng băng ngay lập tức suy nghĩ và tốc độ vận chuyển linh lực của đối thủ trong 3 giây.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_058",
+    "name": "Hám Thiên Thuật",
+    "description": "Lắc lư làm điên đảo lực hấp dẫn của một vùng không gian, khiến địch cắm đầu xuống đất.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_059",
+    "name": "Thiên Sa Đại Địa",
+    "description": "Biến đá thành cát lún ăn thịt tu sĩ.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_060",
+    "name": "Ấn Ký Mặt Trời",
+    "description": "Đóng dấu một ký hiệu mặt trời lên người địch, khiến họ đi đến đâu cũng bị dị hỏa tự nhiên thiêu đốt.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_061",
+    "name": "Huyết Nguyệt Đương Không",
+    "description": "Triệu hồi mặt trăng máu làm giảm 50% phòng ngự của toàn bộ phe chính đạo.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_062",
+    "name": "Tinh Thần Vẫn Lạc",
+    "description": "Kéo một chòm sao trên trời rơi xuống làm bia đỡ đạn.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_063",
+    "name": "Nhược Thủy Trói Buộc",
+    "description": "Dùng dòng nước nhẹ nhất để quấn quanh vũ khí đối thủ, làm vũ khí nặng nghìn cân rơi rụng.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_064",
+    "name": "Địa Long Thức Tỉnh",
+    "description": "Biến các dải núi đá thành những con rồng đá khổng lồ tấn công thành trì.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_065",
+    "name": "Thập Phương Lôi Ngục",
+    "description": "Nhốt kẻ địch vào cái lồng làm bằng sấm sét tím, hễ chạm vào là nổ nát tay chân.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_066",
+    "name": "Mượn Kiếp Thuật",
+    "description": "Ép kẻ địch phải gánh hộ một phần lôi kiếp đột phá của mình.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_067",
+    "name": "Khí Vận Tước Đoạt",
+    "description": "Hút sạch màu sắc may mắn trên đầu kẻ địch, khiến họ xui xẻo đến mức vấp đá cũng gãy chân, ra chiêu bị phản phệ.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_068",
+    "name": "Thề Độc Ứng Nghiệm",
+    "description": "Ép đối thủ phải thực hiện đúng lời thề giang hồ từng nói, nếu không thần hồn tự bạo.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_069",
+    "name": "Nhân Quả Chi Dây",
+    "description": "Nhìn thấy sợi dây liên kết giữa kẻ thù và gia tộc họ, chém đứt sợi dây này làm toàn bộ người thân chúng đột tử.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_070",
+    "name": "Ngôn Xuất Pháp Tùy",
+    "description": "Nói cái gì trời đất biến thành cái đó (Nói \"Chết\" thì tu sĩ cấp thấp lập tức ngã ra chết).",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_071",
+    "name": "Thiên Cơ Che Giấu",
+    "description": "Khiến bản thân biến mất hoàn toàn khỏi quẻ bói của tất cả các đại toán sư vũ trụ.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_072",
+    "name": "Giả Heo Nuốt Hổ Thuật",
+    "description": "Che giấu hoàn toàn áp lực tu vi, hiện thị cấp độ Luyện Khí Kỳ để dụ đại lão chủ quan.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_073",
+    "name": "Đồng Tử Tế Bào",
+    "description": "Biến tế bào cơ thể thành những con trùng độc nhỏ lén ký sinh vào người đối thủ khi va chạm.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_074",
+    "name": "Mệnh Cách Đánh Đổi",
+    "description": "Tạm thời mượn Mệnh cách chí tôn của người khác để vượt qua kiếp nạn chết chóc.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_075",
+    "name": "Khí Vận Hóa Khiên",
+    "description": "Dùng độ may mắn của bản thân để tạo màng bọc chống đỡ đòn chí mạng.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_076",
+    "name": "Oán Khí Quấn Thân",
+    "description": "Gieo rắc khí đen xui xẻo vào túi trữ vật của địch, khiến bảo vật của chúng bị mất linh tính.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_077",
+    "name": "Thiên Đạo Trừng Phạt Ké",
+    "description": "Tự tạo ra hiện tượng giả như đối thủ đang làm loạn phàm trần để thiên đạo tự hạ lôi kiếp đánh đối thủ.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_078",
+    "name": "Nhân Duyên Đoạn Tuyệt",
+    "description": "Xóa sạch hình bóng và ký ức về mình trong đầu đạo lữ hoặc kẻ thù để dễ bề hành động ẩn danh.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ability_079",
+    "name": "Huyết Tế Vạn Sinh",
+    "description": "Tế bào vạn người dân phàm nhân để đổi lấy lực chiến bộc phát tăng 3 cảnh giới trong 1 giờ (Thần thông ma đạo cực ác).",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_080",
+    "name": "Tâm Quy Lĩnh",
+    "description": "Đưa mọi công pháp đối thủ đang vận hành về trạng thái sơ khai chưa kích hoạt.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_081",
+    "name": "Thao Thiết Chi Mồm",
+    "description": "Há miệng tạo hố đen nuốt chửng mọi chiêu thức năng lượng của địch vào bụng.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_082",
+    "name": "Cửu Vĩ Mê Hồn Nhãn",
+    "description": "Ánh mắt mị hoặc khiến đối thủ tự tay đâm chết sư phụ hoặc đồng đội.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_083",
+    "name": "Kim Ô Tật Hỏa Bộ",
+    "description": "Di chuyển nhanh để lại vệt lửa mặt trời thiêu rụi không gian.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_084",
+    "name": "Huyền Vũ Địa Chấn",
+    "description": "Đạp chân xuống đất làm sụp đổ toàn bộ trận pháp phòng ngự hệ thổ của địch.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_085",
+    "name": "Ưng Nhãn Khóa Mục Tiêu",
+    "description": "Khóa định vị đối thủ, dù trốn đến chân trời góc bể thì chiêu thức phóng ra vẫn tự đuổi theo trúng đích.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_086",
+    "name": "Minh Hà Triệu Hồi",
+    "description": "Triệu hồi một nhánh sông cõi âm lên ăn mòn linh phách kẻ sống.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_087",
+    "name": "Khôi Lỗi Sợi Chỉ",
+    "description": "Phóng ra những sợi tơ vô hình cắm vào kinh mạch đối thủ để điều khiển họ như búp bê.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_088",
+    "name": "Bóng Đêm Đồng Hóa",
+    "description": "Chuyển dịch vết thương của mình sang cái bóng dưới đất của kẻ thù.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_089",
+    "name": "Cự Viên Hóa",
+    "description": "Biến thành khỉ đột cổ đại, vỗ ngực tạo sóng âm làm vỡ nát phi thuyền pháp bảo.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_090",
+    "name": "Tinh Không Ký Sinh",
+    "description": "Linh hồn phân tách thành hàng triệu đốm sáng bám vào các vì sao, bất tử nếu các vì sao chưa tắt.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_091",
+    "name": "Nho Thánh Khí Hạo Nhiên",
+    "description": "Đọc một bài thơ, chữ vàng bay ra bao vây hóa giải ma khí.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_092",
+    "name": "Đỉnh Lô Đồng Hóa",
+    "description": "Ép đối thủ phải chia sẻ một nửa linh lực sang cho mình thông qua tiếp xúc da thịt.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_093",
+    "name": "Tán Tài Thần Thông",
+    "description": "Ép đối thủ phải tự động rơi rụng hết linh thạch, bảo vật trong túi trữ vật ra ngoài đất.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_094",
+    "name": "Nhật Thực Toàn Phần",
+    "description": "Che khuất mặt trời toàn vũ trụ cục bộ để tăng 200% sức mạnh cho các chiêu thức hệ ma ám.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "ability_095",
+    "name": "Thần Thủy Tẩy Tủy",
+    "description": "Biến máu mình thành nước thánh có khả năng chữa lành cho đồng đội diện rộng.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_096",
+    "name": "Không Gian Lồng Giam",
+    "description": "Nhốt kẻ địch vào khối lập phương thủy tinh không có không khí và linh khí để chết ngạt.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "ability_097",
+    "name": "Bào Thai Mười Năm Ấn Ký",
+    "description": "Nguyền rủa đối thủ bị thu nhỏ về trạng thái thai nhi, mất hết sức chiến đấu trong 10 phút.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "ability_098",
+    "name": "Thiên Đạo Sủng Nhi Quang",
+    "description": "Vầng hào quang khiến linh thú nhìn thấy là muốn lại gần liếm tay ký khế ước, cấm đánh đập.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "ability_099",
+    "name": "Gương Thần Sao Chép",
+    "description": "Tạo ra một bản sao bóng tối của đối thủ có 100% lực chiến để chúng tự đánh nhau.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ability_100",
+    "name": "Bản Nguyên Thần Quy Định Định (Chiêu cuối phá vỡ giả lập)",
+    "description": "Đóng băng toàn bộ đa vũ trụ (bao gồm cả Thiên đạo) bằng cách đánh động vào giấc ngủ của Con rùa vũ trụ vĩ đại, ép thế giới dừng vận hành để MC làm loạn.",
+    "group": "VI. 50 Đại Thần Thông Độc Lạ, Biến Dị Khác (Tạo điểm nhấn kịch tính)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  }
+]

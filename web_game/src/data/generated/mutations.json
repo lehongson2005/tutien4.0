@@ -1,0 +1,242 @@
+[
+  {
+    "id": "mutation_001",
+    "name": "Cửu U Minh Hỏa",
+    "description": "Lửa màu đen sinh ra từ cõi âm, chuyên đốt cháy linh hồn chứ không cháy nhục thân.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "mutation_002",
+    "name": "Thủy Tinh Thanh Liên Hỏa",
+    "description": "Lửa hình hoa sen xanh sinh ra ở lõi núi lửa ngàn năm, dùng luyện đan tăng 50% tỷ lệ thành đan cực phẩm.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "mutation_003",
+    "name": "Thái Dương Tinh Hỏa",
+    "description": "Ngọn lửa vàng tinh khiết từ mặt trời, thiên địch của mọi loại ma khí và âm hồn.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "mutation_004",
+    "name": "Hư Không Phệ Linh Hỏa",
+    "description": "Lửa trong suốt sống trong vết nứt không gian, có thể ăn linh lực của đối thủ để tự lớn mạnh.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "mutation_005",
+    "name": "Cốt Linh Lãnh Hỏa",
+    "description": "Lửa màu trắng xám, sờ vào thấy lạnh thấu xương nhưng thực chất là nhiệt độ cực cao làm đóng băng vạn vật.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "mutation_006",
+    "name": "Huyết Hải Ma Hỏa",
+    "description": "Lửa đỏ sậm sinh ra từ máu của vạn người chết, mang sát thương ăn mòn binh khí.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "mutation_007",
+    "name": "Đại Đạo Huyền Hoàng Hỏa",
+    "description": "Ngọn lửa mang khí huyền hoàng từ thuở khai thiên, giúp rèn đúc thần binh khai thiên dễ dàng.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "mutation_008",
+    "name": "Vạn Dược Tinh Hỏa",
+    "description": "Lửa màu xanh lá, bẩm sinh có khả năng tự động lọc sạch 100% đan độc khi luyện thuốc.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "mutation_009",
+    "name": "Hủy Diệt Tử Hỏa",
+    "description": "Lửa tím mang năng lượng bộc phá, một tia nhỏ có thể làm nổ tung một ngọn núi.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_010",
+    "name": "Tín Ngưỡng Linh Hỏa",
+    "description": "Lửa thắp sáng bằng lực cầu nguyện của phàm nhân, bất diệt trước mưa gió bão bùng.",
+    "group": "Thiên Địa Dị Hỏa (10 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_011",
+    "name": "Nhược Thủy Tam Thiên",
+    "description": "Loại nước nhẹ đến mức một chiếc lông chim cũng không nổi lên được, ăn mòn mọi loại giáp trụ vật lý.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_012",
+    "name": "Hoàng Tuyền Tử Vong Thủy",
+    "description": "Nước sông Hoàng Tuyền cõi âm, chạm vào da là tiên thể lập tức thối rữa hóa thành xương khô.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_013",
+    "name": "Vạn Niên Băng Tủy Thủy",
+    "description": "Nước siêu lạnh, một giọt có thể biến cả một hồ nước lớn thành băng vĩnh cửu.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_014",
+    "name": "Sinh Mệnh Nguyên Thủy Thủy",
+    "description": "Nước chứa sinh mệnh lực tối cao, giúp nối liền tay chân bị chặt đứt trong vài giây.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_015",
+    "name": "Huyền Minh Trọng Thủy",
+    "description": "Một giọt nước nặng bằng cả một quả núi, dùng để ném vỡ nát nhục thân kẻ địch.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_016",
+    "name": "Thiên Sương Ảo Ảnh Thủy",
+    "description": "Nước bốc hơi tạo thành sương mù ảo cảnh bách độc.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_017",
+    "name": "Ngũ Hành Hỗn Độn Thủy",
+    "description": "Nước chứa cả 5 thuộc tính ngũ hành cân bằng, dùng để tẩy tủy cải tạo kinh mạch rác rưởi.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "mutation_018",
+    "name": "Ma Huyết Thực Cốt Thủy",
+    "description": "Nước độc của ma tộc, chuyên làm tan chảy tiên cốt của tu sĩ chính đạo.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "mutation_019",
+    "name": "Tinh Thần Ngân Hà Thủy",
+    "description": "Nước chảy từ dải ngân hà lấp lánh bụi sao, giúp tăng mạnh sức mạnh thần thức khi uống.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "mutation_020",
+    "name": "Tẩy Trần Tiên Thủy",
+    "description": "Nước rửa sạch mọi bụi trần phàm tục, giúp tu sĩ hạ giới dễ dàng thích nghi với tiên khí khi phi thăng.",
+    "group": "Thiên Địa Dị Thủy (10 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "mutation_021",
+    "name": "Cửu Thiên Tử Tiêu Thần Lôi",
+    "description": "Sét màu tím đậm, loại lôi kiếp mạnh nhất thiên đạo dùng để trừng phạt kẻ nghịch thiên.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "mutation_022",
+    "name": "Huyền Hoàng Diệt Thế Lôi",
+    "description": "Sét màu vàng khè, vỗ xuống một phát xé rách màng bảo vệ tinh cầu.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "mutation_023",
+    "name": "Ma Sát Đen Lôi",
+    "description": "Sét mang ma tính bẩm sinh, vừa đánh vật lý vừa gieo rắc tâm ma vào đầu đối thủ.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "mutation_024",
+    "name": "Âm Dương Hỗn Hợp Lôi",
+    "description": "Hai tia sét trắng và đen đan xen, phá hủy sự cân bằng năng lượng trong đan điền kẻ địch.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "mutation_025",
+    "name": "Thần Hành Tật Lôi",
+    "description": "Sét tốc độ ánh sáng, dùng để tích hợp vào chân tăng tốc độ di chuyển lên cực hạn.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "mutation_026",
+    "name": "Phá Pháp Ngân Lôi",
+    "description": "Sét bạc chuyên đánh rách nát các trận pháp phòng ngự kiên cố nhất.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "mutation_027",
+    "name": "Tâm Linh Thính Lôi",
+    "description": "Tiếng sét không phát ra âm thanh ngoài đời mà nổ thẳng trong đầu, làm choáng váng thần hồn đối thủ.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "mutation_028",
+    "name": "Vạn Thú Huyết Lôi",
+    "description": "Sét màu đỏ do oán khí của vạn yêu thú tụ lại, chuyên đánh tê liệt linh thú hộ pháp.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "mutation_029",
+    "name": "Càn Khôn Không Gian Lôi",
+    "description": "Sét đánh ra làm sụp đổ kết cấu không gian xung quanh mục tiêu, nhốt họ vào hư không.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "mutation_030",
+    "name": "Thủy Tổ Thần Lôi",
+    "description": "Tia sét đầu tiên từ thuở sơ khai vũ trụ, nắm giữ quy luật khởi nguyên.",
+    "group": "Thiên Địa Dị Lôi (10 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  }
+]

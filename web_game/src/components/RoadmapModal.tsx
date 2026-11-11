@@ -21,22 +21,22 @@ export const PROJECT_MILESTONES: RoadmapMilestone[] = [
     version: 'v0.2',
     title: 'Pipeline Dữ Liệu 36 File Lore & 370+ Biến Cố Có Chỉ Số',
     summary:
-      'Chuyển hóa 30 cảnh giới, 100 xuất thân, 200 thể chất/công pháp/pháp bảo/linh thú... cùng kịch bản 4 giai đoạn thành JSON chuẩn.',
-    status: 'in_progress',
+      'Chuyển hóa 30 cảnh giới, 100 xuất thân, 200 thể chất/công pháp/pháp bảo/linh thú... cùng 370 biến cố 4 giai đoạn thành JSON chuẩn.',
+    status: 'done',
   },
   {
     version: 'v0.3',
     title: 'Game Engine 4 Giai Đoạn (TDD)',
     summary:
-      'Tu luyện, Đột phá/Tâm ma/Lôi kiếp, Lạm phát Linh thạch, Nghề phụ, Tông môn, Quy luật Giai đoạn 4, Đoạt xá / Luân hồi / Xác ướp.',
-    status: 'pending',
+      'Tu luyện, Đột phá/Tâm ma/Lôi kiếp, Lạm phát Linh thạch, Nghề phụ, Tông môn/Tán tu, Quy luật Giai đoạn 4, Đoạt xá / Luân hồi / Xác ướp.',
+    status: 'done',
   },
   {
     version: 'v0.4',
     title: 'Giao Diện 5 Tab Đầy Đủ & Tàng Kinh Các',
     summary:
       'Hoàn thiện Hành Trình A/B/C, Tu Luyện, Túi & Chợ, Thế Giới, Tàng Kinh Các và Lưu/Xuất Save.',
-    status: 'pending',
+    status: 'in_progress',
   },
   {
     version: 'v1.0',

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "prof_001",
+    "name": "Luyện Khí Sư",
+    "description": "Rèn đúc vũ khí, giáp trụ, phi thuyền và linh khí bọc bảo vệ.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "prof_002",
+    "name": "Phù Sư",
+    "description": "Vẽ bùa chú bộc phá, ẩn thân, hoặc bùa phong ấn năng lượng vào giấy ngọc.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "prof_003",
+    "name": "Khôi Lỗi Sư",
+    "description": "Chế tạo rối máy, bù nhìn chiến đấu từ xương yêu thú và hợp kim.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "prof_004",
+    "name": "Trận Pháp Sư",
+    "description": "Bố trí đại trận hộ sơn, tụ linh trận hoặc sát trận vây địch.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "prof_005",
+    "name": "Đúc Tiền Sư",
+    "description": "Nghề nghiệp hiếm, chuyên trích xuất tiên khí để đúc thành tiền tệ chuẩn.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "prof_006",
+    "name": "Mực Sư (Mặc Sư)",
+    "description": "Chế tạo các loại mực linh tủy biến dị chuyên dụng để vẽ phù hoặc xăm trận pháp lên da.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "prof_007",
+    "name": "Linh Sức Sư",
+    "description": "Chế tạo trang sức auxiliary như nhẫn trữ vật, dây chuyền định thần.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "prof_008",
+    "name": "Binh Hồn Sư",
+    "description": "Chuyên chôn giấu và nuôi dưỡng \"ý thức\" (Khí linh) vào trong vũ khí.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "prof_009",
+    "name": "Động Phủ Sư",
+    "description": "Kiến trúc sư thiết kế không gian ngầm, phong thủy động phủ cho đại lão.",
+    "group": "Nhóm Chế Tạo & Rèn Đúc (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_010",
+    "name": "Tương Khảm Sư",
+    "description": "Thợ khảm nạm thiên thạch, yêu đan vào các rãnh trang bị để kích hoạt thuộc tính ẩn.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_011",
+    "name": "Linh Thú Sư (Ngự Thú Sư)",
+    "description": "Thuần hóa, ký khế ước và kích hoạt huyết thống cho 200 con linh thú.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_012",
+    "name": "Linh Thực Sư (Mộc Sư)",
+    "description": "Canh tác, bón phân tiên dịch, ép chín cho linh thảo, thần dược.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_013",
+    "name": "Đan Sư",
+    "description": "Luyện chế đan dược chữa thương, đột phá và cải tử hoàn sinh.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_014",
+    "name": "Phệ Trùng Sư",
+    "description": "Nuôi dưỡng và điều khiển các đàn trùng độc như Kiến ăn vàng, Bướm mặt quỷ.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_015",
+    "name": "Huyết Mạch Sư",
+    "description": "Chuyên nghiên cứu, dung hợp và bóc tách 200 loại thể chất/huyết thống cổ đại.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_016",
+    "name": "Tầm Long Sư",
+    "description": "Thầy phong thủy đi tìm long mạch, định vị các mỏ linh thạch chôn sâu.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_017",
+    "name": "Cầm Sư (Âm Nhạc Sư)",
+    "description": "Dùng tiếng đàn, tiếng sáo để trị liệu tâm ma hoặc giết địch diện rộng.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "prof_018",
+    "name": "Độc Sư",
+    "description": "Chế tạo các loại kịch độc vô hình vô dạng, chuyên đi ám hại phá hoại kinh mạch.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "prof_019",
+    "name": "Linh Trà Sư",
+    "description": "Trồng và pha chế linh trà ngộ đạo, giúp tăng tốc độ thấu hiểu quy luật.",
+    "group": "Nhóm Nuôi Dưỡng & Sinh Vật (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "prof_020",
+    "name": "Táng Sư",
+    "description": "Chuyên an táng đại lão để giữ nguyên vẹn phong thủy, tránh xác chết hóa ma.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "prof_021",
+    "name": "Kẻ Tìm Vàng (Tầm Bảo Sư)",
+    "description": "Chuyên đi săn lùng phế tích, phát hiện đồ cổ thật giả.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "prof_022",
+    "name": "Phu Mỏ Linh Thạch",
+    "description": "Khai thác đá năng lượng ở các vùng địa tầng nguy hiểm.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "prof_023",
+    "name": "Thợ Săn Yêu Đan",
+    "description": "Chuyên đi săn lùng và lột da, róc xương các loài hung thú thái cổ.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "prof_024",
+    "name": "Hư Không Thái Giả",
+    "description": "Thợ lặn vớt các mảnh vỡ bảo vật trôi nổi trong vết nứt không gian.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "prof_025",
+    "name": "Thải Dược Nhân",
+    "description": "Người liều mạng leo vách đá cấm địa để hái linh thảo ngàn năm.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "prof_026",
+    "name": "Nguyện Lực Sư",
+    "description": "Thu thập lực tín ngưỡng từ phàm nhân để đúc thành thần cách.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "prof_027",
+    "name": "Hồn Sư",
+    "description": "Thu thập tàn hồn, chiến hồn trên chiến trường về để luyện khí hoặc thẩm vấn.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "prof_028",
+    "name": "Huyết Hải Ngư Nhân",
+    "description": "Thợ lặn vớt san hô ngọc tủy dưới đáy các vùng biển chết.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "prof_029",
+    "name": "Chấp Pháp Ma Thú Giả",
+    "description": "Người chuyên đi bắt giữ linh thú sổng chuồng quậy phá.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "prof_030",
+    "name": "Thiên Cơ Toán Sư",
+    "description": "Thầy bói toán dùng mai rùa để tính toán vị trí bảo vật xuất thế.",
+    "group": "Nhóm Thu Thập & Khai Thác (10 Nghề)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

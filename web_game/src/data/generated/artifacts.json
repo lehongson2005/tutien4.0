@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "artifact_001",
+    "name": "诛仙剑 (Tru Tiên Kiếm)",
+    "description": "Thanh kiếm đứng đầu sát lục, một kiếm chém ra quỷ khóc thần sầu.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_002",
+    "name": "戮仙剑 (Lục Tiên Kiếm)",
+    "description": "Mang sát ý tuyệt đối, chuyên môn hủy diệt nhục thân tiên nhân.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_003",
+    "name": "Hãm Tiên Kiếm",
+    "description": "Kiếm khí hóa thành đầm lầy, vây hãm không gian khiến kẻ thù không thể di chuyển.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_004",
+    "name": "Tuyệt Tiên Kiếm",
+    "description": "Tuyệt diệt mọi sinh cơ, vết thương do kiếm chém không thể chữa lành.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_005",
+    "name": "Khai Thiên Phủ (Rìu Khai Thiên)",
+    "description": "Rìu thần cự đại, một rìu có thể chẻ đôi một đại lục hoặc tinh cầu.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_006",
+    "name": "Thần Ma Thí Huyết Thương",
+    "description": "Thương dài màu đen, càng đâm trúng mục tiêu càng hút máu để mạnh lên.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_007",
+    "name": "Nhân Hoàng Kiếm",
+    "description": "Thanh kiếm đúc từ ý chí và khí vận của nhân tộc, khắc chế yêu ma.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_008",
+    "name": "Thái Cổ Long Nha Đao",
+    "description": "Đao bách chiến rèn từ răng của tổ long, mang long uy chấn nhiếp vạn thú.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_009",
+    "name": "Diệt Thế Thần Lôi Chùy",
+    "description": "Cặp búa rèn từ thiên kiếp lôi dịch, gõ một cái vạn dặm lôi đình rơi xuống.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_010",
+    "name": "Tử Tiêu Thần Kiếm",
+    "description": "Kiếm chính đạo, mang tử điện lôi quang chuyên khắc chế tà tu.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_011",
+    "name": "Hỗn Độn Thí Thần Cung",
+    "description": "Cung thần không cần tên, kéo dây cung tự động ngưng tụ hỗn độn tiễn khí.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_012",
+    "name": "Cửu u oán Hồn Phiên",
+    "description": "Lá cờ chứa hàng vạn oán hồn, vẫy một cái mây đen che trời, tà khí ngút ngàn.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_013",
+    "name": "Vạn Độc Xuyên Tâm Châm",
+    "description": "Hàng ngàn mũi kim độc nhỏ như lông trâu, xuất quỷ nhập thần, chuyên phá hộ thân linh lực.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_014",
+    "name": "Phục Ma Kim Cang Chùy",
+    "description": "Pháp bảo Phật môn, nặng ngàn cân, vung xuống dập tắt mọi ma tính.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_015",
+    "name": "Thần Hoàng Trảm Tiên Đao",
+    "description": "Thanh đao mỏng như cánh ve, chém ra đao khí sắc bén nung chảy không gian.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_016",
+    "name": "Bá Thiên Chấn Địa Đao",
+    "description": "Đại đao mang bá khí ngút trời, thích hợp cho tu sĩ tu luyện nhục thân.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_017",
+    "name": "Cửu Thiên Huyền Lôi Tiễn",
+    "description": "Mũi tên mang theo sức mạnh của chín tầng lôi kiếp, bắn ra là truy kích đến chết.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_018",
+    "name": "Huyết Đồ Ma Nhận",
+    "description": "Đoản đao khát máu, chém trúng sinh linh sẽ khiến máu của họ tự bốc cháy.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_019",
+    "name": "Bạch Cốt Liệt Thiên Trảo",
+    "description": "Vũ khí đeo tay làm từ xương tay hung thú thái cổ, xé rách mọi loại giáp trụ.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_020",
+    "name": "Canh Kim Phá Giáp Châm",
+    "description": "Mũi kim làm từ Canh Kim tinh thuần, chuyên dùng để đâm thủng trận pháp phòng ngự.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_021",
+    "name": "Nhược Thủy Hàn Băng Kiếm",
+    "description": "Kiếm khí mềm mại như nước nhưng mang cái lạnh thấu xương của cực bắc.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_022",
+    "name": "Xích Dương Phá ma Kích",
+    "description": "Cây kích dài rực lửa, một kích quét ngang quét sạch vạn khoảnh tà ma.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_023",
+    "name": "Vô ảnh phi đao",
+    "description": "Phi đao tàng hình, không có khí tức, chuyên dùng để ám sát các đại lão cấp cao.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_024",
+    "name": "Hoàng Tuyền Trảm Hồn Kiếm",
+    "description": "Thanh kiếm rèn từ nước sông Hoàng Tuyền, chém thẳng vào nguyên thần người khác.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_025",
+    "name": "Thái Sơ Hỗn Nguyên thương",
+    "description": "Cây thương cổ xưa nhất, mang sức mạnh nguyên thủy chưa phân tách của vũ trụ.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_026",
+    "name": "Địa Sát Toái cốt Chùy",
+    "description": "Cự chùy hấp thụ sát khí lòng đất, một đòn nện xuống vỡ nát xương cốt.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_027",
+    "name": "Hỏa Lân Thiên Ma Đao",
+    "description": "Đao mang vảy rồng lửa, chém ra hỏa long cuộn trào thiêu rụi thành trì.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_028",
+    "name": "Vạn Quỷ Phệ Hồn Phiên",
+    "description": "Lá cờ triệu hoán vạn ác quỷ đến cắn xé linh hồn đối thủ.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_029",
+    "name": "Ngũ Hành Nghịch Chuyển Kiếm",
+    "description": "Thanh kiếm mang 5 màu, có thể thay đổi thuộc tính khắc chế đối phương linh hoạt.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_030",
+    "name": "Thiên Hoang Chưởng Không Ấn",
+    "description": "Chiếc ấn lớn khi ném ra to như ngọn núi, đè bẹt mọi đối thủ bên dưới.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_031",
+    "name": "Ly Hỏa Phần Thiên Phiến",
+    "description": "Chiếc quạt làm từ lông vũ Chu Tước, quạt một cái biển lửa ngập trời.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_032",
+    "name": "Tử ma Khấp Huyết Đao",
+    "description": "Thanh đao ma đạo phát ra tiếng khóc thê lương làm nhiễu loạn tâm trí kẻ thù.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_033",
+    "name": "U Minh Quỷ vương Trảo",
+    "description": "Đôi găng tay móng vuốt mang theo tử khí của diêm vương địa phủ.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_034",
+    "name": "Tinh Thần Vạn Hóa Cung",
+    "description": "Cung thần lấy ánh sáng của các vì tinh tú làm dây cung và tên bắn.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_035",
+    "name": "Bàn Cổ Khai Sơn Đao",
+    "description": "Thanh đao mang sức mạnh cơ bắp và thổ thuộc tính tối cao, chẻ đôi ngọn núi lớn.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_036",
+    "name": "Thiên Địa Hoán Tâm Trảo",
+    "description": "Vuốt thép mảnh, có thể xuyên qua lồng ngực bóp nát trái tim đối thủ trong nháy mắt.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_037",
+    "name": "Tật Phong Truy Hồn Kiếm",
+    "description": "Thanh kiếm mỏng nhẹ, tốc độ ra chiêu nhanh gấp mười lần kiếm thông thường.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_038",
+    "name": "Hắc Am Hủy Diệt thương",
+    "description": "Cây thương mang năng lượng hắc ám, đâm đến đâu ánh sáng biến mất đến đó.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_039",
+    "name": "Hồng Hoang Sát Lục Đao",
+    "description": "Đao rèn trong huyết hải, sát khí ngưng tụ thành thực thể bao quanh thân đao.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_040",
+    "name": "Tượng vương Thần Lực Chùy",
+    "description": "Cặp búa mang sức mạnh của mười vạn con voi thần thượng cổ.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_041",
+    "name": "Lam Hải Chấn Thiên Kích",
+    "description": "Ba chĩa của hải vương, khuấy động vây hãm cả một vùng biển lớn.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_042",
+    "name": "Như Ý Kim Cang Bảng",
+    "description": "Thanh gậy có thể co giãn dài ngắn, nặng nhẹ theo ý muốn của chủ nhân.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_043",
+    "name": "Ất Mộc Phược Thần Ty",
+    "description": "Sợi tơ mộc hệ sắc bén vừa trói buộc vừa hút cạn linh lực đối phương.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_044",
+    "name": "Băng Phách Thần Châm",
+    "description": "Mũi kim băng vĩnh cửu, găm vào kinh mạch sẽ đóng băng toàn bộ dòng chảy linh lực.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_045",
+    "name": "Phong Lôi Diệt Thế Đao",
+    "description": "Đao khí đi kèm cả gió lốc và sấm sét, công kích diện rộng cực mạnh.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_046",
+    "name": "Thí Thần Đoản Thủy Chủy",
+    "description": "Dao găm nhỏ có khả năng chặn đứng dòng chảy phục hồi nhục thân của cấp Thần.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_047",
+    "name": "Tử Viêm Thần Ma Phủ",
+    "description": "Rìu lớn bốc cháy ngọn lửa tím mang ma tính bạo liệt.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_048",
+    "name": "Thiên Mệnh Trảm Tà Kiếm",
+    "description": "Kiếm mang khí vận cứu thế, sát thương nhân đôi lên ma tu và tà túy.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_049",
+    "name": "Cực Tốc Đoạt Mệnh Tiễn",
+    "description": "Mũi tên găm sẵn trận pháp bạo kích tốc độ, vừa bắn ra đã trúng mục tiêu.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_050",
+    "name": "Vô Thượng Chân ma Thương",
+    "description": "Vũ khí tối cao của Ma vương, một thương đâm chết cả một phân thân Tiên giới.",
+    "group": "I. Nhóm Công Kích / Thần Binh Lợi Khí (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_051",
+    "name": "天地 Huyền Hoàng Lĩnh Lung Bảo Tháp",
+    "description": "Tháp bảo đứng đầu phòng ngự, treo trên đỉnh đầu rơi xuống huyền hoàng khí, vạn pháp bất xâm.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_052",
+    "name": "Thần Hoàng Tinh Thần Đồ",
+    "description": "Bức tranh cuộn khi mở ra hóa thành một bầu trời sao bọc lấy chủ nhân, hóa giải mọi đòn đánh.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_053",
+    "name": "Cửu Long Thần Hỏa đỉnh",
+    "description": "Chiếc đỉnh lớn vừa dùng để luyện đan vừa dùng để úp xuống phòng ngự, có 9 con rồng lửa bảo hộ.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_054",
+    "name": "Bát Quái Kính",
+    "description": "Chiếc gương đồng phản chiếu và bật ngược lại 50% sát thương pháp thuật của đối phương.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_055",
+    "name": "Kim Cang Bất Hoại Giáp",
+    "description": "Áo giáp đúc từ vàng ròng và xá lợi của các vị cao tăng, đao thương bất nhập.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_056",
+    "name": "Thái m Độc Long Khiên",
+    "description": "Chiếc khiên làm từ da và vảy của độc long, phản phệ kịch độc khi bị tấn công.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_057",
+    "name": "Thanh Liên Hộ Thể Đỉnh",
+    "description": "Chiếc đỉnh tỏa ra hào quang hoa sen xanh, hồi phục sinh mệnh liên tục cho chủ nhân.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_058",
+    "name": "Huyền Vũ Linh Quy Giáp",
+    "description": "Bộ giáp làm từ mai rùa Huyền Vũ thái cổ, lực phòng ngự vật lý mạnh nhất thế giới.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_059",
+    "name": "Hư Vô Độn Không Thuẫn",
+    "description": "Chiếc khiên có thể tạm thời dịch chuyển đòn tấn công của kẻ thù vào không gian khác.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_060",
+    "name": "Tử Kim Hộ Tâm Kính",
+    "description": "Miếng hộ tâm đeo trước ngực, chống đỡ một đòn chí mạng phá hủy đan điền.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_061",
+    "name": "Ngũ Sắc Thần Quang Y",
+    "description": "Chiếc áo dệt từ lông khổng tước ngũ sắc, miễn nhiễm hoàn toàn với ngũ hành pháp thuật cấp thấp.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_062",
+    "name": "Đại Địa Hậu Thổ Khiên",
+    "description": "Khiên lớn cắm xuống đất sẽ mượn lực lượng của đại địa tạo thành bức tường thành kiên cố.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_063",
+    "name": "Băng Phách Hàn Quang Thuẫn",
+    "description": "Khiên làm bằng băng vĩnh cửu, kẻ địch đánh vào nhục thân sẽ bị làm chậm và đông cứng.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_064",
+    "name": "Vĩnh Hằng Bất Diệt Bào",
+    "description": "Áo choàng tự động phục hồi khi bị rách, cung cấp khả năng kháng độc và kháng nguyền rủa.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_065",
+    "name": "Thiên Thần Hộ Thể Giáp",
+    "description": "Bộ giáp của thiên binh thần tướng, tỏa ra thần quang chấn nhiếp tà ma ngoại đạo.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_066",
+    "name": "Long Lân Thánh Bảo Y",
+    "description": "Áo bảo vệ dệt từ vảy rồng vàng, giảm 80% sát thương từ các vụ nổ linh lực.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_067",
+    "name": "Hồng Hoang Chấn Thiên Thuẫn",
+    "description": "Khiên cổ dính máu thần, phản bộc phát một làn sóng chấn động đẩy lui kẻ thù cận chiến.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_068",
+    "name": "U Minh Tà Vương Giáp",
+    "description": "Giáp ma đạo bao phủ bởi làn sương đen, hút sinh mệnh lực của kẻ địch đứng gần.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_069",
+    "name": "Phật Quang Phổ Độ Tụ",
+    "description": "Tay áo rộng có thể thu nạp và hóa giải mọi mũi tên, ám khí bắn tới.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_070",
+    "name": "Cửu Thiên Tinh Thần Thuẫn",
+    "description": "Khiên ngưng tụ từ ánh sáng của chòm sao Bắc Đẩu, càng đánh ban đêm càng cứng.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_071",
+    "name": "Canh Kim Hộ Thể Bàn",
+    "description": "Chiếc đĩa xoay quanh người tạo ra màn chắn bằng các lá chắn kiếm khí sắc bén.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_072",
+    "name": "Bách Thảo Sinh Mạng Giáp",
+    "description": "Bộ giáp làm từ rễ của thần mộc, tự động chữa lành các vết thương ngoài da ngay lập tức.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_073",
+    "name": "Lam Hải Thuần Thủy Bào",
+    "description": "Áo choàng hóa giải lực đấm vật lý bằng cách phân tán nó thành các gợn sóng nước.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_074",
+    "name": "Xích Viêm Long Hoàng Khiên",
+    "description": "Chiếc khiên rồng lửa phát nổ diện rộng đẩy lùi khi đạt giới hạn chịu đựng sát thương.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_075",
+    "name": "Tuyết phách Băng Tâm Y",
+    "description": "Trang phục dệt từ tơ tuyết cực nam, giữ cho tâm trí luôn tỉnh táo khỏi ảo thuật.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_076",
+    "name": "Thần Minh Hộ Thể Châu",
+    "description": "Viên ngọc lơ lửng tạo ra một quả cầu ánh sáng bảo vệ toàn diện 360 độ.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_077",
+    "name": "Thiên Cơ Mê Trận Thuẫn",
+    "description": "Khiên mặt gương làm rối loạn phương hướng tấn công của kẻ thù.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_078",
+    "name": "Bạch Ngân Chiến Thần Thuẫn",
+    "description": "Khiên của chiến thần, gia tăng lực phòng ngự tỷ lệ thuận với chiến ý của chủ nhân.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_079",
+    "name": "Hỗn Độn Nguyên Thủy Giáp",
+    "description": "Giáp hấp thụ một phần năng lượng đòn đánh để sạc lại linh lực cho người mặc.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_080",
+    "name": "Như Ý Bảo Hộ Tráo",
+    "description": "Chiếc chuông vàng nhỏ úp xuống tạo thành kết giới vững chắc bao bọc người bên trong.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_081",
+    "name": "Quỷ Diện Hộ Hồn Mão",
+    "description": "Chiếc mũ hình mặt quỷ bảo vệ nguyên thần không bị tấn công bằng thần thức.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_082",
+    "name": "Thanh Mộc Trường Sinh Khiên",
+    "description": "Khiên gỗ tự động mọc lại các nhánh gai phòng thủ khi bị chặt đứt.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_083",
+    "name": "Thái Dương Chân Hỏa Giáp",
+    "description": "Giáp phát ra hơi nóng cực đại nung chảy vũ khí của kẻ địch khi chúng chạm vào.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_084",
+    "name": "Nhân Hoàng Hộ Quốc Thuẫn",
+    "description": "Khiên mang sức mạnh bảo vệ, càng đông đồng đội đứng sau thì khiên càng mạnh.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_085",
+    "name": "Tử Tiêu Kiên Cố Tháp",
+    "description": "Tòa tháp nhỏ hóa to bảo vệ cả một nhóm người bên trong khi gặp thiên tai, bão táp.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_086",
+    "name": "Hắc Ám Thực Năng Bào",
+    "description": "Áo bào nuốt chửng các chiêu thức pháp thuật hệ hỏa và lôi tầm thấp.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_087",
+    "name": "Huyền Minh Hàn Thiết Giáp",
+    "description": "Giáp sắt nặng nề mang độc tính làm giảm tốc độ đánh của đối phương.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_088",
+    "name": "Phượng Hoàng Niết Bàn Khấu",
+    "description": "Chiếc thắt lưng chứa sức mạnh phượng hoàng, giúp hồi sinh đầy máu một lần mỗi ngày.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_089",
+    "name": "Cổ Thạch Kiên Định Thuẫn",
+    "description": "Khiên đá hóa đá cánh tay chủ nhân tạm thời để tăng lực chống đỡ đòn nặng.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_090",
+    "name": "Vô Ảnh Phòng Ngự Tráo",
+    "description": "Lớp màng bảo vệ vô hình, chỉ kích hoạt khi phát hiện có nguy hiểm cận kề.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_091",
+    "name": "Thiên Lôi Ngự Điện Thuẫn",
+    "description": "Khiên chuyên dùng để hấp thụ thiên lôi khi đi độ kiếp phá cảnh.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_092",
+    "name": "Huyết Hải Trùng Sinh Giáp",
+    "description": "Giáp ma đạo tự sửa chữa bằng cách hút máu chiến trường xung quanh.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_093",
+    "name": "Chu Tước Linh Vũ Y",
+    "description": "Áo lông chim Chu Tước giúp bay lượn linh hoạt và kháng lửa tuyệt đối.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_094",
+    "name": "Ất Mộc Phược Lực Giáp",
+    "description": "Khiên gỗ hấp thụ lực đấm của đối phương chuyển hóa thành gai nhọn đâm ngược lại.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_095",
+    "name": "Thần Thú Hộ Thể Bài",
+    "description": "Thẻ bài ngọc triệu hoán hư ảnh thần thú ra đỡ đòn chí mạng.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_096",
+    "name": "Quý Thủy Hóa Pháp Khiên",
+    "description": "Khiên nước hòa tan hoàn toàn các đòn tấn công bằng năng lượng lửa.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_097",
+    "name": "Canh Kim Ma Thuẫn",
+    "description": "Khiên kim loại ma đạo làm gãy vụn các loại vũ khí cấp phàm dính phải.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_098",
+    "name": "Hư Không Phòng Ngự Kính",
+    "description": "Chiếc gương nhỏ đổi hướng đường bay của các loại mũi tên pháp bảo.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_099",
+    "name": "Tử Kim Bất Diệt Mão",
+    "description": "Chiếc vương miện nhỏ giữ cho nguyên thần không bị ly tán khi nhục thân bị hủy.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_100",
+    "name": "Siêu Thoát Tuyệt Đối Thuẫn",
+    "description": "Lá chắn tối cao của Thần giới, chặn đứng ý niệm xóa sổ của thiên đạo.",
+    "group": "II. Nhóm Phòng Ngự / Giáp Trụ & Thuẫn Khí (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "artifact_101",
+    "name": "乾坤袋 (Túi Càn Khôn)",
+    "description": "Túi chứa đồ không gian phổ biến nhất, bên trong rộng bao la chứa vạn vật.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_102",
+    "name": "山河社稷图 (Sơn Hà Xã Tắc Đồ)",
+    "description": "Bức tranh chứa cả một thế giới thực thể bên trong, có thể thu kẻ địch vào giam giữ.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_103",
+    "name": "Vạn Cổ Thần Hoàng Đỉnh",
+    "description": "Chiếc đỉnh tốt nhất để luyện đan, tăng tỷ lệ thành đan cấp cao lên 100%.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_104",
+    "name": "Hỗn Độn Ngộ Đạo Trà Bàn",
+    "description": "Bàn trà rèn từ đá ngộ đạo, ngồi gần giúp tiến vào trạng thái ngộ đạo nhanh gấp mười lần.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_105",
+    "name": "Thần Thức Hóa Thần Tháp",
+    "description": "Tòa tháp nhỏ đặt trong đan điền, nuôi dưỡng và rèn luyện thần thức hải ngày càng rộng lớn.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_106",
+    "name": "Thiên Cơ Bàn",
+    "description": "Bàn tính bói toán, giúp các thiên cơ sư dự đoán vận mệnh, tìm kiếm vị trí thiên tài địa bảo.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_107",
+    "name": "Hư Không Định Vị Phù",
+    "description": "Pháp bảo ngọc bài giúp dịch chuyên tức thời vạn dặm về vị trí đã đánh dấu trước.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_108",
+    "name": "Mê Hồn Trấn Thần Linh",
+    "description": "Chiếc chuông nhỏ lắc lên phát ra sóng âm làm đóng băng linh hồn kẻ địch trong vài giây.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_109",
+    "name": "Bách Thảo Tụ Linh Bình",
+    "description": "Chiếc bình ngọc tự động ngưng tụ linh khí đất trời thành những giọt linh dịch tinh khiết.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_110",
+    "name": "Tử Kim Hồ Lô",
+    "description": "Gọi tên kẻ thù, nếu chúng đáp lại sẽ bị hút vào hồ lô hóa thành nước trong vòng ba ngày.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_111",
+    "name": "Luân Hồi Ký Ức Châu",
+    "description": "Viên ngọc lưu trữ toàn bộ ký ức và truyền thừa công pháp của các đại lão tiền bối.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_112",
+    "name": "Phá Pháp Ngộ Đạo Thuần",
+    "description": "Viên ngọc đeo tai giúp nhìn thấu bản chất của mọi loại ảo trận, tìm ra mắt trận.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_113",
+    "name": "Ngự Thú Thần Khuyên",
+    "description": "Chiếc vòng vàng ném ra thắt chặt vào đầu yêu thú để ép buộc ký kết khế ước nô dịch.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_114",
+    "name": "Phật Môn Xá Lợi Châu",
+    "description": "Chuỗi hạt bồ đề thanh lọc tâm trí, giúp tu sĩ không bao giờ bị rơi vào tâm ma khi đột phá.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_115",
+    "name": "U Minh Luân Hồi Bàn",
+    "description": "Pháp bảo có thể định vị và tìm kiếm linh hồn của người chết xem đã đầu thai hay chưa.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_116",
+    "name": "Huyết Hải Tụ Linh Trận Bài",
+    "description": "Thẻ bài trận pháp di động, đặt xuống là tạo ra trận pháp hút cạn máu chiến trường.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_117",
+    "name": "Tinh Thần Định Vị Nghi",
+    "description": "La bàn tinh tú dùng để định vị phương hướng khi di chuyển trong vũ trụ tinh không nguy hiểm.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_118",
+    "name": "Thiên Hải Quy Nguyên Hồ",
+    "description": "Chiếc ấm nhỏ chứa được lượng nước của cả một hồ nước lớn, dùng để chứa linh tuyền.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_119",
+    "name": "Bạch Ngọc Ngộ Đạo Điệm",
+    "description": "Đệm ngồi bằng ngọc ấm, giữ cho kinh mạch không bị bạo động khi bế quan tu luyện.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_120",
+    "name": "Tàn ảnh Huyễn Linh Phiến",
+    "description": "Chiếc quạt tạo ra phân thân huyễn ảnh giống hệt chủ nhân để đánh lạc hướng kẻ thù.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_121",
+    "name": "Thanh Liên Tẩy Tủy Bình",
+    "description": "Bình chứa linh dịch chuyên dùng để tẩy rửa tạp chất, nâng cấp phẩm chất linh căn.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_122",
+    "name": "Thiên Nhạc Thần Cầm",
+    "description": "Cây đàn tranh phát ra tiếng nhạc chữa lành vết thương hồn phách hoặc làm mê đắm lòng người.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_123",
+    "name": "Như Ý Thu Hồn Hũ",
+    "description": "Hũ chuyên dụng thu nạp các linh hồn tàn tạ, giữ cho chúng không bị tiêu tán.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_124",
+    "name": "Thần Thức Phá Toái Tráo",
+    "description": "Pháp bảo kích hoạt sóng não làm nhiễu loạn thần thức dò tìm của kẻ địch xung quanh.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_125",
+    "name": "Không Gian Toái Phiến Kính",
+    "description": "Mảnh gương vỡ dùng để cắt rách một khe nứt không gian nhỏ để trốn chạy.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_126",
+    "name": "Phù Văn Vạn Hóa Bút",
+    "description": "Cây bút thần dùng để vẽ bùa chú với tốc độ nhanh nhất và tốn ít linh lực nhất.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_127",
+    "name": "Thiên m Huyễn Diệu sáo",
+    "description": "Cây sáo trúc phát ra âm thanh thôi miên khiến người nghe tự động nộp ra túi trữ đồ.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_128",
+    "name": "Đan Dược Tăng Hiệu Lư",
+    "description": "Chiếc lư hương nhỏ đốt lò giúp tăng gấp đôi dược hiệu của đan dược khi uống vào.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_129",
+    "name": "Cực Tốc Hành Quân Hài",
+    "description": "Đôi giày tăng tốc bộ pháp, giúp di chuyển vạn dặm không tốn thể lực.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_130",
+    "name": "Hắc Ám Thần Giấu Châu",
+    "description": "Viên ngọc đen đeo bên người ẩn giấu hoàn toàn tu vi và khí tức, giả làm phàm nhân.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_131",
+    "name": "Vạn Vật Linh Thông Kính",
+    "description": "Chiếc gương cho phép trò chuyện từ xa giữa hai giới vực (điện thoại tu tiên).",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_132",
+    "name": "Thiên Long Thần uy Ấn",
+    "description": "Chiếc ấn rồng dùng để trấn áp và làm suy yếu 30% sức mạnh của yêu thú đối phương.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_133",
+    "name": "Phượng Hoàng Niết Bàn đỉnh",
+    "description": "Đỉnh luyện đan dùng lửa phượng hoàng, chuyên luyện các loại đan dược hồi sinh.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_134",
+    "name": "Càn Khôn Hoán Chuyển Bài",
+    "description": "Thẻ ngọc giúp hoán đổi vị trí lập tức giữa chủ nhân và một con rối bóng đêm.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_135",
+    "name": "Tử Vi Đế Tinh Lục",
+    "description": "Sổ tay ghi chép khí vận, giúp nhìn thấy mức độ may rủi của bản thân trong ngày.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_136",
+    "name": "Thần Thú Thức Ăn Hộp",
+    "description": "Hộp bảo quản giữ nguyên chất dinh dưỡng và linh tính của các loại linh dược nuôi sủng vật.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_137",
+    "name": "Hỗn Độn Tụ Khí Đài",
+    "description": "Bệ đá tụ khí đặt tại động phủ, biến linh khí loãng thành linh khí đậm đặc.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_138",
+    "name": "Nghịch Thiên Cải Mệnh Châm",
+    "description": "Bộ kim châm dùng để châm cứu cải tử hoàn sinh cho người sắp chết.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_139",
+    "name": "Vạn Giới Thông Hành Lệnh",
+    "description": "Thẻ bài lệnh bài dùng để đi qua các đại trận bảo vệ ranh giới giữa các thế giới.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_140",
+    "name": "Đại Đạo Đồng Hóa Hương",
+    "description": "Nén hương đốt lên giúp tu sĩ dễ dàng cảm nhận quy luật của trời đất khi ngồi thiền.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_141",
+    "name": "Nhân Ngân Kiếm Hạp",
+    "description": "Hộp chứa kiếm, có thể dưỡng kiếm khí bên trong, tích tụ lâu ngày phóng ra sát thương cực khủng.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_142",
+    "name": "Bát Quái Cơ Quan Bí Tịch",
+    "description": "Hộp gỗ cơ quan tự động giải mã các ổ khóa cấm địa đời trước.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_143",
+    "name": "Tiên Hoàn Linh Hương Hộp",
+    "description": "Hộp tỏa hương thu hút yêu thú quý hiếm tự động tìm đến xin làm sủng vật.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_144",
+    "name": "Thần Mục Phá Không Kính",
+    "description": "Kính viễn vọng tu tiên nhìn xuyên qua các tầng mây xem chiến sự ở giới khác.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_145",
+    "name": "Vô Thượng Chân Ma Đỉnh",
+    "description": "Đỉnh luyện đan ma đạo, dùng ma hỏa để luyện chế các loại độc đan nghịch thiên.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_146",
+    "name": "Tử Kim Vạn Năng Thược",
+    "description": "Chìa khóa vạn năng mở được phần lớn các loại hòm báu ở tân thủ thôn.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_147",
+    "name": "Thần Thú Cộng Minh Đồng",
+    "description": "Chiếc tù và thổi lên kêu gọi sự giúp đỡ của các loài thú lành xung quanh.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_148",
+    "name": "Hỗn Độn Bản Nguyên Châu",
+    "description": "Viên ngọc chứa một ngụm hỗn độn khí dùng để cứu vãn kinh mạch bị đứt gãy.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_149",
+    "name": "Nghịch Huyết Cải Mệnh Đan Lô",
+    "description": "Lò chuyên dùng để luyện huyết đan nâng cấp thể chất ma đạo.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_150",
+    "name": "Siêu Thoát Vô Hạn Giới Chỉ",
+    "description": "Chiếc nhẫn trữ đồ tối cao không giới hạn dung tích, chứa được cả tinh cầu.",
+    "group": "III. Nhóm Hỗ Trợ / Đan Đỉnh, Không Gian & Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_151",
+    "name": "混沌青莲 (Hỗn Độn Thanh Liên)",
+    "description": "Hoa sen xanh sinh ra từ hỗn độn, mỗi cánh hoa chứa một đại đạo cốt lõi.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "artifact_152",
+    "name": "太极图 (Thái Cực Đồ)",
+    "description": "Hóa giải âm dương, dập tắt phong ba bão táp của vũ trụ, vây hãm chí tôn cường giả.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "artifact_153",
+    "name": "Bàn Cổ Phiến (Quạt Bàn Cổ)",
+    "description": "Quạt ra hỗn độn cuồng phong, xé rách ranh giới đa vũ trụ.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "artifact_154",
+    "name": "造化玉碟 (Tạo Hóa Ngọc Điệp)",
+    "description": "Mảnh ngọc chứa toàn bộ 3000 đại đạo quy luật của thiên địa, bảo vật tối cao của đạo tổ.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "artifact_155",
+    "name": "Luân Hồi Thần Kính",
+    "description": "Chiếc gương hiển thị quá khứ, hiện tại và tương lai của một chúng sinh.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_156",
+    "name": "Thời Không Nghịch Chuyển Đồng Hồ",
+    "description": "Đồng hồ cát vàng có thể quay ngược thời gian của một khu vực nhỏ lại 3 giây.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "artifact_157",
+    "name": "Thiên Đạo Ý Chí Ấn",
+    "description": "Ấn ngọc đại diện cho quyền lực của Thiên đạo, ra lệnh cho thiên lôi diệt thế.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_158",
+    "name": "Hồng Hoang Khai Thiên Định",
+    "description": "Chiếc định đóng xuống cố định một không gian đang bị sụp đổ bất ổn.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_159",
+    "name": "Vĩnh Hằng Sinh Mệnh Thủy Bình",
+    "description": "Bình nước không bao giờ cạn, một giọt có thể kéo dài tuổi thọ thêm vạn năm.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_160",
+    "name": "Hư Vô Tiêu Diệt Nhẫn",
+    "description": "Chiếc nhẫn phát ra tia sáng xóa sổ hoàn toàn sự tồn tại của một mục tiêu khỏi dòng lịch sử.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_161",
+    "name": "Đại Đạo Chí Cao Trượng",
+    "description": "Quyền trượng của vị thần sáng thế, thao túng mọi quy luật vật lý và năng lượng.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_162",
+    "name": "Nghịch Thiên Cải Mệnh Quy Lục Thư",
+    "description": "Cuốn sách ghi tên ai thì người đó có thể thoát khỏi sự phán xét của diêm vương.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_163",
+    "name": "Hỗn Độn Vũ Trụ Thuyền",
+    "description": "Phi thuyền bay xuyên không gian với tốc độ ánh sáng, di chuyển giữa các đại thế giới.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_164",
+    "name": "Tinh Không Vạn Hóa Đồ",
+    "description": "Bức tranh nuốt chửng cả một hệ mặt trời vào bên trong nó.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_165",
+    "name": "Thần Cách Ngưng Tụ Đài",
+    "description": "Bệ thờ giúp các bán thần ngưng tụ thần cách chân chính nhanh chóng.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_166",
+    "name": "Cổ Thần Khai Thiên Thạch",
+    "description": "Khối đá nguyên thủy dùng để đập vỡ lớp màng chắn thế giới cấp cao.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_167",
+    "name": "Vực Ngoại Tinh Không Kỳ",
+    "description": "Lá cờ dùng để cắm mốc lãnh địa cai quản tinh hệ ngoài vũ trụ tối tăm.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_168",
+    "name": "Thần Vương Ý Chí Miện",
+    "description": "Vương miện ban cấp thần uy áp chế tất cả những người dưới cấp vị thần.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_169",
+    "name": "Chủ Thần Pháp Quyển",
+    "description": "Cuộn giấy chứa các sắc lệnh thay đổi luật lệ tu luyện của một hạ giới dưới quyền.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_170",
+    "name": "Cửu Chuyển Hồi Sinh Liên",
+    "description": "Bông sen vàng tự động gom các mảnh vỡ linh hồn để hồi sinh người chết sau vạn năm.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_171",
+    "name": "Thần ma Đảo Lộn Châm",
+    "description": "Mũi châm biến đổi thần tính thành ma tính hoặc ngược lại của một cường giả.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_172",
+    "name": "Không Gian Bản Nguyên Tinh",
+    "description": "Viên pha lê kiểm soát toàn bộ độ ổn định cấu trúc của một vị diện.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_173",
+    "name": "Thời Gian Lưu Tốc Tháp",
+    "description": "Tòa tháp tu luyện, bên trong tu luyện 100 năm bằng bên ngoài 1 năm.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_174",
+    "name": "Vạn Pháp Quy Nhất Châu",
+    "description": "Ngọc bài dung hợp toàn bộ các kỹ năng nhỏ lẻ của chủ nhân thành một tuyệt kỹ tối cao.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_175",
+    "name": "Thiên Mệnh Chi Tử Quang Hoàn",
+    "description": "Pháp bảo vô hình hộ thể khí vận, giúp chủ nhân không thể chết bởi các nhân vật phụ.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_176",
+    "name": "Đại Đạo Thần Thể Thạch",
+    "description": "Khối đá thần dùng để đúc lại nhục thân cấp cao nhất khi nhục thân cũ bị tiêu hủy.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_177",
+    "name": "Hỗn Độn Diệt Thế Châm",
+    "description": "Mũi châm dùng để chọc thủng tâm trái đất gây nổ tung một hành tinh phàm nhân.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_178",
+    "name": "Thần Thú Thủy Tổ Huyết Bình",
+    "description": "Bình chứa một giọt máu của tổ tiên loài thần thú để kích hoạt huyết mạch sủng vật.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_179",
+    "name": "Vô Lượng Công Đức Kim Thân 印",
+    "description": "Ấn ấn lên người tạo thành lớp bảo vệ công đức không ai dám đánh.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_180",
+    "name": "Càn Khôn Tạo Hóa Lô",
+    "description": "Lò rèn vạn năng tự động nâng cấp pháp bảo cấp thấp lên cấp tiên khí.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_181",
+    "name": "Thái Sơ Nguyên Thủy Kinh",
+    "description": "Cuốn sách đá ghi chép phương pháp tu luyện nhục thân của các cổ thần hồng hoang.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_182",
+    "name": "Tinh Không Vạn Giới Đồ",
+    "description": "Bản đồ toàn cảnh đa vũ trụ hiển thị các lối đi an toàn nhất qua bão không gian.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_183",
+    "name": "Hư Vô Thần Đạo Ấn",
+    "description": "Ấn ký giúp chủ nhân đồng hóa bản thân vào hư không né tránh thần thức dò tìm.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_184",
+    "name": "Thiên Định Duyên Phận Châu",
+    "description": "Viên ngọc phát sáng khi đệ tử chân truyền bái sư hoặc gặp được đạo lữ định mệnh.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_185",
+    "name": "Tiên Hoàn Linh Mộc Trượng",
+    "description": "Gậy gỗ thần điều khiển sự sinh trưởng phát triển của mọi vườn linh dược ngàn năm.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_186",
+    "name": "Thần Mục Phá Không Kiếm",
+    "description": "Thanh kiếm chém ra vết rách không gian dùng để làm cổng dịch chuyển nhóm quân.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_187",
+    "name": "Vô Thượng Chân ma Giới Chỉ",
+    "description": "Nhẫn ma vương chứa binh đoàn mười vạn ma binh sẵn sàng chiến đấu.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_188",
+    "name": "Tử Vi Đế Tinh Trượng",
+    "description": "Quyền trượng hoàng đế tu tiên dùng để mượn khí vận của triều đại gia tăng sức mạnh.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_189",
+    "name": "Thần Thú Cộng Minh Kèn",
+    "description": "Kèn lệnh gọi tất cả sủng vật xung quanh tiến vào trạng thái cuồng bạo tăng 200% sức đánh.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_190",
+    "name": "Hỗn Độn Nguyên Thủy Hạp",
+    "description": "Hộp gỗ phong ấn các vật phẩm nguy hiểm mang năng lượng phản vật chất hủy diệt.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_191",
+    "name": "Nghịch Thiên Cải Mệnh Bàn",
+    "description": "Bàn xoay khí vận dùng để đánh tráo may mắn của kẻ địch thành xui xẻo tột cùng.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_192",
+    "name": "Vạn Giới Thông Hành Thuyền",
+    "description": "Thuyền rồng tiên giới chuyên chở người đi qua lại giữa phàm giới và tiên giới.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_193",
+    "name": "Đại Đạo Đồng Hóa Kính",
+    "description": "Gương sao chép lại một chiêu thức tối cao của đối phương để đánh trả lại chính họ.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_194",
+    "name": "Vĩnh Hằng Nguyên Sơ Châu",
+    "description": "Viên ngọc giữ cho vật phẩm đặt gần nó không bị mục nát hoặc suy giảm linh tính theo thời gian.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_195",
+    "name": "Siêu Thoát Tuyệt Đối Châu",
+    "description": "Ngọc bảo vệ tối cao chống lại mọi hình thức nguyền rủa xóa sổ từ các vị thần cổ xưa.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_196",
+    "name": "Nhân Ngân Kiếm Trận Bài",
+    "description": "Thẻ bài trận pháp phóng ra trận pháp một vạn thanh kiếm vây hãm một vùng trời.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "artifact_197",
+    "name": "Bát Quái Cơ Quan Thần Lâu",
+    "description": "Tòa lâu đài cơ quan di động có thể thu nhỏ bỏ vào túi, mở ra thành pháo đài phòng thủ.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_198",
+    "name": "Tiên Hoàn Linh Long Ấn",
+    "description": "Chiếc ấn triệu hoán hư ảnh rồng vàng bảo hộ cho cả một tông môn khi bị công phá.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_199",
+    "name": "Thần Mục Phá Không Tiễn",
+    "description": "Mũi tên xé rách vách ngăn không gian bắn thẳng từ hạ giới lên tiên giới để đưa tin khẩn.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "artifact_200",
+    "name": "Siêu Thoát Vô Thượng Thần Binh",
+    "description": "Vũ khí cuối cùng của nhân vật chính khi đạt Cảnh giới 30, biến mọi ý nghĩ hủy diệt thành sự thật tuyệt đối trong một nốt nhạc.",
+    "group": "IV. Nhóm Chí Bảo Thời Không & Quy Luật Tối Cao (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

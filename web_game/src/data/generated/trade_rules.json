@@ -1,0 +1,242 @@
+[
+  {
+    "id": "rule_001",
+    "name": "Lời Thề Thiên Đạo",
+    "description": "Lập lời thề dẫn động quy luật trời đất. Nếu vi phạm, lôi kiếp sẽ giáng xuống nổ nát thần hồn lập tức.",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "rule_002",
+    "name": "N nghiệp Lực Quấn Thân",
+    "description": "Giết quá nhiều phàm nhân vô tội sẽ sinh ra khí đen nghiệp lực. Khi đột phá, độ khó của Lôi kiếp tăng gấp 10 lần.",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "rule_003",
+    "name": "Nhân Quả Định Đoạt",
+    "description": "Nhận bảo vật của ai thì phải trả lại bằng ân tình hoặc giúp họ hoàn thành tâm nguyện, nếu không tu vi sẽ bị đình trệ.",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "rule_004",
+    "name": "Quy Tắc Đoạt Xá",
+    "description": "Một đời tu sĩ chỉ được đoạt xá nhục thân của người khác tối đa 1 lần, lần thứ 2 linh hồn tự bạo.",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "rule_005",
+    "name": "Thọ Nguyên Đánh Đổi",
+    "description": "Giao dịch với ma thần để mượn sức mạnh phải trả giá bằng tuổi thọ chính xác (Ví dụ: 1 chiêu đổi 100 năm sống).",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "rule_006",
+    "name": "Máu Giọt Khế Ước",
+    "description": "Khi ký hợp đồng chủ-tớ với linh thú, chủ chết tớ chết, tớ chết chủ bị thương thần thức.",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "rule_007",
+    "name": "Trận Pháp Niêm Phong Kinh Tế",
+    "description": "Không được dùng linh thạch giả, vì linh khí bên trong có mã vạch năng lượng tự nhiên của trời đất.",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "rule_008",
+    "name": "Quy Tắc Phàm Nhân",
+    "description": "Tu sĩ không được tùy tiện can thiệp vào triều đại phàm nhân, nếu phá vỡ long mạch phàm trần sẽ bị rách nát khí vận.",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "rule_009",
+    "name": "Khí Vận Cân Bằng",
+    "description": "May mắn nhận được đại cơ duyên thì sắp tới sẽ phải đối mặt với đại kiếp nạn tương đương (Họa phúc khôn lường).",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_010",
+    "name": "Chân Lý Đấu Giá",
+    "description": "Mọi giao dịch tại phòng đấu giá tối cao đều được Thiên đạo chứng giám, cấm quỵt tiền hoặc cướp đồ sau khi rời sàn trong vòng vạn dặm.",
+    "group": "Quy Luật Nhân Quả & Thiên Đạo (10 Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_011",
+    "name": "Bảo Vật Vô Chủ, Kẻ Mạnh Được Chọn",
+    "description": "Đồ trong bí cảnh ai nhặt được là của người đó, bất kể thân phận địa vị ngoài đời.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_012",
+    "name": "Giết Người Diệt Khẩu, Nhổ Cỏ Phải Nhổ Tận Gốc",
+    "description": "Giết kẻ thù là phải diệt môn, đốt xác thành tro, hủy sạch hồn phách để tránh chúng trọng sinh báo thù.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_013",
+    "name": "Đừng Khinh Thiếu Niên Nghèo",
+    "description": "Thấy tiểu tử nào có khí chất kiên định, dù phế vật cũng không nên đắc tội, vì chúng rất dễ có lão tổ trong nhẫn.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_014",
+    "name": "Phòng Đấu Giá Không Nhìn Mặt",
+    "description": "Đi đấu giá luôn phải mặc áo choàng đen cách biệt thần thức để tránh bị ghi thù.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_015",
+    "name": "Tán Tu Không Có Nhân Quyền",
+    "description": "Tu sĩ tự do (Tán tu) không có tông môn bảo hộ hễ có bảo vật là sẽ bị đại tông môn trấn lột.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_016",
+    "name": "Đạo Lữ Chỉ Là Tạm Thời, Tu Vi Mới Là Vĩnh Hằng",
+    "description": "Có thể bỏ rơi đạo lữ nếu lợi ích đột phá cảnh giới lớn hơn.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_017",
+    "name": "Cá Lớn Nuốt Cá Bé",
+    "description": "Thế giới không có đúng sai, chỉ có nắm đấm ai to hơn thì người đó là công lý.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "rule_018",
+    "name": "Giả Heo Ăn Thịt Hổ",
+    "description": "Luôn che giấu tu vi thật thấp hơn 1-2 cảnh giới để dụ kẻ thù chủ quan rồi giết chết.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "rule_019",
+    "name": "Vật Họp Theo Loài",
+    "description": "Thiên tài chỉ chơi với thiên tài, rác rưởi ngũ linh căn không có tư cách nói chuyện với Thánh tử.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "rule_020",
+    "name": "Tiên Nhân Khảo Nghiệm Luôn Có Bẫy",
+    "description": "Di sản của đại lão để lại luôn đi kèm với bẫy đoạt xá, không có bữa trưa nào miễn phí.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "rule_021",
+    "name": "Thương Hội Trung Lập",
+    "description": "Thương hội không tham gia chiến tranh phe phái, nhưng họ sẵn sàng bán đấu giá vị trí của bạn nếu giá đủ cao.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "rule_022",
+    "name": "Đừng Tin Lời Ma Đạo",
+    "description": "Lời hứa của tu sĩ ma đạo có giá trị bằng không, hễ lơi lỏng cảnh giác là mất mạng.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "rule_023",
+    "name": "Chính Đạo Ngụy Quân Tử",
+    "description": "Nhiều kẻ mở mồm ra là chính nghĩa nhưng sau lưng làm việc tồi tệ hơn ma đạo, cần đề phòng gấp đôi.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "rule_024",
+    "name": "Bí Cảnh Tử Vong Suất",
+    "description": "Vào bí cảnh thì tỷ lệ chết do đồng đội đâm sau lưng cao hơn chết do bẫy rập.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "rule_025",
+    "name": "Lôi Kiếp Không Được Giúp",
+    "description": "Kẻ nào nhảy vào giúp tu sĩ chống lôi kiếp, thiên đạo sẽ nhân độ mạnh của sấm sét lên gấp đôi để đánh chết cả hai.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "rule_026",
+    "name": "Thành Trì Cấm Vũ",
+    "description": "Trong các đại thành thị của thương hội, cấm đánh nhau, kẻ nào ra tay sẽ bị hộ vệ cấp cao diệt sát lập tức.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "rule_027",
+    "name": "Túi Trữ Vật Là Kho Báu",
+    "description": "Giết địch xong việc đầu tiên là phải nhặt túi trữ vật của chúng, đó là nguồn thu nhập chính của MC.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "rule_028",
+    "name": "Đan Dược Tam Phần Độc",
+    "description": "Không được cắn đan dược liên tục để tăng cấp, tạp chất đan độc tích tụ sẽ làm vỡ nứt đan điền ở hậu kỳ.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "rule_029",
+    "name": "Huyết Thống Đè Đè",
+    "description": "Con cái sinh ra từ hai đại năng cấp cao bẩm sinh đã ở vạch đích (Trúc Cơ/Kim Đan từ nhỏ).",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "rule_030",
+    "name": "Quy Tắc Đóng Cửa Luyện Công",
+    "description": "Khi đại lão bế quan, cấm làm phiền, nếu đánh động gây tẩu hỏa nhập ma sẽ kết mối thù bất cộng đới thiên.",
+    "group": "Quy Tắc Ngầm Của Giang Hồ Tu Tiến (20 Quy Tắc)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

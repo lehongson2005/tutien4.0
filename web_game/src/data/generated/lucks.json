@@ -1,0 +1,152 @@
+[
+  {
+    "id": "luck_01",
+    "name": "Khí Vận Thần Long (Màu Tím)",
+    "description": "Khí vận của chân mệnh thiên tử, đi đường nhặt bảo vật, gặp nguy hóa an, vạn năm khó gặp (Khí vận của MC).",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "thanh",
+    "colorHex": "#c084fc",
+    "khiVanBase": 78
+  },
+  {
+    "id": "luck_02",
+    "name": "Khí Vận Yểu Mệnh (Màu Đen)",
+    "description": "Khí vận xui xẻo tột cùng, đi đến đâu bí cảnh sập đến đó, dễ chết yếu từ sớm (Nhân vật phụ làm đá lót đường).",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "colorHex": "#9ca3af",
+    "khiVanBase": 14
+  },
+  {
+    "id": "luck_03",
+    "name": "Khí Vận Vượng Phu (Màu Đỏ Hồng)",
+    "description": "Thường xuất hiện ở các nữ tu, ai kết làm đạo lữ với họ sẽ được tăng 30% tốc độ tu luyện và may mắn.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "colorHex": "#f87171",
+    "khiVanBase": 56
+  },
+  {
+    "id": "luck_04",
+    "name": "Khí Vận Thợ Săn (Màu Vàng Kim)",
+    "description": "Khí vận chuyên đi săn lùng và cướp bóc từ người khác để nuôi thân.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "colorHex": "#fbbf24",
+    "khiVanBase": 66
+  },
+  {
+    "id": "luck_05",
+    "name": "Khí Vận Phàm Trần (Màu Trắng)",
+    "description": "Bình thường vô vị, không có biến cố lớn, thích hợp sống thọ làm phàm nhân.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "colorHex": "#e2e8f0",
+    "khiVanBase": 36
+  },
+  {
+    "id": "luck_06",
+    "name": "Khí Vận Ma Đầu (Màu Đỏ Máu)",
+    "description": "Gặp nhiều sát lục kịch tính, càng giết người khí vận càng mạnh nhưng kết cục thường bi thảm.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "colorHex": "#e2e8f0",
+    "khiVanBase": 42
+  },
+  {
+    "id": "luck_07",
+    "name": "Khí Vận Trận Phái (Màu Xanh Ngọc)",
+    "description": "Khí vận gắn liền với sự hưng thịnh của một tông môn, tông môn mạnh họ mạnh.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "colorHex": "#38bdf8",
+    "khiVanBase": 52
+  },
+  {
+    "id": "luck_08",
+    "name": "Khí Vận Ngộ Đạo (Màu Tím Nhạt)",
+    "description": "Học công pháp nhanh gấp 10 lần người thường nhưng sức chiến đấu cơ bắp hơi yếu.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "colorHex": "#c084fc",
+    "khiVanBase": 78
+  },
+  {
+    "id": "luck_09",
+    "name": "Khí Vận Tán Tài (Màu Xám)",
+    "description": "Kiếm được bao nhiêu tiền thạch cũng lỡ tay xài hết hoặc bị cướp sạch, không giữ được của.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "colorHex": "#94a3b8",
+    "khiVanBase": 28
+  },
+  {
+    "id": "luck_10",
+    "name": "Khí Vận Hộ Mệnh (Màu Vàng Nhạt)",
+    "description": "Khi gặp đòn chí mạng luôn có quý nhân từ trên trời rơi xuống cứu mạng.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "colorHex": "#fbbf24",
+    "khiVanBase": 66
+  },
+  {
+    "id": "luck_11",
+    "name": "Khí Vận Cô Độc (Màu Xanh Lam)",
+    "description": "Tu vi tăng cực nhanh nhưng người thân, bằng hữu, đạo lữ xung quanh đều chết sạch (Mệnh thiên sát cô tinh).",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "colorHex": "#38bdf8",
+    "khiVanBase": 52
+  },
+  {
+    "id": "luck_12",
+    "name": "Khí Vận Thần Binh",
+    "description": "B bẩm sinh thu hút các mảnh vỡ pháp bảo cổ đại tự bay về phía mình.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "colorHex": "#fbbf24",
+    "khiVanBase": 70
+  },
+  {
+    "id": "luck_13",
+    "name": "Khí Vận Đan Thần",
+    "description": "Trồng cây gì cây đó sống, luyện thuốc gì thuốc đó thành cực phẩm.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "colorHex": "#fbbf24",
+    "khiVanBase": 70
+  },
+  {
+    "id": "luck_14",
+    "name": "Khí Vận Nghịch Thiên",
+    "description": "Càng bị thiên đạo chèn ép, lôi kiếp đánh thì sức mạnh bộc phát càng kinh hoàng.",
+    "group": "Các Dạng Khí Vận (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "colorHex": "#c084fc",
+    "khiVanBase": 82
+  },
+  {
+    "id": "luck_15",
+    "name": "Khí Vận Hư Không",
+    "description": "Không thể bị bói toán hoặc nhìn thấu bởi bất kỳ toán sư nào (Khí vận ẩn giấu thế lực lớn).",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "colorHex": "#e2e8f0",
+    "khiVanBase": 42
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "rank_01",
+    "name": "Tiềm Long Bảng (Hạ giới)",
+    "description": "Xếp hạng 100 thiên tài dưới 30 tuổi, tu vi Trúc Cơ/Kim Đan mạnh nhất. Phần thưởng: Được các đại tông môn tranh giành nhận làm đệ tử thân truyền.",
+    "tier": "ha_gioi",
+    "minRealm": 2
+  },
+  {
+    "id": "rank_02",
+    "name": "Thiên Kiêu Bảng (Tu chân giới)",
+    "description": "Xếp hạng 50 siêu cấp thiên tài dưới 100 tuổi đạt cấp Nguyên Anh/Hóa Thần. Đây là bảng xếp hạng tạo ra nhiều cuộc chiến vả mặt nhất truyện.",
+    "tier": "ha_gioi",
+    "minRealm": 4
+  },
+  {
+    "id": "rank_03",
+    "name": "Tiên Khôi Bảng (Tiên giới)",
+    "description": "Danh sách các tiên nhân trẻ tuổi có tiềm năng thăng tiến lên Tiên Vương cao nhất.",
+    "tier": "tien_gioi",
+    "minRealm": 11
+  },
+  {
+    "id": "rank_04",
+    "name": "Thần Vương Bảng (Thượng giới)",
+    "description": "Bảng xếp hạng sức mạnh tuyệt đối của các đại lão thống trị vũ trụ. Thay đổi vị trí trên bảng này đồng nghĩa với chiến tranh tinh hệ.",
+    "tier": "tien_gioi",
+    "minRealm": 11
+  },
+  {
+    "id": "rank_05",
+    "name": "Chức Nghiệp Phụ Bảng (Đan/Khí/Trận)",
+    "description": "Vinh danh các đại sư luyện đan, rèn vũ khí giỏi nhất đa vũ trụ.",
+    "tier": "tien_gioi",
+    "minRealm": 11
+  },
+  {
+    "id": "rank_06",
+    "name": "Tuyệt Thế Thần Thể Bảng",
+    "description": "Xếp hạng độ hiếm và sức mạnh thực chiến của 200 loại thể chất huyết thống.",
+    "tier": "than_gioi",
+    "minRealm": 20
+  },
+  {
+    "id": "rank_07",
+    "name": "Khí Vận Chí Tôn Bảng",
+    "description": "Do Thiên Cơ Lâu lập ra bằng cách quan sát màu sắc trên đầu tu sĩ, ai đứng đầu bảng này đi đường toàn nhặt được thần khí.",
+    "tier": "than_gioi",
+    "minRealm": 20
+  },
+  {
+    "id": "rank_08",
+    "name": "Sát Thần Bảng",
+    "description": "Xếp hạng các tu sĩ ma đạo hoặc sát thủ có số lượng đầu người giết nhiều nhất vũ trụ.",
+    "tier": "than_gioi",
+    "minRealm": 20
+  },
+  {
+    "id": "rank_09",
+    "name": "Đạo Lữ Tuyệt Sắc Bảng",
+    "description": "Xếp hạng các nữ tu có dung mạo đẹp nhất và thể chất vượng phu đỉnh lô hiếm nhất.",
+    "tier": "than_gioi",
+    "minRealm": 20
+  },
+  {
+    "id": "rank_10",
+    "name": "Trấn Tông Thần Binh Bảng",
+    "description": "Xếp hạng uy lực của các món vũ khí chiến lược hạt nhân của các đại thế lực.",
+    "tier": "than_gioi",
+    "minRealm": 20
+  }
+]

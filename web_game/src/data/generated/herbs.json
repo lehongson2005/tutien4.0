@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "herb_001",
+    "name": "聚气草 (Tụ Khí Thảo)",
+    "description": "Linh thảo cơ bản nhất, hấp thụ linh khí đất trời, dùng để luyện Tụ Khí Đan cho tu sĩ Luyện Khí.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_002",
+    "name": "筑基 diệp (Trúc Cơ Diệp)",
+    "description": "Lá cây chứa linh lực thuần khiết, chủ dược để luyện chế Trúc Cơ Đan giúp người phàm hóa tiên.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_003",
+    "name": "降 long mộc (Giáng Long Mộc)",
+    "description": "Thân gỗ chứa linh tính rồng, giúp tu sĩ tích lũy linh lực phá vỡ bình cảnh Kim Đan.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_004",
+    "name": "Hóa Anh Đan Tơ",
+    "description": "Loại cỏ dại mọc ở nơi cực âm, giúp Nguyên Anh phá vỏ bọc Kim Đan thoát thai ra ngoài.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_005",
+    "name": "Ngộ Đạo Trà Diệp",
+    "description": "Lá trà ngộ đạo trên cây cổ thụ vạn năm, uống vào giúp tu sĩ lập tức thấu hiểu quy luật phá cảnh Hóa Thần.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_006",
+    "name": "Hư Vô Linh Chỉ",
+    "description": "Loại nấm mọc trong khe nứt không gian, chủ dược luyện đan cho tu sĩ Luyện Hư Cảnh.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_007",
+    "name": "Dung hợp Ngũ Sắc Hoa",
+    "description": "Bông hoa 5 màu giúp nhục thân và Nguyên Anh hoàn toàn đồng hóa bứt phá lên Hợp Thể Cảnh.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_008",
+    "name": "Độ Kiếp Tử Đan Sâm",
+    "description": "Củ sâm màu tím mọc ở nơi lôi đình thiên kiếp hay bổ xuống, giúp gia tăng 30% tỷ lệ sống sót khi độ kiếp.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_009",
+    "name": "Đại Thừa Phi Thăng Quả",
+    "description": "Quả thần chứa tiên nguyên lực sơ khai, giúp tu sĩ Đại Thừa viên mãn chuyển hóa linh lực thành tiên lực.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_010",
+    "name": "Tử Tiêu Thần Tinh Thảo",
+    "description": "Loại cỏ mang sắc tím thiên đình, giúp Nhân Tiên củng cố tiên căn vững chắc.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_011",
+    "name": "Địa Linh Quy Nguyên Cốt",
+    "description": "Rễ cây có hình dáng giống xương cốt, giúp Địa Tiên mở rộng phúc địa trong người.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_012",
+    "name": "Thiên Cực Huyền Vực Thảo",
+    "description": "Loại cỏ mọc ở tầng mây thứ chín, giúp Thiên Tiên đột phá lên Kim Tiên bất hủ.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_013",
+    "name": "Đại La Tam Sinh Hoa",
+    "description": "Bông hoa nở ba ngàn năm một lần, giúp tu sĩ nhảy ra khỏi ngũ hành đại đạo lên cấp Đại La.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_014",
+    "name": "Tiên Vương Chí Tôn Quả",
+    "description": "Quả thần chín vạn năm mới kết trái, chứa đựng khí vận chúa tể một phương.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_015",
+    "name": "Tiên Tôn Hóa Pháp Liên",
+    "description": "Hoa sen trắng mọc ở thượng giới tiên vực, giúp tiên vương ngộ ra quy luật tối cao.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_016",
+    "name": "Tiên Đế Quy Luật Diệp",
+    "description": "Chiếc lá mang ấn ký của thiên đạo tiên giới, chủ dược luyện chế Đế Cấp Phá Cảnh Đan.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_017",
+    "name": "Chuẩn Thần Thần Tính Tinh",
+    "description": "Loại cỏ hóa thạch tích lũy thần hỏa bẩm sinh giúp á thần lột xác.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_018",
+    "name": "Hạ Vị Thần Hỏa Sâm",
+    "description": "Sâm cổ ngưng tụ thần cách, cung cấp đức tin sơ khai cho thần tiên.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_019",
+    "name": "Trung Vị Thần Quốc Hoa",
+    "description": "Bông hoa nở trong thần quốc, dùng để gia cố thần lực mênh mông.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_020",
+    "name": "Thượng Vị Vĩnh Hằng Chi",
+    "description": "Nấm chi sinh trưởng vạn năm ngoài tinh không, thọ mệnh đồng hóa vũ trụ.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_021",
+    "name": "Thần Vương Hỗn Độn Đào",
+    "description": "Quả đào chứa quy luật thời không sinh tử của các vị chủ thần.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_022",
+    "name": "Thần Đế Đỉnh Phong Thảo",
+    "description": "Cỏ thần tối cao mọc trên đỉnh núi hồng hoang, giúp chí tôn phá cảnh.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_023",
+    "name": "Cổ Thần Khai Thiên Táo",
+    "description": "Quả táo cổ xưa mang sức mạnh hồng hoang khai thiên lập địa.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_024",
+    "name": "Hỗn Độn Bất Diệt Liên",
+    "description": "Hoa sen sinh ra từ thời hỗn độn, giúp nhục thân hóa thành vũ trụ thu nhỏ.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_025",
+    "name": "Nghịch Thiên Cải Mệnh Linh",
+    "description": "Loại cỏ biến dị mọc ngược hướng ánh sáng, giúp nghịch chuyển thiên đạo phán xét.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_026",
+    "name": "Đại Đạo Chí Cao Diệp",
+    "description": "Lá cây rụng từ cây thế giới, chứa đựng khởi đầu và kết thúc của vạn vật.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_027",
+    "name": "Siêu Thoát Vô Thượng Quả",
+    "description": "Quả thần tối cao, cắn một miếng nhảy ra khỏi mọi dòng thời gian đa vũ trụ.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_028",
+    "name": "Thông Thiên Linh Mộc Du",
+    "description": "Tinh dầu chiết xuất từ thân cây thông thiên, đả thông hoàn toàn 108 kinh mạch phàm nhân.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_029",
+    "name": "Huyền Minh Tụ Khí Đoạn",
+    "description": "Đoạn cỏ ngắn mọc dưới đáy đầm lầy, hút sạch linh khí xung quanh vào đan điền.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_030",
+    "name": "Cửu Chuyển Hoán Huyết Đan Tâm",
+    "description": "Bông hoa màu đỏ thẫm giúp thay thế toàn bộ máu phàm thành linh huyết.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_031",
+    "name": "Thái Sơ Ngộ Đạo Đằng",
+    "description": "Dây leo cổ xưa mọc quanh bia đá truyền thừa, sờ vào giúp tăng tốc ngộ công pháp.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_032",
+    "name": "Bách Luyện Hóa Tủy Châm",
+    "description": "Loại cỏ nhọn như cây châm, đâm vào da thịt giúp tôi luyện tủy xương phầm cốt.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_033",
+    "name": "Canh Kim Phá Cảnh Cúc",
+    "description": "Hoa cúc có cánh sắc bén như vàng ròng, phá vỡ rào cản tắc nghẽn linh lực.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_034",
+    "name": "nhược Thủy Tụ Linh Nhị",
+    "description": "Nhị hoa mềm mại mọc trên mặt nước, giúp linh dịch trong đan điền dồi dào gấp đôi.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_035",
+    "name": "Địa Mạch Xung Thiên Củ",
+    "description": "Củ rễ cắm sâu vào long mạch đất, hút linh khí bộc phát tu vi tầm ngắn.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_036",
+    "name": "Thiên Lôi Phá Bình Thảo",
+    "description": "Cỏ dại sống sót sau lôi kích, giúp giật nổ bức tường bình cảnh cảnh giới lớn.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_037",
+    "name": "Tử Tiêu Lôi Tủy Chi",
+    "description": "Nấm chi mang điện tích nhẹ, tẩy rửa tạp chất trong nguyên thần tu sĩ.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_038",
+    "name": "Băng Hỏa Lưỡng Nghi Đóa",
+    "description": "Bông hoa nửa đỏ nửa xanh, điều hòa hai nguồn năng lượng xung đột trong cơ thể.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_039",
+    "name": "Âm Dương Nghịch Chuyển nấm",
+    "description": "Nấm ma thuật làm đảo lộn dòng chảy linh lực, cưỡng ép đột phá khi gặp nguy hiểm.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_040",
+    "name": "Hoàng Kim Thánh Cốt Sâm",
+    "description": "Củ sâm vàng đúc cốt khí, giúp tu sĩ ngoại công bứt phá tầng thứ tiếp theo.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_041",
+    "name": "Bách Thảo Vạn Hóa Quả",
+    "description": "Quả thần có thể thay thế cho bất kỳ vị chủ dược nào trong đan phương cấp thấp.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_042",
+    "name": "Tử Viêm Ma Tính Thảo",
+    "description": "Cỏ ma đạo, kích thích tiềm năng bộc phát tu vi nhưng dễ dẫn đến tẩu hỏa nhập ma.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_043",
+    "name": "Thiên Hải Cuồng Đào Diệp",
+    "description": "Lá cây bách niên mọc vách biển, chứa lượng linh lực cuộn trào vô tận.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_044",
+    "name": "Tuyết phách Băng Tâm Liên",
+    "description": "Hoa sen tuyết giữ tinh thần tĩnh lặng tuyệt đối khi đang xung kích cảnh giới cao.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_045",
+    "name": "Thanh Liên Đạo Tính Nhụy",
+    "description": "Nhị sen thanh khiết xua tan mọi tà khí cản trở quá trình thăng cấp.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_046",
+    "name": "Xích Dương Liệt Hỏa Củ",
+    "description": "Củ sâm nóng rực nung cháy cặn bã tích tụ lâu ngày trong kinh mạch.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_047",
+    "name": "Huyền Minh Khí Tụ Đằng",
+    "description": "Dây leo tỏa sương mù băng giá, cô đặc linh khí thể khí sang thể lỏng nhanh hơn.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_048",
+    "name": "Bạch Ngân Chiến Ý Cúc",
+    "description": "Hoa cúc bạc kích thích tinh thần chiến đấu, giúp đột phá trong lúc sinh tử.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_049",
+    "name": "Phong Lôi Song Tuyệt Quả",
+    "description": "Quả kép mang thuộc tính phong lôi, gia tăng tốc độ vận chuyển chu thiên linh lực.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_050",
+    "name": "canh Kim Ma Tính Rễ",
+    "description": "Rễ cây ma đạo giúp khai mở các huyệt đạo ẩn giấu trên nhục thân.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "herb_051",
+    "name": "Thanh Mộc Trường Sinh Tơ",
+    "description": "Sợi cỏ mộc hệ bện vào vết thương giúp cầm máu và nối liền gân cốt trong vài hơi thở.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_052",
+    "name": "Tục Đoạn Cốt Thảo",
+    "description": "Loại cỏ chuyên trị gãy xương xương dập, đắp vào kinh mạch gãy liền lại ngay lập tức.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_053",
+    "name": "Hồi Hồn Bách Niên Sâm",
+    "description": "Củ sâm trăm tuổi kéo lại một hơi tàn cho người sắp chết, giữ chặt linh hồn không tiêu tán.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_054",
+    "name": "Tẩy Tủy Hoán Cốt Chi",
+    "description": "Nấm rửa tủy, đẩy toàn bộ độc tố, cặn bã và đan độc tích tụ ra ngoài qua lỗ chân lông.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_055",
+    "name": "Vạn Ách Giải Độc Hoa",
+    "description": "Bông hoa khắc tinh của vạn độc, nhai sống có thể tiêu hóa phần lớn độc tính ma đạo.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_056",
+    "name": "Băng Phách Hàn Quang Diệp",
+    "description": "Lá cây lạnh giải trừ hỏa độc, nung đốt do trúng chưởng hệ hỏa.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_057",
+    "name": "Nhược Thủy Hóa Ứ Thảo",
+    "description": "Cỏ nước làm tan các cục máu bầm, thông tắc kinh mạch bị ứ đọng sau trận chiến.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_058",
+    "name": "Hoàng Kim Nhục Thân Chi",
+    "description": "Nấm vàng giúp tái tạo lại các vùng da thịt bị thối rữa do dính phải tà khí.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_059",
+    "name": "Phượng Hoàng Niết Bàn Táo",
+    "description": "Quả táo đỏ chứa huyết mạch phượng hoàng, giúp nhục thân mọc lại tay chân bị đứt rời.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_060",
+    "name": "Cửu Chuyển Hoạt Huyết Liên",
+    "description": "Hoa sen chín tầng hồi phục hoàn toàn huyết khí đã mất do thi triển cấm thuật.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_061",
+    "name": "Thiên Thần Tịnh Hóa Cúc",
+    "description": "Hoa cúc thần xua tan ma khí xâm nhập vào lục phủ ngũ tạng.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_062",
+    "name": "Long Lân Hộ Thể Nhụy",
+    "description": "Nhị hoa chữa lành các tổn thương bong tróc vảy hoặc da thịt bên ngoài.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_063",
+    "name": "Hồng Hoang Tiêu Viêm Thảo",
+    "description": "Cỏ cổ xưa dập tắt các ngọn lửa bản mệnh đang bùng cháy mất kiểm soát trong người.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_064",
+    "name": "U Minh Tục Mạng Chi",
+    "description": "Nấm chi cõi chết mượn một ít tử khí để duy trì sự sống tạm thời cho nhục thân.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_065",
+    "name": "Phật Quang Phổ Độ Hoa",
+    "description": "Bông hoa phật môn tịnh hóa hoàn toàn oán niệm và lời nguyền rủa rủa sả bám trên người.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_066",
+    "name": "Cửu Thiên Định Thần Linh",
+    "description": "Loại cỏ lắc nhẹ tỏa hương làm dịu cơn đau nhức nhối ở vùng thần thức hải.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_067",
+    "name": "Canh Kim Liệt Vết Thương Thảo",
+    "description": "Cỏ mộc hệ mọc trên mỏ vàng, chuyên chữa các vết cắt do kiếm khí gây ra.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_068",
+    "name": "Bách Thảo Hồi Sinh Linh",
+    "description": "Linh chi vạn năm có khả năng cải tử hoàn sinh nếu tim đối phương chưa ngừng đập quá một khắc.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_069",
+    "name": "Lam Hải Quy Nguyên Nhị",
+    "description": "Nhị hoa biển sâu bù nước và phục hồi thể lực nhanh chóng cho tu sĩ mệt mỏi.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_070",
+    "name": "Xích Viêm Hóa Băng Diệp",
+    "description": "Lá cây rực lửa nung chảy lớp băng phong đang đóng băng kinh mạch của nạn nhân.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_071",
+    "name": "Tuyết phách Tỉnh Táo Cúc",
+    "description": "Hoa cúc tuyết đánh thức tu sĩ đang rơi vào trạng thái hôn mê sâu do trúng ảo thuật.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_072",
+    "name": "Thần Minh Hồi Phục Quả",
+    "description": "Quả thần cấp cao chữa lành tổn thương nguyên thần bị rách nứt.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_073",
+    "name": "Thiên Cơ Bù Thọ Táo",
+    "description": "Quả táo thần gia tăng thêm 50 năm tuổi thọ cho các lão quái sắp hết thọ nguyên.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_074",
+    "name": "Bạch Ngân Sinh Cơ Đằng",
+    "description": "Dây leo bạc quấn quanh người cung cấp sinh mệnh lực liên tục khi đang bị vây hãm.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_075",
+    "name": "Hỗn Độn Tẩy Linh Bình Thảo",
+    "description": "Cỏ hình chiếc bình thanh lọc hoàn toàn đan độc do cắn thuốc quá nhiều.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_076",
+    "name": "Quỷ Diện Hộ Hồn Nhị",
+    "description": "Nhị hoa bảo vệ hồn phách không bị tiêu tán khi nhục thân bị đánh nổ.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_077",
+    "name": "Thanh Mộc Sinh Chi Diệp",
+    "description": "Lá mọc mầm giúp mọc lại các ngón tay, ngón chân bị chém đứt.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_078",
+    "name": "Thái Dương Chân Hỏa Sâm",
+    "description": "Sâm nóng xua tan hàn khí cực độc bám sâu vào tận xương tủy.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_079",
+    "name": "Nhân Hoàng An Dân Thảo",
+    "description": "Loại cỏ làm dịu cơn bạo động linh lực của cả một nhóm người dính phóng xạ năng lượng.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_080",
+    "name": "Tử Kim Hộ Tâm Đóa",
+    "description": "Bông hoa bảo vệ tim mạch trước tác động của các đòn đánh chấn động.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_081",
+    "name": "Hắc Ám Thực Độc Nấm",
+    "description": "Nấm đen nuốt chửng các tế bào ung độc, hoại tử trong cơ thể.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_082",
+    "name": "Huyền Minh Định Thần Tơ",
+    "description": "Sợi cỏ trói chặt các mảnh vỡ nguyên thần đang có dấu hiệu tiêu biến.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_083",
+    "name": "Chu Tước Hồi Huyết Quả",
+    "description": "Quả thần chứa lửa sinh mệnh của Chu Tước, đốt cháy tế bào cũ sinh tế bào mới.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_084",
+    "name": "Ất Mộc Thuận Khí Đằng",
+    "description": "Dây leo mộc hệ giúp điều hòa lại dòng linh lực đang chạy loạn xạ trong kinh mạch.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_085",
+    "name": "Thần Thú Hộ Tạng Chi",
+    "description": "Nấm bảo vệ lục phủ ngũ tạng không bị dập nát khi chịu áp lực cao.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_086",
+    "name": "Quý Thủy Thuần Khiết Nhị",
+    "description": "Nhị hoa lọc sạch các độc tố gốc nước bám trong hệ tuần hoàn.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_087",
+    "name": "Canh Kim Hóa Kiếm Thảo",
+    "description": "Cỏ hấp thụ và bài tiết các mảnh vụn kiếm khí còn găm lại trong thịt ra ngoài.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_088",
+    "name": "Hư Không Vá Trời Liên",
+    "description": "Hoa sen không gian giúp vá lại các vết rách kinh mạch do bão không gian gây ra.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_089",
+    "name": "Tử Kim Vạn Năng Sâm",
+    "description": "Sâm quý điều trị tổng hợp mọi loại nội thương tầm thấp từ nhẹ đến trung bình.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_090",
+    "name": "Thần Thú Cộng Minh Cúc",
+    "description": "Hoa cúc giúp sủng vật nhanh chóng chữa lành các vết thương sau trận chiến đấu.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_091",
+    "name": "Hỗn Độn Bản Nguyên Củ",
+    "description": "Củ rễ ngưng tụ sinh cơ nguyên thủy nhất, cải tử hoàn sinh cấp Tiên giới.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_092",
+    "name": "Nghịch Huyết Cải Mệnh Hoa",
+    "description": "Bông hoa ma đạo lật ngược tình trạng kiệt quệ huyết dịch thành trạng thái viên mãn.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_093",
+    "name": "Siêu Thoát Bất Tử Chi",
+    "description": "Nấm chi chí cao, ăn vào đạt trạng thái bất tử nhục thân vĩnh viễn không bị thối rữa.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_094",
+    "name": "Thiên Long Định Cốt Nhụy",
+    "description": "Nhị hoa đúc lại khung xương bị vỡ vụn thành bột mịn.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_095",
+    "name": "Phượng Hoàng Tụ Hồn Diệp",
+    "description": "Lá cây gom các sợi tàn hồn vỡ nát đúc lại thành một nguyên thần nguyên vẹn.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_096",
+    "name": "Thần Thừa Kế Quả",
+    "description": "Quả thần giúp kế thừa trọn vẹn sức sống của vị đại lão trước khi lâm chung.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_097",
+    "name": "Vô Lượng Công Đức Liên",
+    "description": "Hoa sen công đức chữa lành hoàn toàn các vết thương do thiên phạt lôi kiếp gây ra.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_098",
+    "name": "Huyền Linh Tẩy Tủy Đằng",
+    "description": "Dây leo mộc hệ rửa sạch tận sâu trong tủy não giúp đầu óc thanh thoát.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_099",
+    "name": "Càn Khôn Tạo Hóa Củ",
+    "description": "Rễ cây tạo hóa tái tạo lại toàn bộ vùng đan điền đã bị đối thủ phá hủy.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_100",
+    "name": "Thái Sơ Sinh Mạng Quả",
+    "description": "Quả thần đầu tiên của vũ trụ, cung cấp sinh mệnh lực vô hạn tức thời.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "herb_101",
+    "name": "Trấn Thần Thảo",
+    "description": "Cỏ định thần, giúp giữ chặt tâm trí tĩnh lặng, chống lại các đòn tấn công huyễn thuật cấp thấp.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_102",
+    "name": "Phá Vọng Cúc",
+    "description": "Hoa cúc vắt lấy nước nhỏ mắt giúp nhìn thấu bản chất các trận pháp và ngụy trang.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_103",
+    "name": "Tử Tiêu Nhãn Nhị",
+    "description": "Nhị hoa màu tím nâng cấp thị lực, giúp nhìn đêm rõ như ban ngày.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_104",
+    "name": "Thần Thức Hải Dương Đằng",
+    "description": "Dây leo mọc ven hồ linh tuyền, giúp mở rộng dung tích chứa đựng thần thức.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_105",
+    "name": "Vô Ngã Thiên Cơ Thảo",
+    "description": "Cỏ mông muội thiên cơ, giúp giấu kín suy nghĩ trước các đại lão có khả năng đọc tâm.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_106",
+    "name": "Tinh Thần Tụ Hồn Quả",
+    "description": "Quả hấp thụ ánh sao ban đêm, nuôi dưỡng nguyên thần ngày càng ngưng tụ vững chắc.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_107",
+    "name": "Phật Đà Bồ Đề Diệp",
+    "description": "Lá cây bồ đề vạn năm giúp tâm trí đạt đến trạng thái vô ngã, miễn nhiễm hoàn toàn tâm ma.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_108",
+    "name": "Tiên Linh Thông Tuệ Cúc",
+    "description": "Hoa cúc tăng cường trí nhớ và tốc độ suy toán trận pháp sơ đồ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_109",
+    "name": "Thần Thông Khai Nhãn Chi",
+    "description": "Nấm mở con mắt thứ ba (thiên nhãn) tạm thời hoặc vĩnh viễn nếu cơ duyên đủ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_110",
+    "name": "Âm Dương Thấu Thị Hoa",
+    "description": "Bông hoa hai màu giúp đôi mắt nhìn xuyên thấu qua các vật thể rắn như tường đá, giáp trụ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_111",
+    "name": "Tâm Linh Cảm Ứng Nhị",
+    "description": "Nhị hoa giúp thiết lập liên kết suy nghĩ không lời giữa hai đạo lữ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_112",
+    "name": "Phá Pháp Thần Nhãn Củ",
+    "description": "Củ rễ chiết xuất tinh chất giúp đôi mắt bắn ra quang ti phá hủy ảo trận.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_113",
+    "name": "Tàn ảnh Huyễn Hồn Thảo",
+    "description": "Cỏ tạo ra huyễn ảnh linh hồn giả lập đánh lừa thần thức quét qua của kẻ thù.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_114",
+    "name": "Không Gian Pháp Nhãn Quả",
+    "description": "Quả thần mở rộng khả năng nhìn thấy các đường rạn nứt không gian vô hình.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_115",
+    "name": "Nhân Ngư Quyến Rũ Nhị",
+    "description": "Nhị hoa mọc nơi đảo san hô, nâng cao mị lực trong ánh mắt nữ tu sĩ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_116",
+    "name": "Huyết Nhãn Ma Tính Chi",
+    "description": "Nấm chi đỏ giúp đôi mắt nhìn thấy rõ ràng các dòng chảy huyết dịch và điểm yếu đối thủ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_117",
+    "name": "Thiên Cơ Mộc B蔽 Đằng",
+    "description": "Dây leo che giấu thiên đạo bói toán, biến bản thân thành vô hình trên la bàn thiên cơ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_118",
+    "name": "Chấn Động Thần Thức Quả",
+    "description": "Quả thần gia tăng lực sát thương bộc phá cho các chiêu thức tấn công bằng ý niệm.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_119",
+    "name": "Tâm Kiếm Thông Minh Hoa",
+    "description": "Bông hoa giúp kiếm tu đạt đến cảnh giới người kiếm hợp nhất thông qua tâm trí.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_120",
+    "name": "Quang Minh Xua Tan Tà Thảo",
+    "description": "Cỏ phát sáng xua tan mọi ý nghĩ tiêu cực, trầm cảm do ma công đối phương gây ra.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_121",
+    "name": "Trầm Luân Mê Hồn Nấm",
+    "description": "Nấm ma thuật dùng để chế thuốc mê, khiến mục tiêu rơi vào giấc ngủ ngàn năm trong tâm trí.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_122",
+    "name": "Tử Vong Mục Quang Nhị",
+    "description": "Nhị hoa đen ngưng tụ tử khí vào đôi mắt, nhìn ai người đó giảm thọ mệnh.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_123",
+    "name": "Thánh Quang mù Mắt Đóa",
+    "description": "Bông hoa phát ra ánh sáng cực đại khi hái xuống, làm mù mắt kẻ thù tạm thời.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_124",
+    "name": "Như Ý Phân Hồn Diệp",
+    "description": "Lá cây có nhiều nhánh, giúp chia tách thần thức để điều khiển nhiều con rối cùng lúc.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_125",
+    "name": "Thiên âm Huyền Diệu Nhị",
+    "description": "Nhị hoa nâng cao thính giác, nghe được các tần số âm thanh nhỏ nhất từ vạn dặm.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_126",
+    "name": "Mộc Nhân Kiếm Tâm Củ",
+    "description": "Củ rễ làm đóng băng cảm xúc phàm trần, giúp tu luyện các công pháp vô tình đạt hiệu quả tối đa.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_127",
+    "name": "Cực Tốc Nhìn Chậm Thảo",
+    "description": "Cỏ giúp phản xạ của mắt tăng lên, nhìn thấy quỹ đạo bay của mũi tên chậm lại.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_128",
+    "name": "Băng Phách Kinh Mạch Nhị",
+    "description": "Nhị hoa băng giữ cho đầu óc lạnh lùng tỉnh táo giữa trận chiến hỗn loạn.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_129",
+    "name": "Thần Quang Trí Tuệ Quả",
+    "description": "Quả thần nâng cấp chỉ số thông minh, tính toán đan phương mới trong nháy mắt.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_130",
+    "name": "Tinh Thần Nhãn Tính Chi",
+    "description": "Nấm chi giúp đôi mắt hấp thụ và lưu trữ tinh thần lực từ các chòm sao.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_131",
+    "name": "Vạn Tà Oán Khí Đằng",
+    "description": "Dây leo hấp thụ oán khí xung quanh giúp ma tu mở rộng thần thức ma đạo.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_132",
+    "name": "Phù Văn Bản Nguyên Thảo",
+    "description": "Cỏ hình thù giống các ký tự phù chú, giúp tăng tốc độ vẽ bùa bằng ý nghĩ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_133",
+    "name": "Thanh âm Phá Toái Hoa",
+    "description": "Hoa hình chiếc chuông nhỏ nâng cấp âm lượng sóng âm phát ra từ cổ họng.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_134",
+    "name": "Bách Biến Dị Dung Nhị",
+    "description": "Nhị hoa làm thay đổi cấu trúc cơ mặt và khí chất thần thức bên ngoài để ngụy trang.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_135",
+    "name": "Cửu Thiên Long Uy Quả",
+    "description": "Quả thần tích tụ uy nghiêm của rồng vào giọng nói và ánh nhìn của chủ nhân.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_136",
+    "name": "Chân Lý Thuyết Phục Chi",
+    "description": "Nấm giúp lời nói phát ra mang tần số dao động dễ đi vào lòng người, thuyết phục đại lão.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_137",
+    "name": "Hắc Ám Nhìn Đêm Đằng",
+    "description": "Dây leo mọc hang sâu cung cấp khả năng nhìn rõ vật thể trong bóng tối tuyệt đối.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_138",
+    "name": "Kiếm Khí Trường Hà Nhị",
+    "description": "Nhị hoa giúp thần thức điều khiển hàng vạn thanh kiếm khí cùng lúc không bị quá tải não.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_139",
+    "name": "Bát Quái Cơ Quan Cúc",
+    "description": "Hoa cúc giúp tăng tư duy logic để hóa giải các trận pháp cơ quan phức tạp.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_140",
+    "name": "Tiên Hoàn Dẫn Đường Thảo",
+    "description": "Cỏ phát hương thơm dịu nhẹ dẫn dắt thần thức tìm kiếm lối ra trong mê cung.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_141",
+    "name": "Thần Mục Phá Không Quả",
+    "description": "Quả thần cấp cao giúp đôi mắt bắn ra hai luồng thần quang xé rách màn sương ảo ảnh.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_142",
+    "name": "Vô Thượng Chân Ma Nhị",
+    "description": "Nhị hoa ma đạo đỉnh cao giúp giữ vững lý trí tối thượng không bị ma tính nuốt chửng.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_143",
+    "name": "Tử Vi Đế Tinh Chi",
+    "description": "Nấm vương giả giúp nâng cao khí chất lãnh đạo và tầm nhìn chiến lược của thiên tử.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_144",
+    "name": "Thần Thú Cộng Minh Diệp",
+    "description": "Lá cây giúp thiết lập thần thức kết nối trò chuyện trực tiếp với sủng vật cấp cao.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_145",
+    "name": "Hỗn Độn Hóa Giải Thảo",
+    "description": "Cỏ giúp thần thức không bị đồng hóa khi tiếp xúc với các nguồn năng lượng lạ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_146",
+    "name": "Nghịch Thiên Đổi Mệnh Nhị",
+    "description": "Nhị hoa giúp bói toán vận mệnh chính xác mà không bị thiên phạt làm tổn thương não.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_147",
+    "name": "Vạn Giới Thông Hành Quả",
+    "description": "Quả thần giúp thần thức xuất khiếu du ngoạn sang các vị diện khác an toàn.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_148",
+    "name": "Đại Đạo Đồng Hóa Chi",
+    "description": "Nấm chi chí cao giúp thần thức hòa tan hoàn toàn vào quy luật đất trời để ngộ đạo.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_149",
+    "name": "Vĩnh Hằng Nguyên Sơ Đằng",
+    "description": "Dây leo cổ xưa giữ cho ký ức nguyên vẹn qua hàng vạn năm luân hồi đầu thai.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_150",
+    "name": "Siêu Thoát Tuyệt Đối Nhị",
+    "description": "Nhị hoa tối cao giúp nguyên thần đạt đến trạng thái bất diệt, không thể bị xóa sổ bẩm sinh.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_151",
+    "name": "Hủ Cốt Thảo",
+    "description": "Loại cỏ mang tính ăn mòn cực mạnh, chạm vào da thịt sẽ làm thối rữa xương cốt trong một khắc.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "herb_152",
+    "name": "Thất Bộ Đoạt Mệnh Đóa",
+    "description": "Bông hoa kịch độc, trúng phải độc tính đi quá bảy bước chân sẽ đứt mạch máu tim mà chết.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "herb_153",
+    "name": "Thôn Phệ Ma Tính Chi",
+    "description": "Nấm ma đạo kích hoạt bẩm sinh thể chất thôn phệ, hút tu vi người khác.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "herb_154",
+    "name": "Cửu Chuyển Tử Vong Sâm",
+    "description": "Củ sâm đen chứa độc tính tích tụ qua chín lần mục nát của xác chết hung thú.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "herb_155",
+    "name": "Thiên Ma Hoàng Huyết Hoa",
+    "description": "Bông hoa màu tím đen chứa ma huyết hoàng tộc, kích phát huyết mạch ma tu.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "herb_156",
+    "name": "Tháp Sát Khát Máu Đằng",
+    "description": "Dây leo gai hút máu chiến trường kích thích trạng thái cuồng bạo điên cuồng.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "herb_157",
+    "name": "Vô Biên Tà Khí Nhị",
+    "description": "Nhị hoa tỏa ra làn khói xui xẻo làm giảm khí vận của bất kỳ ai đứng gần.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_158",
+    "name": "Địa Ngục Móng Vuốt Củ",
+    "description": "Củ rễ làm mọc dài móng tay sắc nhọn mang độc tính cào rách da thịt.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_159",
+    "name": "Huyết Long Bạo Ngược Quả",
+    "description": "Quả thần làm sục sôi sát ý, tăng 200% sức mạnh cận chiến nhưng mất lý trí tạm thời.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_160",
+    "name": "Vạn Quỷ Dạ Hành Nấm",
+    "description": "Nấm mọc bãi tha ma, thu hút cô hồn dã quỷ tụ tập xung quanh tạo bẫy rập.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_161",
+    "name": "Tử Vong Độc Huyết Diệp",
+    "description": "Lá cây chứa chất độc làm đông cứng toàn bộ huyết dịch trong cơ thể mục tiêu.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_162",
+    "name": "Hắc Ám Bóng Đêm Thảo",
+    "description": "Cỏ biến tu sĩ thành một cái bóng vô hình hòa tan vào ban đêm để đi ám sát.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_163",
+    "name": "Bạch Cốt Rút Xương Nhị",
+    "description": "Nhị hoa làm mềm nhũn xương cốt đối phương khi dính phải dạng bột mịn của nó.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_164",
+    "name": "Thiên Hoàn Yêu Tính Quả",
+    "description": "Quả thần giúp yêu tộc đẩy nhanh quá trình hóa hình người phàm.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_165",
+    "name": "Mê Hồn Yêu Mị Cúc",
+    "description": "Hoa cúc tỏa hương kích dục cực mạnh, làm mất kiểm soát lý trí nam nữ tu sĩ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_166",
+    "name": "Huyết Nguyệt Điên Cuồng Chi",
+    "description": "Nấm hấp thụ ánh trăng máu, bộc phát ma lực tối đa vào đêm rằm.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_167",
+    "name": "Thiên Sát Cô Tinh Đằng",
+    "description": "Dây leo mang điềm gở cô độc, chuyên dùng để chế tạo bùa nguyền rủa kẻ thù.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_168",
+    "name": "Oán Niệm Thù Hận Hoa",
+    "description": "Bông hoa tích tụ sự căm phẫn của người chết làm nguồn dinh dưỡng cho ma công.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_169",
+    "name": "Tà Linh Triệu Hoán Nhị",
+    "description": "Nhị hoa dùng làm vật tế phẩm để mở cổng gọi tà thần từ vị diện khác.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_170",
+    "name": "Huyết Hải Trào Dâng Củ",
+    "description": "Củ rễ chứa dịch đỏ như máu mở rộng thể tích bể máu đan điền ma tu.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_171",
+    "name": "Sát Lục Chiến Ma Diệp",
+    "description": "Lá cây làm mất đi cảm giác đau đớn nhục thân, chiến đấu đến giọt máu cuối cùng.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_172",
+    "name": "Dạ Xoa Hang Tối Nấm",
+    "description": "Nấm cung cấp khả năng tăng tốc di chuyển bộc phát trong địa hình đầm lầy hang động.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_173",
+    "name": "Hủ Bại Mục Nát Thảo",
+    "description": "Cỏ tiết ra dịch axit làm rỉ sét gãy vụn vũ khí kim loại cấp thấp của đối phương.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_174",
+    "name": "Mị Ảnh Bóng Ma Nhị",
+    "description": "Nhị hoa tạo ra các làn khói đen hình người làm nhiễu loạn tầm nhìn tầm xa.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_175",
+    "name": "Vạn Cốt Hấp Thụ Chi",
+    "description": "Nấm mọc trên sườn núi xương cốt, hấp thụ canxi tủy xương hóa giáp nhục thân.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_176",
+    "name": "Thực Hồn Nuốt Não Quả",
+    "description": "Quả thần ma đạo làm tăng trưởng kích thước nguyên thần bằng cách ăn hồn phách.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_177",
+    "name": "Độc Cơ Hơi Thở Cúc",
+    "description": "Hoa cúc độc dùng luyện chế làn khói độc ngập trời bao phủ toàn bộ thành trì.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_178",
+    "name": "Hoàng Tuyền Tước Đoạt Diệp",
+    "description": "Lá cây mang khí tức sông Hoàng Tuyền bào mòn thọ mệnh kẻ địch theo từng hơi thở.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_179",
+    "name": "Ma Huyết Vực Sâu Củ",
+    "description": "Củ rễ chứa năng lượng bạo lực của vực sâu không đáy gia tăng lực đấm vật lý.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_180",
+    "name": "Thiên Ma Tâm Ma Nhị",
+    "description": "Nhị hoa dùng để hạ độc vào thức ăn của đối thủ trước khi họ đi độ kiếp để kích hoạt tâm ma.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_181",
+    "name": "Bạch Phát Sợi Thép Đằng",
+    "description": "Dây leo mảnh như tóc, sắc bén như thép dùng để bẫy cứa cổ kẻ thù.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_182",
+    "name": "Vô Ảnh Tà Khí Nấm",
+    "description": "Nấm đen không để lại tàn dư khí tức sau khi hòa tan vào nước uống độc chết mục tiêu.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_183",
+    "name": "Huyết Đồ Đóng Băng Hoa",
+    "description": "Bông hoa ma đạo đóng băng không khí xung quanh bằng sát khí nồng đậm.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_184",
+    "name": "Cửu Vĩ Mị Thuật Quả",
+    "description": "Quả thần giúp hồ ly tinh nâng cấp mị thuật lên tầm tối thượng mê hoặc vạn vật.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_185",
+    "name": "Độc Giác Bạo Lực Nhị",
+    "description": "Nhị hoa kích thích mọc sừng rồng tăng lực húc đổ vách đá phòng ngự.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_186",
+    "name": "Ma Tà Ăn Mòn Củ",
+    "description": "Củ rễ tiết ra chất ăn mòn phá hủy lớp màng linh lực chính đạo của đối phương.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_187",
+    "name": "Vô Hồn Miễn Dịch Diệp",
+    "description": "Lá cây giúp nhục thân đạt trạng thái vô cảm tạm thời trước mọi đòn nguyền rủa.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_188",
+    "name": "Địa Sát Nặng Nề Thảo",
+    "description": "Cỏ gia tăng trọng lượng cơ thể lên ngàn cân để thực hiện các đòn giậm chân nổ đất.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_189",
+    "name": "Thái Cổ Hung Thú Nhị",
+    "description": "Nhị hoa kích hoạt bản tính tàn bạo ăn tươi nuốt sống hung thú thời hồng hoang.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_190",
+    "name": "Hắc Linh Ẩn Nấp Nấm",
+    "description": "Nấm nhỏ giúp thu nhỏ kích thước nhục thân ẩn nấp vào các kẽ đá nhỏ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_191",
+    "name": "Tử Khí Hộ Thể Đằng",
+    "description": "Dây leo tỏa làn khói tím ma đạo bao quanh bảo vệ chủ nhân khỏi ám khí bắn lén.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_192",
+    "name": "Nghịch Huyết Lật Ngược Nhị",
+    "description": "Nhị hoa đảo lộn tuần hoàn máu giúp thoát khỏi các loại bùa chú trói buộc kinh mạch.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_193",
+    "name": "Vạn Giới Thông Hành Củ",
+    "description": "Rễ cây đâm xuyên không gian dùng chế thuốc dịch chuyển xuyên qua ranh giới cấm chế.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_194",
+    "name": "Đại Đạo Phản Vật Chất Hoa",
+    "description": "Bông hoa mang năng lượng tiêu diệt mọi định luật vật lý thông thường của thiên đạo.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_195",
+    "name": "Vĩnh Hằng Mục Nát Nhị",
+    "description": "Nhị hoa làm thối rữa vĩnh viễn vết thương không thể dùng linh lực mộc hệ để chữa lành.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_196",
+    "name": "Siêu Thoát Xóa Sổ Quả",
+    "description": "Quả độc tối cao xóa sạch dấu vết luân hồi đầu thai của mục tiêu khỏi sổ sinh tử địa phủ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_197",
+    "name": "Nhân Ngân Cắt Rách Thảo",
+    "description": "Cỏ có cạnh sắc bén như lưỡi dao dùng tẩm độc lên vũ khí gia tăng lực sát thương chém.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_198",
+    "name": "Bát Quái Phá Trận Nhị",
+    "description": "Nhị hoa tiết chất dịch ăn mòn các mắt xích cơ quan của đại trận hộ tông đối phương.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "herb_199",
+    "name": "Tiên Hoàn Dẫn Thú Đằng",
+    "description": "Dây leo tỏa mùi hương thu hút hàng loạt yêu thú bạo động lao vào tấn công thành trì kẻ địch.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "herb_200",
+    "name": "Siêu Thoát Vô Thượng Độc Liên",
+    "description": "Đóa hoa sen đen chí cao, một giọt tinh chất có thể độc chết cả ý niệm của thiên đạo vũ trụ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "trib_001",
+    "name": "Tứ Tượng Oanh Đỉnh Lôi",
+    "description": "Gồm 4 tia lôi điện đại diện cho Đông - Tây - Nam - Bắc, giáng xuống để thử thách tu sĩ Trúc Cơ muốn kết Kim Đan.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "trib_002",
+    "name": "Lục Hợp Hóa Nguyên Lôi",
+    "description": "6 đạo lôi điện mang màu sắc xám, chuyên đánh vào đan điền nhằm ép buộc linh dịch cô đặc lại.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "trib_003",
+    "name": "Cửu Thiên Huyền Lôi kiếp",
+    "description": "9 đạo thiên lôi chính tông màu xanh lam, là bài kiểm tra phổ biến nhất khi tu sĩ đột phá lên Nguyên Anh Cảnh.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "trib_004",
+    "name": "Huyền Minh Tử Lôi",
+    "description": "Lôi điện mang sắc tím đậm, không chỉ đánh vào nhục thân mà còn mang theo cái lạnh thấu xương làm đóng băng linh lực.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "trib_005",
+    "name": "Âm Dương Nghịch Chuyển Lôi",
+    "description": "Cặp lôi điện một đen một trắng giáng xuống cùng lúc, cưỡng ép đảo lộn kinh mạch, tu sĩ sơ sẩy là nổ tung mà chết.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "trib_006",
+    "name": "Ngũ Hành Hỗn Hợp Lôi",
+    "description": "Đạo lôi kiếp mang 5 màu sắc (Kim, Mộc, Thủy, Hỏa, Thổ), liên tục thay đổi thuộc tính để bào mòn hộ thân linh lực của tu sĩ Hóa Thần.",
+    "group": "Chung",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "trib_007",
+    "name": "Tam Tài Yếu Hại Lôi",
+    "description": "Tập trung đánh thẳng vào 3 điểm chí mạng: Đỉnh đầu (Thần thức), Ngực (Tim), và Đan điền (Kinh mạch) của tu sĩ Luyện Hư.",
+    "group": "Chung",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "trib_008",
+    "name": "Bát Quái Giam Hãm Lôi",
+    "description": "Khóa chặt không gian xung quanh, tạo thành một lồng giam lôi điện khiến tu sĩ Hợp Thể không thể dùng bộ pháp để né tránh.",
+    "group": "Chung",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "trib_009",
+    "name": "Cửu Cửu Đại Độ Kiếp",
+    "description": "81 đạo lôi đình hung hãn giáng xuống liên tục không ngừng nghỉ. Đây là lôi kiếp kinh điển nhất, ranh giới sinh tử để tu sĩ Phàm giới phi thăng thành Tiên.",
+    "group": "II. Tiên Giới Thiên Phạt (Dành cho Nhân Tiên -> Tiên Đế)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "trib_010",
+    "name": "Tử Tiêu Thần Lôi",
+    "description": "Loại lôi điện cao cấp của Tiên giới, mang sắc tím hoàng gia, sức phá hoại gấp trăm lần Huyền Lôi của phàm giới, chuyên phạt Nhân Tiên.",
+    "group": "II. Tiên Giới Thiên Phạt (Dành cho Nhân Tiên -> Tiên Đế)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "trib_011",
+    "name": "Canh Kim Sát Phạt Lôi",
+    "description": "Lôi điện bén nhọn như ngàn vạn thanh thần kiếm, chém rách Tiên thể và phúc địa của Địa Tiên.",
+    "group": "II. Tiên Giới Thiên Phạt (Dành cho Nhân Tiên -> Tiên Đế)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "trib_012",
+    "name": "Bát Hoang Cuồng Phong Lôi",
+    "description": "Sự kết hợp giữa lôi điện thiên đình và bão tố không gian, thổi rách lớp màng bảo vệ của Thiên Tiên.",
+    "group": "II. Tiên Giới Thiên Phạt (Dành cho Nhân Tiên -> Tiên Đế)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "trib_013",
+    "name": "Đại La Bất Hủ Lôi",
+    "description": "Bài kiểm tra tính \"Bất Hủ\" của Đại La Kim Tiên. Lôi điện đánh vào để thử xem Tiên thể có thực sự bất diệt hay không.",
+    "group": "II. Tiên Giới Thiên Phạt (Dành cho Nhân Tiên -> Tiên Đế)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "trib_014",
+    "name": "Khí Vận Tiêu Hao Lôi",
+    "description": "Loại lôi kiếp vô hình không đánh vào thịt, mà đánh trực tiếp vào Khí Vận bẩm sinh, khiến tu sĩ đen đủi tột cùng, tự sinh tâm ma.",
+    "group": "II. Tiên Giới Thiên Phạt (Dành cho Nhân Tiên -> Tiên Đế)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "trib_015",
+    "name": "Huyền Hoàng Diệt Thế Lôi",
+    "description": "Lôi điện mang màu vàng đất nguyên thủy, mang sức nặng của cả một đại lục, ép nát Tiên vương oai phong.",
+    "group": "II. Tiên Giới Thiên Phạt (Dành cho Nhân Tiên -> Tiên Đế)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "trib_016",
+    "name": "Thái Sơ Nguyên Thủy Lôi",
+    "description": "Ngọn lôi sinh ra từ thuở Tiên giới mới hình thành, một tia giáng xuống có thể làm sụp đổ một tinh hệ nhỏ, là nỗi khiếp sợ của Tiên Đế.",
+    "group": "III. Thần Giới Chí Cao Lôi Phạt (Dành cho cấp Thần -> Vô Thượng Siêu Thoát)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "trib_017",
+    "name": "Thần Cách Toái Phiến Lôi",
+    "description": "Chuyên nhắm vào Thần cách bên trong đan điền, dập tắt thần hỏa và đức tin chúng sinh của Hạ Vị Thần.",
+    "group": "III. Thần Giới Chí Cao Lôi Phạt (Dành cho cấp Thần -> Vô Thượng Siêu Thoát)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "trib_018",
+    "name": "Thời Không Nghịch Chuyển Lôi",
+    "description": "Lôi điện mang quy luật không gian, đánh trúng làm tu sĩ lão hóa đi vạn năm hoặc bị đẩy về dòng thời gian quá khứ.",
+    "group": "III. Thần Giới Chí Cao Lôi Phạt (Dành cho cấp Thần -> Vô Thượng Siêu Thoát)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "trib_019",
+    "name": "Hỗn Độn Diệt Thế Thần Lôi",
+    "description": "Ngọn lôi đình tối cao màu đen tuyền sinh ra từ vũng bùn hỗn độn, chuyên dùng để tiêu diệt các vị Thần Vương nghịch thiên.",
+    "group": "III. Thần Giới Chí Cao Lôi Phạt (Dành cho cấp Thần -> Vô Thượng Siêu Thoát)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "trib_020",
+    "name": "Siêu Thoát Tuyệt Đối Thiên Phạt",
+    "description": "Ý chí tối cao của toàn bộ đa vũ trụ ngưng tụ lại thành một đạo lôi quang duy nhất. Không mang âm thanh, không mang màu sắc, phóng ra để xóa sổ vĩnh viễn sự tồn tại (bao gồm cả ký ức của chúng sinh về người đó) của kẻ muốn đạt đến Siêu Thoát Cảnh.",
+    "group": "III. Thần Giới Chí Cao Lôi Phạt (Dành cho cấp Thần -> Vô Thượng Siêu Thoát)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

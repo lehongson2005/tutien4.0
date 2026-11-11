@@ -1,0 +1,402 @@
+[
+  {
+    "id": "companion_001",
+    "name": "Lục Uyển Nhi (Thanh Mai Tri Kỷ)",
+    "description": "Xuất thân phàm nhân, tính cách dịu dàng, chu đáo. Sở hữu Mộc Linh Chi Thể (trồng thảo dược cực giỏi).",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_002",
+    "name": "Diệp Hàn Sương (Tuyết Sơn Thánh Nữ)",
+    "description": "Đệ tử cốt lõi Huyền Băng Thánh Điện. Lạnh lùng như băng, chung tình. Thể chất: Cửu Âm Hàn Thể.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_003",
+    "name": "Mộ Dung Tuyết (Kiếm Khí Hồng Nhan)",
+    "description": "Đại tiểu thư Kiếm tông. Tính cách thẳng thắn, hiếu thắng, yêu kiếm như mạng. Thể chất: Vô Hạ Kiếm Tâm.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_004",
+    "name": "Phượng Vũ (Yêu Tộc Công Chúa)",
+    "description": "Tiểu thư ngỗ nghịch của Vạn Thú Sơn. Tính cách ngạo kiều, thích bám người. Thể chất: Thiên Hoàng Huyết Thống.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_005",
+    "name": "Cơ Như Nguyệt (Thần Triều Công Chúa)",
+    "description": "Công chúa Đại Chu Hoàng Triều. Thông minh, giỏi mưu lược, khí chất cao quý. Thể chất: Tử Vi Long Khí.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_006",
+    "name": "Thủy Linh Nhi (Đầm Lầy Ma Nữ)",
+    "description": "Y nữ của Ngũ Độc Giáo. Bề ngoài ngây thơ nhưng ra tay tàn nhẫn, giỏi dùng độc. Thể chất: Ngũ Độc Miên Thể.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_007",
+    "name": "Tô Mạn Dao (Yêu Nhi Hợp Hoan)",
+    "description": "Yêu nữ của Hợp Hoan Tông. Quyến rũ, lẳng lơ bề ngoài nhưng tâm hồn thuần khiết. Thể chất: Thanh Thuần Mị Cốt.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_008",
+    "name": "Đường Tuyết kiến (Đan Đạo Thiên Tài)",
+    "description": "Con gái cốc chủ Dược Vương Cốc. Tính tình bướng bỉnh nhưng tốt bụng. Thể chất: Bách Thảo Thần Tủy.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_009",
+    "name": "Gia Cát Linh Lung (Trận Pháp Chi Nữ)",
+    "description": "Thiên kim kiêu kỳ của Thiên Cơ Các. Thích suy luận, nghiện trận pháp. Thể chất: Thất Xảo Linh Lung Tâm.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_010",
+    "name": "Bạch Dao (Hồ Tộc Thiếu Nữ)",
+    "description": "Linh hồ hóa hình, ngây thơ, coi MC là ân nhân mạng sống. Thể chất: Thiên Nhãn Linh Hồ.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_011",
+    "name": "Tần Chỉ Khê (Hạo Nhiên Tài Nữ)",
+    "description": "Nho sinh Hạo Nhiên Thư Viện. Khí chất thư hương, trầm tĩnh, lý trí. Thể chất: Văn Khúc Thánh Thể.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_012",
+    "name": "Ninh Thần Ngọc (Tán Tu Tỷ Tỷ)",
+    "description": "Đàn chị tán tu hơn MC vài tuổi, tính cách phong trần, trượng nghĩa, kinh nghiệm giang hồ phong phú.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_013",
+    "name": "Thượng Quan Vi (Thương Hội Trưởng Quầy)",
+    "description": "Đại diện Vạn Bảo Các. Thực tế, khéo léo, giỏi tính toán linh thạch. Thể chất: Kim Tiền Pháp Nhãn.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "companion_014",
+    "name": "Vân Vô Tâm (Ẩn Thế Kiếm Sư)",
+    "description": "Truyền nhân của một kiếm thánh ẩn cư, tính cách đạm mạc, không màng thế sự.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "companion_015",
+    "name": "Hắc Phượng hoàng (Ma Đạo Chiến Tướng)",
+    "description": "Nữ tướng quân của Luyện Ngục Ma Triều, cuồng chiến đấu, chỉ khuất phục kẻ mạnh hơn mình.",
+    "group": "Phù hợp làm thanh mai trúc mã, đại tiểu thư, hoặc thiên tài thế gia ở giai đoạn đầu.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "companion_016",
+    "name": "Nhan Như Ngọc (Dao Trì Thánh Nữ)",
+    "description": "Tiên nữ dòng dõi chính thống, dung nhan đệ nhất tiên giới, thanh cao thoát tục. Thể chất: Tiên Linh Thánh Thể.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_017",
+    "name": "Dạ Lăng Hoàng (Hắc Ám Nữ Đế)",
+    "description": "Chúa tể Hắc Ám Tiên Điện. Bá đạo, chiếm hữu cao, lạnh lùng tàn nhẫn với cả thế giới nhưng dịu dàng với MC. Thể chất: Thần Ma Đồng Thể.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "companion_018",
+    "name": "Long Yêu Nhi (Thái Cổ Long Nữ)",
+    "description": "Công chúa Long Đảo. Kiêu ngạo, sức mạnh nhục thân cực khủng, tính cách bá đạo. Thể chất: Chân Long Thánh Thể.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "companion_019",
+    "name": "Huyền Cơ Tiên Tử (Thiên Cơ Các Chủ)",
+    "description": "Nữ bói toán tiên giới, nhìn thấu quá khứ tương lai nhưng không thể nhìn thấu vận mệnh MC.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_020",
+    "name": "Tử Hà Tiên Tử (Tử Vi Tinh Chủ)",
+    "description": "Nữ đế cai quản một tinh vực, khí chất mẫu nghi thiên hạ, thành thục quyến rũ.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_021",
+    "name": "Phượng Hoàn Sào (Kinh Thiên Yêu Tiên)",
+    "description": "Thiên tài tộc Phượng Hoàng, bướng bỉnh, sở hữu ngọn lửa thiêu rụi tiên nhân. Thể chất: Bất Diệt Phượng Huyết.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_022",
+    "name": "Huyết Nhã (Huyết Hải Tiên Tử)",
+    "description": "Thánh nữ Huyết Hải Môn, quyến rũ ma mị, thích trêu chọc MC. Thể chất: Huyết Linh Tủy.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_023",
+    "name": "Mộc Tuyết Yên (Dược Tiên Cung Chủ)",
+    "description": "Bậc thầy luyện đan tiên giới, tính tình ôn hòa như nước, được vạn tộc kính trọng.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_024",
+    "name": "Cổ Phù hoàng (Phù Lục Tộc Trưởng)",
+    "description": "Thiên tài vẽ bùa, tính cách lập dị, chỉ thích nhốt mình trong phòng nghiên cứu bùa chú.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "companion_025",
+    "name": "Thần Nhạc (Âm Luật Tiên Tử)",
+    "description": "Dùng tiếng đàn ôm trọn đại đạo, tính cách u buồn, đa sầu đa cảm. Thể chất: Thiên Lại Thần Nhĩ.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_026",
+    "name": "Lạc Thủy Tiên (Thần Thủy Cung Tổ Sư)",
+    "description": "Tiên nhân ngàn năm tái sinh, tính cách trầm ổn, nhìn thấu hồng trần.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_027",
+    "name": "Huyền Băng Nữ Đế (Bắc Phương Chúa Tể)",
+    "description": "Cai quản băng vực tiên giới, lãnh khốc vô tình cho đến khi gặp MC.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "companion_028",
+    "name": "Tiêu Tiêu (Ảo Ma Giáo Chủ)",
+    "description": "Bậc thầy thao túng tâm lý và ảo ảnh, tính cách tinh quái, không biết đâu là thật giả.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "companion_029",
+    "name": "Vô Song Kiếm Tiên (Côn Lân Kiếm Tông)",
+    "description": "Nữ kiếm tu mạnh nhất tiên giới, lấy kiếm phá vạn pháp, tính cách thẳng thắn như một thanh kiếm.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_030",
+    "name": "Minh Hà Thánh Nữ (Vong Linh Chi Nữ)",
+    "description": "Nữ tử thần bí canh giữ sông linh hồn, cơ thể quanh năm tỏa ra tử khí nhưng mang trái tim ấm áp.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_031",
+    "name": "Khí Linh Nhi (Tuyệt Thế Thần Binh)",
+    "description": "Là linh hồn của một thanh kiếm cổ vạn năm hóa hình thành thiếu nữ, ngây ngô và trung thành tuyệt đối với chủ nhân (MC).",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "companion_032",
+    "name": "Bạch Hổ Nữ Soái (Chiến Trường Nữ Thần)",
+    "description": "Thống soái quân đội Tây Phương Tiên Vực, tính cách mạnh mẽ, đầy hào khí trượng phu.",
+    "group": "Khí chất phi phàm, tu vi sâu thẳm, có thể che chở hoặc là đối thủ xứng tầm của MC.",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_033",
+    "name": "Hi Quang (Thần Quang Nữ Thần)",
+    "description": "Hiện thân của ánh sáng thần giới, thánh thiện, bao dung, là tín ngưỡng của hàng tỷ sinh linh.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_034",
+    "name": "Khương Thái Sơ (Thái Cổ Thần Nữ)",
+    "description": "Đại tiểu thư Khương gia tộc, bẩm sinh mang huyết thống thần minh cao quý.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_035",
+    "name": "Tịch Diệt Nữ Vương (Phá Hủy Quy Luật)",
+    "description": "Nữ thần mang năng lượng hủy diệt, đi đến đâu vạn vật tàn lụi đến đó, chỉ có MC chịu được nhiệt.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "companion_036",
+    "name": "Thiên Khải Hoàng Hậu (Thời Gian Chúa Tể)",
+    "description": "Nữ thần nắm giữ trục thời gian, có thể quay ngược quá khứ để cứu MC khi gặp nạn.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "companion_037",
+    "name": "Vô Niệm Nữ Thần (Tuyệt Tình Đạo Tổ)",
+    "description": "Người đã chặt đứt mọi cảm xúc để thành thần, nhưng lại bị MC làm lung lay đạo tâm.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_038",
+    "name": "Nhân Quả Các Chủ (Tơ Duyên Thần Nữ)",
+    "description": "Người nắm giữ các sợi tơ nhân quả của vũ trụ, tự buộc sợi tơ duyên của mình vào MC.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_039",
+    "name": "Sinh Mệnh Nữ Thần (Luân Hồi Chủ Nhân)",
+    "description": "Nắm giữ sinh tử của thần giới, dịu dàng, dịu mát như dòng nước mùa xuân.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_040",
+    "name": "Hồng Hoang Đại Lão (Thần Châu Chi Chủ)",
+    "description": "Thực thể sống từ thời khai thiên tích địa, hóa hình thành một nữ tử lười biếng nhưng thực lực vô địch.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_041",
+    "name": "Tử Vong Chúa Tể (Địa Ngục Thần Nữ)",
+    "description": "Cai quản thần quốc bóng tối, tính cách thâm trầm, lạnh lùng, thích sưu tầm linh hồn.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_042",
+    "name": "Tinh Không Thần Nữ (Khổng Lồ Đá Tộc)",
+    "description": "Thiếu nữ có cơ thể ngưng tụ từ bụi sao vạn năm, cơ thể lấp lánh như bầu trời đêm.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_043",
+    "name": "Bất Tử Điểu Vương (Phượng Hoàng Tổ Sư)",
+    "description": "Tồn tại bất tử, tính cách kiêu ngạo, coi thường chúng sinh nhưng lại tò mò về MC.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_044",
+    "name": "Thiên Đạo Chấp Pháp Giả (Vô Tình Thực Thể)",
+    "description": "Một thực thể được tạo ra bởi Thiên Đạo, ban đầu không có cảm xúc, dần hóa thành người vì yêu MC.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_045",
+    "name": "Hư Không Độc Hành Nữ (Vũ Trụ Thợ Săn)",
+    "description": "Nữ sát thủ/thợ săn tiền thưởng cấp thần giới, phóng khoáng, thích uống rượu, tính cách như nam nhi.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_046",
+    "name": "Thần Cơ Điện Chủ (Mệnh Vận Chi Nữ)",
+    "description": "Người chưởng quản cuốn sổ sinh tử thần giới, lén xóa tên MC khỏi sổ để giúp anh bất tử.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_047",
+    "name": "Thái Cổ Ma Long Nữ (Hung Thú Minh Chủ)",
+    "description": "Thống lĩnh các hung thú thái cổ, tính tình nóng nảy, bá đạo, thích dùng bạo lực giải quyết vấn đề.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "companion_048",
+    "name": "Đại Tội Kiêu Ngạo (Thần Tộc Kiêu Ngạo)",
+    "description": "Nữ thần đại diện cho tội lỗi kiêu ngạo, không coi ai ra gì ngoại trừ MC.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_049",
+    "name": "Đan Thần Nữ Vương (Thần Giới Dược Tổ)",
+    "description": "Người luyện ra thần đan cải tử hoàn sinh, tính tình thất thường, thích trêu chọc người khác.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "companion_050",
+    "name": "Vô Cực Minh Chủ (Trung Lập Chí Cao)",
+    "description": "Nữ thủ lĩnh của liên minh các giới vực, chính trị gia sắc sảo, ban đầu lợi dụng MC sau đó sa vào lưới tình.",
+    "group": "Những tồn tại tối cao của đa vũ trụ, nắm giữ quy luật và định đoạt thiên đạo.",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

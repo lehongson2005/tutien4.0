@@ -1,0 +1,122 @@
+[
+  {
+    "id": "fate_01",
+    "name": "Mệnh Cách Chí Tôn Cốt",
+    "description": "Sinh ra đã định sẵn sẽ đứng đầu một phương, làm bá chủ thế giới.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "fate_02",
+    "name": "Mệnh Cách Phế Vật Nghịch Tập",
+    "description": "Xuất phát điểm thấp kém nhất nhưng tiềm năng vô hạn về hậu kỳ.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "fate_03",
+    "name": "Mệnh Cách Đá Lót Đường",
+    "description": "Sinh ra làm thiên tài giả tạo để làm mục tiêu cho MC vả mặt nâng cấp.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "fate_04",
+    "name": "Mệnh Cách Luân Hồi Giả",
+    "description": "Hồn phách chứa ấn ký của đại lão kiếp trước, đến lúc sẽ thức tỉnh.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "fate_05",
+    "name": "Mệnh Cách Quạt Mo Cạnh MC",
+    "description": "Nhân vật phụ chuyên đi theo MC giải thích chiêu thức và bái phục, sống rất dai nhờ ké khí vận MC.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "fate_06",
+    "name": "Mệnh Cách Sát Thần",
+    "description": "Đời tu luyện chỉ toàn máu và xương, lấy sát lục để chứng đạo.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "fate_07",
+    "name": "Mệnh Cách Thọ Tinh",
+    "description": "Sức chiến đấu yếu bậc nhất nhưng tuổi thọ dài gấp đôi tu sĩ cùng cảnh giới.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "fate_08",
+    "name": "Mệnh Cách Đỉnh Lô Bẩm Sinh",
+    "description": "Thể chất quyến rũ, dễ bị bắt về làm công cụ tu luyện cho kẻ khác, số phận bi kịch nếu không có MC cứu.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "fate_09",
+    "name": "Mệnh Cách Khí Linh",
+    "description": "Linh hồn vốn là một món thần khí hóa hình thành người phàm.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "fate_10",
+    "name": "Mệnh Cách Diệt Thế",
+    "description": "Sinh ra mang điềm báo sụp đổ của toàn bộ giới vực.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "fate_11",
+    "name": "Mệnh Cách Nho Thánh",
+    "description": "Lấy chính khí văn chương làm sức mạnh, nói chữ thành chiêu thức.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "fate_12",
+    "name": "Mệnh Cách Vô Tình Đạo",
+    "description": "Càng cắt đứt tình cảm gia đình, tình yêu thì tu vi tăng càng mạnh.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "fate_13",
+    "name": "Mệnh Cách Đa Tài",
+    "description": "Học nghề phụ nào cũng thành đại sư (Luyện đan, rèn vũ khí, vẽ phù đều giỏi).",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "fate_14",
+    "name": "Mệnh Cách Vô Căn",
+    "description": "Không thuộc về dòng chảy lịch sử của thế giới này (Người xuyên không).",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "fate_15",
+    "name": "Mệnh Cách Thiên Đạo Sủng Nhi",
+    "description": "Đi dạo cũng nhặt được thần dược, thiên đạo coi như con ruột, không bao giờ đánh lôi kiếp nặng.",
+    "group": "Các Loại Mệnh Cách Định Mệnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

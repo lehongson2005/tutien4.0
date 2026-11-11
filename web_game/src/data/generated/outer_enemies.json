@@ -1,0 +1,242 @@
+[
+  {
+    "id": "enemy_001",
+    "name": "Thiên Ma Hoàng Triều",
+    "description": "Tập hợp các Ma thần sáu cánh sở hữu công pháp ăn mòn thiên đạo.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "enemy_002",
+    "name": "Phệ Hồn Ma Điện",
+    "description": "Thế lực chuyên đi săn lùng tinh cầu phàm nhân để hút sạch linh hồn luyện khí.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "enemy_003",
+    "name": "Ký Sinh Dạ Ma Tộc",
+    "description": "Chủng tộc không có nhục thân cố định, chuyên sống ký sinh trong bóng tối của các đại lão.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "enemy_004",
+    "name": "Hủy Diệt Ma Doanh",
+    "description": "Đội quân cảm tử vực, đi đến đâu phá hủy long mạch tinh cầu đến đó.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "enemy_005",
+    "name": "Huyết Ma Tộc",
+    "description": "Nuôi dưỡng huyết hải vô tận, muốn biến toàn bộ vũ trụ thành một bể máu.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "enemy_006",
+    "name": "Tà Nhãn Ma Giáo",
+    "description": "Thờ phụng con mắt khổng lồ ngoài hành tinh, có khả năng nguyền rủa từ xa vạn tinh hệ.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "enemy_007",
+    "name": "Khô Cốt Ma Quân Liên Minh",
+    "description": "Tập hợp các đại năng ma đạo chuyên điều khiển hành tinh xương khô.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "enemy_008",
+    "name": "Âm Ảnh Sát Thủ Đoàn",
+    "description": "Tổ chức sát thủ vực chuyên nhận tiền tài để ám sát các thiên tài chính đạo mới nổi.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "enemy_009",
+    "name": "Ma Thai Cấm Địa",
+    "description": "Nơi sản sinh ra các quái thai dị chủng có sức mạnh nhục thân cấp thần từ khi sinh ra.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "enemy_010",
+    "name": "Nghịch Thiên Ma Tộc",
+    "description": "Những tu sĩ sa ngã, liên minh với vực để chống lại quy luật lôi kiếp của thế giới gốc.",
+    "group": "Vực Ngoại Thiên Ma Tộc (10 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "enemy_011",
+    "name": "Thiên Đạo Chấp Pháp Giả",
+    "description": "Các thực thể vô tình do ý chí của vũ trụ tạo ra để tiêu diệt những kẻ tu luyện vượt cấp (Nghịch thiên).",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "enemy_012",
+    "name": "Tinh Không Cự Thú Tộc",
+    "description": "Đàn quái thú khổng lồ coi các hành tinh tu tiên như quả táo để ăn thịt.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "enemy_013",
+    "name": "Thời Không Kẻ Trộm",
+    "description": "Tổ chức chuyên đi bẻ cong trục thời gian để ăn cắp bảo vật thượng cổ trước khi nó xuất thế.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "enemy_014",
+    "name": "Khí Vận Thợ Săn",
+    "description": "Những kẻ săn lùng thiên tài để cướp đi Mệnh cách và Khí vận may mắn.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "enemy_015",
+    "name": "Hư Vô Thôn Phệ Giả",
+    "description": "Thực thể bóng tối nuốt chửng linh khí của toàn bộ giới vực, biến nó thành tinh cầu chết.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "enemy_016",
+    "name": "Nhân Quả Chấp Pháp Điện",
+    "description": "Các vị thần tối cao chuyên đi xóa sổ những tu sĩ sử dụng bí pháp thay đổi quá khứ.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "enemy_017",
+    "name": "Cự Thần Tộc",
+    "description": "Chủng tộc cổ đại khổng lồ coi nhân loại như kiến cỏ, sẵn sàng đạp nát tinh cầu nếu bị làm phiền.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "enemy_018",
+    "name": "Tịch Diệt Giáo Đồng",
+    "description": "Giáo phái tin rằng vũ trụ cần bị hủy diệt hoàn toàn để thiết lập lại trật tự mới.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "enemy_019",
+    "name": "Ngoại Tộc Giới Biến",
+    "description": "Chủng tộc cơ khí/khoa học từ vũ trụ khác xâm lấn bằng phi thuyền năng lượng phản vật chất.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "enemy_020",
+    "name": "Tàn Hồn Liên Minh",
+    "description": "Ý chí của các vị thần chết trận thời viễn cổ tụ họp lại để đoạt xá và trả thù thế giới sống.",
+    "group": "Thiên Địch Của Vũ Trụ / Thực Thể Chấp Pháp (10 Thế Lực)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "enemy_021",
+    "name": "Vạn Độc Giáo",
+    "description": "Chuyên bắt sống tu sĩ để thử nghiệm kịch độc và nuôi trùng.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "enemy_022",
+    "name": "Luyện Xác Tông",
+    "description": "Đào mộ tổ tiên của các đại thế gia để chế tạo khôi lỗi chiến đấu.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "enemy_023",
+    "name": "Hợp Hoan Thánh Phái",
+    "description": "Giáo phái chuyên bắt cóc nam thanh nữ tú có thể chất đặc biệt về làm đỉnh lô tu luyện.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "enemy_024",
+    "name": "Huyết Sát Lâu",
+    "description": "Tổ chức ám sát khét tiếng hạ giới, chỉ cần trả đủ linh thạch, kể cả hoàng đế cũng giết.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "enemy_025",
+    "name": "Thị Huyết Ma Giáo",
+    "description": "Tu luyện bằng cách uống máu tươi sinh linh, tôn sùng bạo lực.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "enemy_026",
+    "name": "Phệ Linh Giáo",
+    "description": "Chuyên đặt trận pháp hút cạn linh khí của các tông môn nhỏ để làm giàu cho mình.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "enemy_027",
+    "name": "Thiên Ma Giáo",
+    "description": "Chi nhánh của vực thiên ma cài cắm vào hạ giới để làm nội ứng.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "enemy_028",
+    "name": "Hắc Thủy Đường",
+    "description": "Tổ chức chợ đen chuyên buôn bán nô lệ tu sĩ và linh thú quý hiếm.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "enemy_029",
+    "name": "Quỷ Vương Tông",
+    "description": "Điều khiển hàng triệu âm hồn vây thành, biến thành phố sầm uất thành đất chết.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "enemy_030",
+    "name": "Nghịch Mệnh Hội",
+    "description": "Tổ chức tập hợp các tu sĩ bị phế vật, sẵn sàng dùng mọi thủ đoạn tà ác để đổi mệnh.",
+    "group": "Ma Đầu / Tổ Chức Tà Ác Nội Bộ (10 Thế Lực)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "region_01",
+    "name": "Đông Vực (Đông Hải / Đông Đô)",
+    "tier": "ha_gioi",
+    "description": "Địa hình & Khí hậu: Sông ngòi chằng chịt, bờ biển rộng lớn, nối liền với Vô Tận Hải (hoặc Loạn Tinh Hải) gồm hàng vạn đảo nhỏ. Khí hậu ôn hòa, mưa thuận gió hòa. | Đặc trưng tu luyện: Phát triển mạnh về Kiếm đạo, Trận pháp và Ngự thú biển. | Thế lực tiêu biểu: Các hòn đảo tu tiên độc lập, các Kiếm tông ẩn thế bên vách đá bờ biển, Long tộc thủy quái cấp thấp.",
+    "dangerLevel": 1
+  },
+  {
+    "id": "region_02",
+    "name": "Tây Vực (Tây Mạc / Phật Quốc)",
+    "tier": "ha_gioi",
+    "description": "Địa hình & Khí hậu: Hoang mạc cằn cỗi, sa mạc cát vàng vô tận, các ốc đảo cô lập. Khí hậu ngày nóng đêm lạnh, linh khí có phần khô cằn. | Đặc trưng tu luyện: Nơi trị vì độc tôn của Phật môn (Thiền tông) và Khổ tu (Tu luyện nhục thân). Đệ tử dùng tiếng chuông, gõ mõ hoặc phật quang để hàng ma phục yêu. | Thế lực tiêu biểu: Các tòa cổ tự vạn năm trên đỉnh núi đá sa mạc, Thiên Phật Đại Điện.",
+    "dangerLevel": 2
+  },
+  {
+    "id": "region_03",
+    "name": "Nam Hoang (Nam Thành / Vạn Độc Vực)",
+    "tier": "ha_gioi",
+    "description": "Địa hình & Khí hậu: Rừng rậm nguyên sinh (Thập Vạn Đại Sơn), đầm lầy u ám, chướng khí độc ngập trời. Khí hậu nóng ẩm quanh năm. | Đặc trưng tu luyện: Phát triển mạnh về Luyện độc, Cổ thuật, Vu thuật và là nơi trú ngụ của Yêu tộc hoang dã. | Thế lực tiêu biểu: Ma đạo tông môn, Ngũ Độc Giáo, các bộ lạc Man tộc sở hữu sức mạnh cơ bắp cuồn cuộn.",
+    "dangerLevel": 2
+  },
+  {
+    "id": "region_04",
+    "name": "Bắc Cực (Bắc Nguyên / Băng Vực)",
+    "tier": "ha_gioi",
+    "description": "Địa hình & Khí hậu: Tuyết trắng bao phủ quanh năm, các dòng sông băng vĩnh cửu, núi tuyết vạn trượng. Gió tuyết gào thét hung hãn. | Đặc trưng tu luyện: Chuyên tu luyện các công pháp Băng thuộc tính, rèn luyện ý chí chịu lạnh cực hạn để tôi luyện nguyên thần. | Thế lực tiêu biểu: Cổ tộc băng tuyết, Huyền Băng Thánh Điện (thường chỉ nhận nữ tử băng cơ ngọc cốt).",
+    "dangerLevel": 2
+  },
+  {
+    "id": "region_05",
+    "name": "Trung Châu (Trung Nguyên - Thánh Địa Tâm Điểm)",
+    "tier": "ha_gioi",
+    "description": "Địa hình & Khí hậu: Nơi tập hợp các long mạch lớn nhất hạ giới, núi non hùng vĩ, linh khí đậm đặc gấp mười lần 4 phương còn lại. | Đặc trưng tu luyện: Nơi tập trung toàn bộ Thánh địa tu tiên, Thái cổ thế gia vĩ đại nhất. Đan đạo và Khí đạo (Rèn vũ khí) phát triển đến đỉnh phong. | Vai trò cốt truyện: \"Tân thủ thôn\" của nhân vật chính thường nằm ở 4 vùng rìa (Đông-Tây-Nam-Bắc). Khi nhân vật chính đạt đến Trúc Cơ/Kim Đan viên mãn, họ sẽ tiến vào Trung Châu để tham gia cuộc tranh tài đỉnh cao.",
+    "dangerLevel": 3
+  },
+  {
+    "id": "region_06",
+    "name": "Đông Phương Tiên Vực (Thanh Long Vương Quốc)",
+    "tier": "tien_gioi",
+    "description": "Nơi tiên khí mang đậm mộc hệ trường sinh, tập trung các tiên môn theo đuổi lối tu luyện thanh cao, ngộ đạo ẩn dật.",
+    "dangerLevel": 4
+  },
+  {
+    "id": "region_07",
+    "name": "Tây Phương Tiên Vực (Bạch Hổ Chiến Trường)",
+    "tier": "tien_gioi",
+    "description": "Nơi tiên khí mang thuộc tính kim sắc bén. Vùng đất này quanh năm xảy ra đại chiến giữa Tiên giới và Ma giới, tiên nhân ở đây đều có sát ý ngút trời.",
+    "dangerLevel": 4
+  },
+  {
+    "id": "region_08",
+    "name": "Nam Phương Tiên Vực (Chu Tước Tiên Giới)",
+    "tier": "tien_gioi",
+    "description": "Bản đồ ngập tràn các ngọn núi lửa tiên gia. Đây là thiên đường của các bậc thầy luyện đan, rèn thần binh thần khí Tiên giới nhờ ngọn lửa Nam Minh Ly Hỏa bẩm sinh.",
+    "dangerLevel": 4
+  },
+  {
+    "id": "region_09",
+    "name": "Bắc Phương Tiên Vực (Huyền Vũ Minh Hải)",
+    "tier": "tien_gioi",
+    "description": "Vùng biển đen huyền bí ngoài rìa tiên giới, nơi giam giữ các hung thú, tội đồ thời thái cổ. Tiên nhân ở đây thâm trầm, nguy hiểm, chuyên tu luyện bí thuật bóng tối.",
+    "dangerLevel": 4
+  },
+  {
+    "id": "region_10",
+    "name": "Trung Thiên Tiên Vực (Đế Đô Thiên Đình)",
+    "tier": "tien_gioi",
+    "description": "Nơi ngự trị của Chưởng quản thiên đình, trung tâm quyền lực tối cao của Tiên giới, nơi đặt Hóa Tiên Trì tiếp đón người phi thăng từ hạ giới lên.",
+    "dangerLevel": 4
+  },
+  {
+    "id": "region_11",
+    "name": "Đông Phương Thần Vực (Thần Quang Đạo Vực)",
+    "tier": "than_gioi",
+    "description": "Bản đồ của các vị thần chính thống cổ xưa mang năng lượng quang minh, đức tin ngập tràn.",
+    "dangerLevel": 6
+  },
+  {
+    "id": "region_12",
+    "name": "Tây Phương Vực Ngoại (Tinh Không Hỗn Độn)",
+    "tier": "than_gioi",
+    "description": "Khe rạn nứt giáp giới với đa vũ trụ khác, nơi trú ngụ của các Cổ Thần ẩn thế phản vật chất.",
+    "dangerLevel": 6
+  },
+  {
+    "id": "region_13",
+    "name": "Nam Phương Vực Sâu (Địa Ngục Thần Quốc)",
+    "tier": "than_gioi",
+    "description": "Vùng đất của Ma thần, Dạ xoa, lấy oán niệm chúng sinh làm năng lượng tu luyện.",
+    "dangerLevel": 6
+  },
+  {
+    "id": "region_14",
+    "name": "Bắc Phương Tịch Diệt Vực (Vùng Đất Chết)",
+    "tier": "than_gioi",
+    "description": "Nơi quy luật Thời gian và Không gian bị đóng băng hoàn toàn, chỉ có Thần Vương mới dám bước vào tìm kiếm mảnh vỡ khai thiên tích địa.",
+    "dangerLevel": 6
+  },
+  {
+    "id": "region_15",
+    "name": "Trung Tâm Hồng Hoang Đại Lục (Thần Châu Chí Cao)",
+    "tier": "than_gioi",
+    "description": "Nơi mọc lên Cây Thế Giới (Đại Đạo Đồng Hóa), nơi Thiên đạo tối cao ngưng tụ. Kẻ đứng đầu vùng này chính là Siêu Thoát Cảnh Chân Tự Tại.",
+    "dangerLevel": 6
+  }
+]

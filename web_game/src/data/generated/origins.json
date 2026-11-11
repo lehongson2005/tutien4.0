@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "origin_001",
+    "name": "Tiểu Nhị Quán Trọ",
+    "description": "Quanh năm lau bàn, nghe ngóng đủ thứ tin tức giang hồ, vô tình nhặt được một chiếc nhẫn không gian do vị đại năng say rượu để lại.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_002",
+    "name": "Tiểu Phu Đốn Củi",
+    "description": "Chặt củi mưu sinh trên núi sâu, một ngày nọ chặt trúng một cây cổ thụ ngàn năm chảy ra tiên dịch tủy.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_003",
+    "name": "Mục Đồng Chăn Trâu",
+    "description": "Cậu bé chăn trâu nghèo khổ, phát hiện con trâu già mình nuôi mười năm bỗng nhiên biết nói tiếng người, truyền thụ cho yêu tộc công pháp.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_004",
+    "name": "Ngư Dân Lưới Cá",
+    "description": "Đánh cá ven biển, vớt được một quả trứng rồng bị thương dưới đáy biển sâu, từ đó bước vào con đường ngự thú.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_005",
+    "name": "Kẻ Nhặt Xác Nghĩa Địa",
+    "description": "Nghề nghiệp âm u, nhờ tiếp xúc nhiều với tử khí nên bẩm sinh thức tỉnh thức thần nhãn, nhìn thấy được hồn ma và đồ mai táng quý giá.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_006",
+    "name": "Thợ Rèn Đồ Sắt",
+    "description": "Học đồ ở tiệm rèn, rèn ra một thanh đao sắt bỗng nhiên dẫn động thiên lôi, thức tỉnh thiên phú luyện khí bẩm sinh.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_007",
+    "name": "Tiểu Khất Cái (Ăn Mày)",
+    "description": "Lang thang đầu đường xó chợ, được một lão ăn mày sắp chết truyền lại một chiếc gậy long đầu và bộ công pháp \"Đả Tiên Quyền\".",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_008",
+    "name": "Thợ Săn Thâm Sơn",
+    "description": "Giỏi đặt bẫy và bắn tên, vô tình bắn hạ một con linh điểu bị thương, lấy được một viên đan dược hóa hình.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_009",
+    "name": "Kẻ Đào Mỏ Linh Thạch",
+    "description": "Phu mỏ bị bóc lột dưới hầm sâu, trong một lần sập hầm lén nuốt một viên Cực Phẩm Linh Thạch thô, không chết mà cải tạo kinh mạch.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_010",
+    "name": "Thợ Gốm Làng Nghề",
+    "description": "Chuyên nặn đất nung, vô tình tìm thấy một loại đất sét cổ có khả năng niêm phong linh khí, tự chế ra pháp bảo bọc gốm độc nhất vô nhị.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_011",
+    "name": "Tài Xế Đẩy Xe Hàng",
+    "description": "Chuyên thồ hàng qua các vách núi hiểm trở, nhặt được bản đồ bí cảnh do một tu sĩ bị rơi rớt khi ngự kiếm bay qua.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_012",
+    "name": "Gia Đinh Vương Phủ",
+    "description": "Đầy tớ bị sai vặt, lén học trộm võ công của võ sư vương phủ, vô tình phát hiện mình có \"Thiên Đạo Vạn Pháp Nhãn\" nhìn một lần là ngộ.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_013",
+    "name": "Văn Sĩ Thi Rớt",
+    "description": "Sĩ tử nghèo thi hỏng nhiều lần, uất hận viết ra một bài thơ chính khí, dẫn động Nho đạo khí vận, lấy văn nhập đạo.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_014",
+    "name": "Y Đồ Tiệm Thuốc",
+    "description": "Cậu bé băm thuốc mưu sinh, nếm thử trăm loại thảo dược để phân biệt, vô tình luyện thành bách độc bất xâm.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_015",
+    "name": "Kẻ Canh Miếu Hoang",
+    "description": "Sống trong một ngôi miếu đổ nát, mỗi đêm đều thắp hương cho một bức tượng thần không đầu, một ngày nọ bức tượng ban cho thần cách tàn phế.",
+    "group": "Những xuất thân thấp kém nhất, rèn luyện cho nhân vật ý chí kiên cường và những kỹ năng phàm trần kỳ lạ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_016",
+    "name": "Cựu Thiên Tài Bị Từ Hôn",
+    "description": "Từng là đệ nhất thiên tài, bị kẻ thù ám toán phế bỏ tu vi, bị vị hôn thê từ hôn nhục nhã ngay tại đại sảnh gia tộc.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_017",
+    "name": "Con Hoang Tộc Trưởng",
+    "description": "Con ngoài giá thú của tộc trưởng với một tì nữ, bị cả gia tộc khinh rẻ, sỉ nhục, mẫu thân bị giam cầm.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_018",
+    "name": "Thái Tử Vong Quốc",
+    "description": "Phụ hoàng bị giết, đất nước bị diệt vong, mang theo quốc thái bảo vật trốn chạy sự truy sát của phản quân.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_019",
+    "name": "Đích Trưởng Tử Bị Đổi Kinh Mạch",
+    "description": "Bẩm sinh sở hữu Chí Tôn Cốt nhưng bị chính đại trưởng lão gia tộc lén đào ra để cấy vào người con trai ông ta.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_020",
+    "name": "Lục Hoàng Tử Bị Đày Biên Cương",
+    "description": "Thân phận hoàng tộc nhưng không có thế lực, bị các hoàng huynh hãm hại đày ra vùng biên thùy hoang vu cằn cỗi.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_021",
+    "name": "Ngoại Môn Đệ Tử Tư Chất Kém",
+    "description": "Tư chất ngũ linh căn rác rưởi, làm đệ tử tạp dịch mười năm không đột phá nổi Luyện Khí tầng 3, sắp bị đuổi khỏi tông môn.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_022",
+    "name": "Công Tử Bị Vu Oan",
+    "description": "Bị kẻ xấu hãm hại vu khống thông đồng với ma đạo, bị tông môn phế đi võ công, đánh gãy chân ném xuống vách núi sâu.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_023",
+    "name": "Con Trai Tội Thần",
+    "description": "Gia tộc bị hoàng triều gán tội phản quốc, cả nhà bị tru di tam tộc, bản thân may mắn được trung thần hoán đổi mạng sống trốn thoát.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "chi_ton",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 20,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_024",
+    "name": "Thiếu Gia Bị Đoạt Đoạt Sản Nghiệp",
+    "description": "Phụ mẫu mất sớm, thúc thúc tàn nhẫn chiếm đoạt toàn bộ gia sản, đẩy nhân vật ra đường làm kẻ lang thang.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_025",
+    "name": "Thứ Tử Sinh Ra Từ Quan Tài",
+    "description": "Mẹ bị chôn sống khi đang mang thai, nhân vật sinh ra trong mộ huyệt cổ, bẩm sinh mang theo Cửu Âm Tuyệt Thể.",
+    "group": "Kịch bản kinh điển nhưng luôn kích thích độc giả nhờ yếu tố báo thù và lật ngược thế cờ.",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_026",
+    "name": "Tiên Đế Trọng Sinh",
+    "description": "Đại lão Tiên giới bị huynh đệ phản bội trong trận chiến giành Thiên Đạo Thai, linh hồn luân hồi về một thiếu niên hạ giới.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_027",
+    "name": "Sát Thủ Hiện Đại Xuyên Không",
+    "description": "Sát thủ top 1 thế giới hiện đại chết do nổ bom, xuyên không vào thân xác một thiếu gia ốm yếu ở thế giới tu tiên.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 14,
+      "tamCanh": 2,
+      "khiVan": 10,
+      "linhThach": 50,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "high"
+  },
+  {
+    "id": "origin_028",
+    "name": "Ma Hoàng Thức Tỉnh Ký Ức",
+    "description": "Đang là một đệ tử chính đạo chính trực, bỗng nhiên một ngày thức tỉnh ký ức kiếp trước mình là vạn ma chi vương.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_029",
+    "name": "Kiếm Tổ Tàn Hồn Dung Hợp",
+    "description": "Thần niệm của một vị kiếm tổ thượng cổ sắp tan biến, chọn dung hợp với một đứa trẻ câm điếc để tiếp tục truyền thừa.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_030",
+    "name": "Đan Thần Độ Kiếp Thất Bại",
+    "description": "Đại sư luyện đan đệ nhất thần giới bị lôi kiếp đánh nát nhục thân, linh hồn nhập vào một tiểu tử nghiện cờ bạc.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_031",
+    "name": "Nhà Khoa Học Xuyên Không",
+    "description": "Mang theo toàn bộ kiến thức vật lý, hóa học hiện đại xuyên sang tu chân giới, dùng khoa học để cải tiến cách luyện đan, trận pháp.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 14,
+      "tamCanh": 2,
+      "khiVan": 10,
+      "linhThach": 50,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "high"
+  },
+  {
+    "id": "origin_032",
+    "name": "Lão Tổ Chuyển Thế Thân",
+    "description": "Lão tổ của một đại tông môn cảm thấy đại hạn thọ nguyên đã đến, sử dụng bí pháp chuyển thế luân hồi vào một đứa trẻ trong làng.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_033",
+    "name": "Trận Pháp Đại Sư Tự Phong Ấn",
+    "description": "Tự phong ấn bản thân trong quan tài băng mười vạn năm để né tránh đại kiếp diệt thế, nay tỉnh lại khi thế giới đã thay đổi.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_034",
+    "name": "Thần Sát Thủ Mất Trí Nhớ",
+    "description": "Tỉnh dậy trong một đống đổ nát, không nhớ mình là ai, chỉ biết bản năng chiến đấu và ám sát áp đảo vạn người.",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "ha_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_035",
+    "name": "Kẻ Xuyên Không Mang Theo Hệ Thống",
+    "description": "Một thanh niên bình thường ở Trái Đất bị xe tông, tỉnh dậy thấy mình ở tu tiên giới kèm theo một cái \"Hệ thống vả mặt tăng cấp\".",
+    "group": "Xuất thân mang lại lợi thế cực lớn về kinh nghiệm, công pháp và góc nhìn vĩ mô.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 14,
+      "tamCanh": 2,
+      "khiVan": 10,
+      "linhThach": 50,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "high"
+  },
+  {
+    "id": "origin_036",
+    "name": "Tiểu Xà Hóa Hình",
+    "description": "Một con rắn xanh nhỏ tu luyện trăm năm hóa thành hình người, ngây thơ bước vào giới tu tiên của nhân loại.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_037",
+    "name": "Hồng Hoang Dị Chủng Non",
+    "description": "Mang dòng máu của Thao Thiết hoặc Kỳ Lân, bị bỏ rơi từ nhỏ, được một thợ săn phàm nhân nhặt về nuôi như chó nhà.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_038",
+    "name": "Bán Yêu Bị Ruồng Rẫy",
+    "description": "Cha là người, mẹ là yêu tộc. Bị nhân loại kỳ thị, bị yêu tộc săn đuổi, phải sống lẩn lút ở ranh giới hai phe.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_039",
+    "name": "Long Tộc Tội Huyết",
+    "description": "Mang huyết thống rồng nhưng bị coi là dòng máu ô uế, sừng rồng bị bẻ gãy, bị xích dưới đáy giếng cổ của một tông môn.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_040",
+    "name": "Hỏa Phượng Hoàng Niết Bàn Sai Sót",
+    "description": "Niết bàn lại biến thành một đứa trẻ loài người tóc đỏ, mất hết tu vi, phải tu luyện lại từ đầu để thức tỉnh thiên hỏa.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_041",
+    "name": "Thảo Mộc Yêu Tinh",
+    "description": "Một cây nhân sâm vạn năm vô tình hóa hình thành một thiếu niên, suốt ngày sợ bị các tu sĩ bắt được để đem đi nấu cao.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_042",
+    "name": "Thạch Nhân Thức Tỉnh",
+    "description": "Một khối đá hấp thụ nhật nguyệt tinh hoa vạn năm nứt ra, biến thành một thiếu niên nhục thân cứng như kim cương.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_043",
+    "name": "Minh Tộc Di Duệ",
+    "description": "Đứa trẻ duy nhất còn sống sót của tộc người cõi âm, có khả năng điều khiển bóng tối và sai khiến xương khô.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_044",
+    "name": "Thiên Ma Ngoại Đạo Rơi Rụng",
+    "description": "Một con ma nhỏ từ vực ngoại tinh không bị rơi trúng ranh giới hạ giới, nhập xác vào một con bù nhìn rơm.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_045",
+    "name": "Kim Ô Tàn Huyết",
+    "description": "Mang trong mình ngọn lửa mặt trời nhưng kinh mạch bị bế tắc, hễ cử động mạnh là toàn thân bốc cháy, bị coi là quái thai.",
+    "group": "Sở hữu sức mạnh thể chất vượt trội hoặc năng lượng dị chủng ngay từ đầu.",
+    "tier": "tien_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_046",
+    "name": "Đứa Trẻ Nhặt Được Bên Bờ Suối",
+    "description": "Được một vị đạo sĩ già nhặt về từ một cái nôi gỗ trôi trên dòng suối linh khí, trên người chỉ có một miếng ngọc bội khắc chữ \"Mệnh\".",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_047",
+    "name": "Kẻ Sống Sót Sau Thiên Tai",
+    "description": "Cả làng bị một tia lôi kiếp từ cuộc chiến của hai đại năng vô tình đánh nát, chỉ còn duy nhất nhân vật sống sót nhờ nấp dưới lu nước cổ.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_048",
+    "name": "Người Gác Đăng Trong Tháp",
+    "description": "Từ nhỏ đã được giao nhiệm vụ thắp đèn dầu cho một tòa tháp phong ấn cổ, vô tình nghe được tiếng tụng kinh phát ra từ tầng tầng đáy tháp.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_049",
+    "name": "Kẻ Điên Ở Đầu Thôn",
+    "description": "Ai cũng nghĩ gã bị điên, suốt ngày nói lảm nhảm về số mệnh vũ trụ, thực chất gã đang tiếp nhận một lượng thông tin thiên cơ quá lớn từ Thiên Đạo.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_050",
+    "name": "Hậu Duệ Người Canh Mộ Đại Năng",
+    "description": "Gia tộc mười đời chỉ có một nhiệm vụ: canh giữ một ngôi mộ không bia ký ở bìa rừng hoang.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_051",
+    "name": "Thiếu Niên Mang Theo Tiên Phách Tri Kỷ",
+    "description": "Trong đầu bẩm sinh đã có tiếng nói của một nữ tiên tử xinh đẹp bị mất nhục thân, đóng vai trò làm sư phụ và hướng dẫn viên.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_052",
+    "name": "Sinh Ra Trong Đêm Nhật Thực",
+    "description": "Ngày sinh ra, bầu trời hạ giới tối đen như mực suốt ba ngày đêm, bị coi là điềm sấu mang lại tai ương.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_053",
+    "name": "Người Duy Nhất Đi Ra Từ Tử Vong Chi Cốc",
+    "description": "Một vùng cấm địa phàm nhân vào là chết, nhân vật đi lạc vào đó chơi ba ngày rồi đi ra, bỗng nhiên có tu vi.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_054",
+    "name": "Bào Thai Mười Năm Chưa Sinh",
+    "description": "Nằm trong bụng mẹ suốt mười năm mới chịu chào đời, vừa sinh ra đã biết đi biết nói, kinh mạch rộng gấp mười lần người thường.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_055",
+    "name": "Kẻ Bị Thiên Đạo Nguyền Rủa",
+    "description": "Bẩm sinh hễ tu luyện là lôi kiếp kéo đến đánh (dù mới ở Luyện Khí kỳ), buộc phải tìm cách tu luyện lách luật của ông trời.",
+    "group": "Những hoàn cảnh mở ra cốt truyện mang tính vĩ mô, liên quan đến đại đạo và số mệnh.",
+    "tier": "tien_gioi",
+    "rarity": "linh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 0,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_056",
+    "name": "Đạo Tặc Giang Hồ (Đạo Thần nhỏ)",
+    "description": "Chuyên đi trộm đồ của quan lại phàm trần, lỡ tay trộm trúng túi trữ vật của một tu sĩ giả phàm đi chơi.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_057",
+    "name": "Kiếm Khách Hồng Trần",
+    "description": "Đệ nhất kiếm hoàng của giới phàm nhân, nhận ra võ công phàm trần có giới hạn, quyết định vác thanh sắt rỉ đi tìm tiên duyên.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_058",
+    "name": "Kẻ Buôn Đồ Cổ Chợ Đen",
+    "description": "Chuyên đi lừa đảo bán đồ giả, vô tình mua được một món đồ cũ nát từ một lão già rách rưới, hóa ra là mảnh vỡ của Khai Thiên Rìu.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_059",
+    "name": "Đầu Bếp Tửu Lầu",
+    "description": "Nấu ăn siêu hạng, vô tình dùng một cây linh thảo làm gia vị nấu canh, tạo ra món ăn khiến linh thú thèm thuồng tự dẫn xác đến ký khế ước.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_060",
+    "name": "Kẻ Săn Tiền Thưởng Phàm Nhân",
+    "description": "Chuyên truy bắt tội phạm truy nã, vô tình lạc vào một sơn cốc đầy sương mù, nhặt được công pháp sát thủ cấp tiên.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_061",
+    "name": "Đào Hát Gánh Tuồng",
+    "description": "Chuyên đóng vai các vị thần tiên trên sân khấu phàm trần, do diễn quá nhập tâm nên cộng hưởng với ý chí thần linh thượng cổ.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_062",
+    "name": "Kỳ Thủ Đánh Cờ",
+    "description": "Thiên tài cờ vây phàm trần, đánh cờ thắng một ông lão kỳ quái (thực chất là tiên nhân hóa phàm), được ông lão truyền cho \"Trận Pháp Đại Đạo\".",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_063",
+    "name": "Thợ Lặn Ngọc Trai",
+    "description": "Lặn sâu dưới đáy biển tìm trân châu, vô tình phát hiện ra một tòa thủy cung bị bỏ hoang của tộc Thủy quái.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_064",
+    "name": "Kẻ Đưa Thư Xuyên Đêm",
+    "description": "Chuyên chạy bộ đưa thư giữa các thành trì, chạy nhiều đến mức tự ngộ ra \"Thần Hành Bộ Pháp\" tốc độ cực hạn.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_065",
+    "name": "Tiểu Thư Lầu Xanh Bán Nghệ",
+    "description": "Kỹ nữ chỉ bán nghệ không bán thân, gảy đàn tỳ bà hay đến mức khiến một con chim phượng hoàng lén xuống nghe và tặng phượng huyết.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_066",
+    "name": "Người Canh Hải Đăng",
+    "description": "Sống cô độc trên một ngọn tháp ven biển, quanh năm nhìn sóng vỗ, tự ngộ ra \"Thương Hải Quy Luật\" thủy hệ.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_067",
+    "name": "Kẻ Đi Cà Kheo Biểu Diễn",
+    "description": "Nghệ sĩ đường phố bẩm sinh giữ thăng bằng cực tốt, vô tình phát hiện mình có thể đi bộ trên không trung (Không Bộ) từ Luyện Khí Kỳ.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_068",
+    "name": "Thợ Dệt Vải Làng Lụa",
+    "description": "Thiên tài thêu thùa, vô tình dùng sợi tơ thường thêu ra một bức tranh phong cảnh có chứa nội hàm không gian giới vực.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_069",
+    "name": "Lão Tiều Phu Trẻ Mãi Không Già",
+    "description": "Một người phàm ăn nhầm một quả định nhan quả trên núi, sống 200 năm vẫn mang gương mặt thiếu niên mười tám, quyết định đi tu tiên.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_070",
+    "name": "Kẻ Chuyên Đốt Vàng Mã",
+    "description": "Nghề nghiệp gia truyền làm đồ hàng mã, một ngày nọ đồ mã gã đốt bỗng biến thành thực thể ở cõi âm âm phủ.",
+    "group": "56 - 70: Nghề nghiệp giang hồ & Lối sống phàm trần",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "bonuses": {
+      "nhucThan": 7,
+      "ngoTinh": 2,
+      "tamCanh": 7,
+      "khiVan": 0,
+      "linhThach": 5,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_071",
+    "name": "Thiếu Gia Nhà Giàu Muốn Mua Tiên Duyên",
+    "description": "Con trai thương nhân giàu nhất vùng, mang theo mười rương vàng đến cầu xin nhập môn, bị từ chối vì không có linh căn, quyết dùng tiền đè chết quy tắc.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_072",
+    "name": "Nữ Cải Nam Trang Vào Tông Môn",
+    "description": "Công tử một thế gia thực chất là nữ, vì tránh bị đem đi làm đỉnh lô (công cụ tu luyện) cho lão tổ phái khác nên trốn đi làm đệ tử ngoại môn phái nam.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_073",
+    "name": "Con Trai Của Sát Thủ Phản Bội",
+    "description": "Cha là sát thủ hàng đầu của thế lực ngầm phản bội tổ chức để bảo vệ con, nhân vật vừa tu luyện vừa trốn chạy tổ chức của cha.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_074",
+    "name": "Đứa Trẻ Sinh Ra Từ Sấm Sét",
+    "description": "Mẹ bị sét đánh trúng khi đang mang thai, nhân vật sinh ra mang theo vết bớt hình tia chớp màu tím khắp lưng (Lôi Thể vương giả).",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_075",
+    "name": "Tiểu Công Chúa Bị Bỏ Rơi",
+    "description": "Con gái của một vương triều phàm nhân bẩm sinh có đuôi cáo, bị coi là yêu nghiệt quái vật nên bị vứt vào rừng sâu.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_076",
+    "name": "Đích Tử Gia Tộc Suy Tàn",
+    "description": "Gia tộc từng là đệ nhất đại thế lực hạ giới nay chỉ còn lại một căn nhà nát và một thanh kiếm gãy chứa linh hồn tổ tiên.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_077",
+    "name": "Thiếu Niên Mang Trái Tim Thủy Tinh",
+    "description": "Bẩm sinh tim làm bằng một khối linh thạch thủy tinh lấp lánh, không có cảm xúc đau đớn, học công pháp tuyệt tình cực nhanh.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_078",
+    "name": "Kẻ Bị Cướp Đi Khí Vận",
+    "description": "Sinh ra mang điềm lành Long Phượng, nhưng bị một vị quốc sư tà ác dùng bí pháp cướp sạch khí vận chuyển sang cho hoàng tử.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_079",
+    "name": "Thứ Tử Sinh Đôi Bị Che Giấu",
+    "description": "Sinh đôi cùng người anh thiên tài, nhưng người anh được chọn vào đại tông môn, còn người em bị giam cầm trong mật thất làm cái bóng thế mạng.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_080",
+    "name": "Con Nuôi Của Một Ma Đầu Hoàn Lương",
+    "description": "Được nuôi dưỡng bởi một lão ma đầu đã gác kiếm, dạy cho toàn những chiêu thức tàn nhẫn nhưng tính cách nhân vật lại cực kỳ lương thiện.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_081",
+    "name": "Thiếu Niên Có Đôi Mắt Âm Dương Ngược",
+    "description": "Mắt trái nhìn thấy thiên đường (tiên khí), mắt phải nhìn thấy địa ngục (ma khí), suốt ngày bị hai nguồn năng lượng xung đột.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_082",
+    "name": "Kẻ Bị Độc Trùng Nuôi Lớn",
+    "description": "Bị bỏ rơi trong hang rết từ nhỏ, được rết chúa nuôi dưỡng bằng nọc độc, cơ thể biến dị thành bán nhân độc thể.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_083",
+    "name": "Thần Đồng Toán Học Phàm Trần",
+    "description": "Có khả năng tính toán vạn vật trong đầu, dùng đầu óc phàm trần để bẻ gãy và giải mã các trận pháp tu tiên cấp cao.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_084",
+    "name": "Công Tử Thế Gia Nghiện Đọc Sách Cấm",
+    "description": "Suốt ngày nhốt mình trong thư phòng đọc các sách thần thoại cổ, vô tình tìm thấy mật mã công pháp giấu giữa các dòng chữ.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_085",
+    "name": "Nữ Nhi Gia Tộc Luyện Khí Toàn Nam",
+    "description": "Sinh ra trong gia tộc rèn đúc chỉ truyền nam không truyền nữ, lén giả trai để tham gia đại hội đúc binh khí.",
+    "group": "71 - 85: Biến cố gia tộc và biến dị thể chất kịch tính",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 12,
+      "ngoTinh": 2,
+      "tamCanh": 2,
+      "khiVan": 5,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_086",
+    "name": "Tiểu Đạo Sĩ Miếu Đổ",
+    "description": "Sư phụ đạo sĩ già vừa qua đời, để lại một con lừa rách và một cuốn sách rách chữ tiêu đề \"Đại Đạo Kinh\".",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_087",
+    "name": "Kẻ Trúng Thưởng Vé Số Tiên Nhân",
+    "description": "May mắn nhặt được một tấm lệnh bài \"Tiên Duyên Lệnh\" do một tông môn thả ngẫu nhiên xuống phàm trần để tuyển chọn đệ tử may mắn.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "tien_gioi",
+    "rarity": "chi_ton",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 32,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_088",
+    "name": "Thiếu Niên Nhìn Thấy Thanh Máu",
+    "description": "Bỗng nhiên một ngày nhìn ai cũng thấy một thanh máu (HP) lơ lửng trên đầu, biết được ai sắp chết hoặc ai đang bị thương nặng để trục lợi.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_089",
+    "name": "Búp Bê Gỗ Hóa Hình",
+    "description": "Một con búp bê gỗ do một vị đại năng tiên giới nặn ra để chơi lúc rảnh rỗi, rớt xuống hạ giới tự hấp thụ linh khí hóa thành người.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_090",
+    "name": "Người Đuổi Kịp Mặt Trời",
+    "description": "Thiếu niên bộ tộc du mục bẩm sinh chạy cực nhanh, quyết định chạy đua theo hướng mặt trời lặn, vô tình chạy thẳng vào cổng vào của một bí cảnh cổ.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_091",
+    "name": "Kẻ Nhặt Được Nhật Ký Của Kẻ Xuyên Không",
+    "description": "Nhặt được một cuốn sổ viết bằng chữ tượng hình kỳ lạ (tiếng Việt/tiếng Anh), giải mã được các vị trí giấu kho báu của một tiền bối xuyên không đời trước.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 14,
+      "tamCanh": 2,
+      "khiVan": 10,
+      "linhThach": 50,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "high"
+  },
+  {
+    "id": "origin_092",
+    "name": "Thiếu Niên Mang Thể Chất Nuốt Tiên Khí",
+    "description": "Không thể tự hấp thụ linh khí phàm trần, chỉ có thể tu luyện bằng cách... ăn bám hoặc hít ké tiên khí rò rỉ từ các tu sĩ cấp cao.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_093",
+    "name": "Con Nuôi Của Một Con Gà",
+    "description": "Được một con linh kê (gà tinh) nuôi lớn trong một nông trại bỏ hoang, con gà này thực chất là Hỏa Phượng Hoàng phong ấn tu vi.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_094",
+    "name": "Kẻ Bị Mộng Du Sang Thế Giới Khác",
+    "description": "Cứ mỗi lần đi ngủ ở thế giới phàm trần là linh hồn lại bay sang tu luyện ở một tông môn ma đạo tại một đại lục khác.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_095",
+    "name": "Thiếu Niên Có Bóng Biết Nói",
+    "description": "Cái bóng dưới đất của nhân vật có ý thức riêng độc lập, thường xuyên bày mưu tính kế tà ác giúp chủ nhân vả mặt kẻ thù.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "vuong",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 14,
+      "tamCanh": 2,
+      "khiVan": 10,
+      "linhThach": 50,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "high"
+  },
+  {
+    "id": "origin_096",
+    "name": "Người Canh Giữ Vườn Linh Thảo Bị Nguyền Rủa",
+    "description": "Ai nhận việc canh vườn thảo dược này cũng chết sau 3 ngày, nhân vật vì nghèo nên liều mạng nhận việc, vô tình phát hiện ra bí mật dưới lòng đất.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_097",
+    "name": "Kẻ Thừa Kế Tiệm Quan Tài Thần Bí",
+    "description": "Tiệm bán quan tài phàm nhân nhưng thỉnh thoảng có các vị khách không phải người (hồn ma, tu sĩ sắp chết) đến đặt mua quan tài cự cấp.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_098",
+    "name": "Thiếu Niên Nhặt Được Chiếc Gương Sứt Bẻ Cong Giới Tính",
+    "description": "Chiếc gương đồng nhặt được có khả năng chiếu vào ai là đảo ngược thuộc tính âm dương lực chiến của người đó trong 3 giây.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_099",
+    "name": "Đứa Trẻ Sét Đánh Không Chết",
+    "description": "Bị sét đánh trúng đầu 9 lần từ nhỏ đến lớn nhưng không chết, chỉ bị biến thành đầu tóc xù và bẩm sinh miễn nhiễm hoàn toàn với Lôi Kiếp.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "thanh",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 12,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  },
+  {
+    "id": "origin_100",
+    "name": "Thanh Niên Bình Thường Nhất Vũ Trụ",
+    "description": "Không có thiên phú, không có gia thế, không có cốt tủy đặc biệt, nhưng sở hữu chỉ số \"May mắn vĩnh hằng\" chí cao vô thượng, đi dạo cũng vấp phải thần dược, bị truy sát cũng rơi trúng động phủ đại năng.",
+    "group": "86 - 100: Nhân duyên từ trên trời rơi xuống & Yếu tố thần bí",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "bonuses": {
+      "nhucThan": 2,
+      "ngoTinh": 8,
+      "tamCanh": 2,
+      "khiVan": 32,
+      "linhThach": 15,
+      "congDuc": 0,
+      "nghiepLuc": 0
+    },
+    "spiritRootBias": "random"
+  }
+]

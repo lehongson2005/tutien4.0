@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "sect_001",
+    "name": "Thanh Vân Kiếm Tông",
+    "description": "Môn phái tu kiếm lấy thủ hộ nhân gian làm kỷ cương.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_002",
+    "name": "Thái Huyền Đạo Môn",
+    "description": "Chuyên tu lôi pháp, trận pháp mượn sức mạnh thiên lôi.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_003",
+    "name": "Thiên Phật Cổ Tự",
+    "description": "Tông môn phật giáo khổ tu, đệ tử đi khắp nơi hóa duyên hàng ma.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_004",
+    "name": "Hạo Nhiên Thư Viện",
+    "description": "Các nho sinh tu luyện Hạo Nhiên Chính Khí, dùng lời thơ văn để diệt quỷ.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_005",
+    "name": "Thần Thủy Cung",
+    "description": "Môn phái chỉ nhận nữ tử, tọa lạc trên hồ nước linh thiêng, chuyên thủy hệ.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_006",
+    "name": "Linh Dương Thần Điện",
+    "description": "Thế gia tu luyện thuần dương công pháp, khắc chế âm tà.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_007",
+    "name": "Thần Băng Điện",
+    "description": "Tông môn trấn giữ cực bắc, công pháp đóng băng ngàn dặm.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_008",
+    "name": "Đại Chu Hoàng Triều",
+    "description": "Phàm nhân vương quốc có đại trận hộ quốc, bảo hộ trăm họ.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_009",
+    "name": "Khí Huyền Tông",
+    "description": "Tông môn chuyên luyện chế giáp trụ và binh khí cho chính đạo.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_010",
+    "name": "Bách Hoa Các",
+    "description": "Y sư môn phái chuyên trị thương, cứu nhân độ thế.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_011",
+    "name": "Dược Vương Cốc",
+    "description": "Thung lũng chuyên trồng linh thảo cứu người, có quan hệ rộng.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_012",
+    "name": "Cửu Thiên Đạo Cung",
+    "description": "Tông môn có 9 đỉnh núi, mỗi đỉnh luyện một loại ngũ hành đạo pháp.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "pham",
+    "faction": "chinh_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_013",
+    "name": "Thanh Long Tiên Điện",
+    "description": "Tiên vực chính thống chưởng quản phương Đông, mang mộc khí trường sinh.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_014",
+    "name": "Thái Sơ Thánh Địa",
+    "description": "Thánh địa cổ xưa, sở hữu hồ nước tẩy tủy từ thời khai thiên.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_015",
+    "name": "Dao Trì Tiên Cung",
+    "description": "Nơi các tiên nữ tu luyện, chưởng quản bàn đào viên tăng thọ nguyên.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_016",
+    "name": "Côn Lân Tiên Tông",
+    "description": "Kiếm tông tiên giới, nổi tiếng với trận pháp \"Vạn Kiếm Quy Tông\".",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_017",
+    "name": "Tử Vi Thần Triều",
+    "description": "Đế chế tiên giới cai quản hàng vạn tinh cầu nhỏ hơn.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_018",
+    "name": "Vô Lượng Đạo Tông",
+    "description": "Nơi ngộ đạo của các vị đại năng đã sống hàng triệu năm.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_019",
+    "name": "Bạch Hổ Tướng Quân Phủ",
+    "description": "Lực lượng quân đội tiên giới chuyên dẹp loạn bờ cõi.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_020",
+    "name": "Đại La Thiên Đình",
+    "description": "Trung tâm hành chính của chính đạo tiên giới.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_021",
+    "name": "Tịnh Thổ Liên Hoa Vương Quốc",
+    "description": "Phật quốc tiên giới, nơi không có đau khổ oán hận.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_022",
+    "name": "Huyền Vũ Bảo Điện",
+    "description": "Tông môn chuyên tu luyện phòng ngự nhục thân, không thể lay chuyển.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_023",
+    "name": "Càn Khôn Thánh Địa",
+    "description": "Chuyên nghiên cứu không gian quy luật, chế tạo dịch chuyển trận xuyên giới.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_024",
+    "name": "Thái Dương Chân Tông",
+    "description": "Tu luyện hỏa diễm của mặt trời, chuyên tiêu diệt ma đầu.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "chinh_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_025",
+    "name": "Thần Quang Thần Quốc",
+    "description": "Vùng đất ánh sáng vĩnh hằng, nơi thần linh ban phước chúng sinh.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_026",
+    "name": "Thái Cổ Khương Gia",
+    "description": "Thần tộc thái cổ bẩm sinh có dòng máu thần minh.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_027",
+    "name": "Vĩnh Hằng Kiếm Đạo Điện",
+    "description": "Nơi tối cao của các kiếm tu đã đạt đến cảnh giới hóa thần.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_028",
+    "name": "Chí Cao Nhân Hoàng Điện",
+    "description": "Nơi thờ phụng và là chỗ dựa của toàn thể nhân tộc thần giới.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_029",
+    "name": "Hồng Hoang Đạo Tổ Đình",
+    "description": "Đạo tràng đầu tiên của vũ trụ, nơi xuất phát của thiên đạo.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_030",
+    "name": "Thiên Khải Thần Triều",
+    "description": "Thần triều cai quản quy luật thời gian.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_031",
+    "name": "Vô Thượng Chân Ngôn Giáo",
+    "description": "Tôn giáo thần giới, dùng khẩu quyết biến hư vô thành hiện thực.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_032",
+    "name": "Thần Minh Nghị Hội",
+    "description": "Nơi các vị thần tối cao tụ họp để phán quyết vận mệnh thế giới.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_033",
+    "name": "Sinh Mệnh Thần Điện",
+    "description": "Nơi nắm giữ quy luật tái sinh và luân hồi.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_034",
+    "name": "Cửu Thiên Huyền Nữ Tông",
+    "description": "Thần tông tối cao của phái nữ, sở hữu thần khí hộ quốc.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "chinh_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_035",
+    "name": "Thiên Ma Tông",
+    "description": "Đại tông môn ma đạo đứng đầu hạ giới, công pháp phách lối tàn bạo.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_036",
+    "name": "Huyết Hải Môn",
+    "description": "Chuyên hút máu tu sĩ và phàm nhân để luyện công, sở hữu Huyết Trì.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_037",
+    "name": "Vạn Quỷ Điện",
+    "description": "Đệ tử luôn mang theo Phệ Hồn Phiên, bắt hồn phách chế thành âm binh.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_038",
+    "name": "Hắc Độc Giáo",
+    "description": "Tông môn vùng đầm lầy, chuyên dùng kịch độc độc sát cả một thành trì.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_039",
+    "name": "Âm Dương Hợp Hoan Tông",
+    "description": "Chuyên bắt nam thanh nữ tú về để song tu, hút cạn tu vi đối phương.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_040",
+    "name": "Bạch Cốt Đường",
+    "description": "Dùng xương cốt của tu sĩ mạnh để rèn vũ khí và chế tạo con rối cốt lâu.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_041",
+    "name": "Thiên Sát Bang",
+    "description": "Nhóm ma tu tản bộ tập hợp lại để cướp bóc các thương đội tu tiên.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_042",
+    "name": "Tử Linh Điện",
+    "description": "Chuyên đào mộ tổ tiên các thế gia để tìm bảo vật và luyện thi thi thể.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_043",
+    "name": "Thiên Ma Hoàng Triều",
+    "description": "Hoàng triều tà ác nuôi dưỡng ác quỷ để làm quân đội.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_044",
+    "name": "U Minh Các",
+    "description": "Tông môn ẩn núp trong bóng tối, chuyên dùng ám khí và nguyền rủa.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_045",
+    "name": "Vạn Độc Cốc",
+    "description": "Thung lũng ngập tràn chướng khí, nơi nuôi dưỡng các loại cổ trùng độc ác.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "linh",
+    "faction": "ma_dao",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_046",
+    "name": "Hắc Ám Tiên Điện",
+    "description": "Tiên vực bị tha hóa, nơi các tiên nhân tu luyện tà công ngự trị.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_047",
+    "name": "Thập Sát Ma Tông",
+    "description": "Tông môn có 10 vị ma tổ, mỗi người chưởng quản một loại sát ý.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_048",
+    "name": "Phệ Hồn Tiên Cung",
+    "description": "Nơi chuyên luyện chế các loại tiên khí có khả năng ăn mòn nguyên thần.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_049",
+    "name": "Luyện Ngục Ma Triều",
+    "description": "Đế chế ma giới quanh năm rực lửa đỏ, đệ tử hung hãn hiếu chiến.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_050",
+    "name": "Độc Cô Dạ Tộc",
+    "description": "Chủng tộc tiên giới bẩm sinh sợ ánh sáng, chuyên ám sát trong đêm.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_051",
+    "name": "Thiên Hoàng Ma Điện",
+    "description": "Nơi ngự trị của Chí Cao Ma Đế tiên giới.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_052",
+    "name": "Huyết Long Sào",
+    "description": "Nơi tập hợp các con rồng bị tha hóa, thích ăn thịt tu sĩ.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_053",
+    "name": "Oán Linh Tà Hải",
+    "description": "Vùng biển đen chứa đầy oán khí của những người đã chết ở tiên giới.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_054",
+    "name": "Vô Gián Ma Ngục",
+    "description": "Tông môn cai quản nhà tù giam giữ các tiên nhân tội lỗi để tra tấn.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_055",
+    "name": "Ảo Ma Giáo",
+    "description": "Chuyên dùng huyễn thuật ma đạo khiến đối phương tự sát trong điên loạn.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_056",
+    "name": "Cửu U Xà Tộc",
+    "description": "Bộ tộc rắn tu tiên, nước bọt có thể ăn mòn cả tiên khí.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "ma_dao",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_057",
+    "name": "Vực Ngoại Thiên Ma Quốc",
+    "description": "Thế lực ngoài vũ trụ, muốn nuốt chửng toàn bộ thần giới.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_058",
+    "name": "Hỗn Độn Ma Tổ Đường",
+    "description": "Nơi thờ phụng ma tổ đầu tiên sinh ra cùng lúc với thiên đạo.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_059",
+    "name": "Tịch Diệt Thần Điện",
+    "description": "Thần điện ma đạo theo đuổi quy luật phá hủy vạn vật về số 0.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_060",
+    "name": "Đại Tội Thần Tộc",
+    "description": "Gia tộc thần giới sở hữu sức mạnh của 7 đại tội lỗi chúng sinh.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_061",
+    "name": "Thượng Cổ Hung Thú Minh",
+    "description": "Liên minh của các thần thú tà ác (Thao Thiết, Hỗn Độn, Cùng Kỳ).",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_062",
+    "name": "Hắc Dạ Thần Quốc",
+    "description": "Nơi bóng tối vĩnh hằng thống trị, dập tắt mọi nguồn sáng thần thánh.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_063",
+    "name": "Đọa Lạc Thần Điện",
+    "description": "Nơi các vị thần của chính đạo bị tha hóa tập hợp lại.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_064",
+    "name": "Vô Niệm Ma Cực",
+    "description": "Nơi tu luyện tuyệt tình đạo, giết sạch người thân để thành thần.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_065",
+    "name": "Hoàng Tuyền Ma Giáo",
+    "description": "Chưởng quản một nhánh sông sông Hoàng Tuyền chảy qua thần giới.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_066",
+    "name": "Phản Vật Chất Tộc",
+    "description": "Chủng tộc hủy diệt, hễ chạm vào bất kỳ thần linh nào là nổ tung.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_067",
+    "name": "Vạn Ma Sào",
+    "description": "Tổ quỷ khổng lồ lơ lửng giữa tinh không, liên tục sinh ra ma vật.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "ma_dao",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_068",
+    "name": "Vạn Bảo Các",
+    "description": "Thương hội lớn nhất hạ giới, có chi nhánh ở mọi thành phố lớn.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_069",
+    "name": "Thiên Cơ Các",
+    "description": "Tổ chức bói toán, bán thông tin tình báo và lập ra các bảng xếp hạng thiên tài.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_070",
+    "name": "Thiên Sát Lâu",
+    "description": "Tổ chức sát thủ khét tiếng, nhận tiền lẻ của cả chính lẫn ma để giết người.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_071",
+    "name": "Đan Sư Hiệp Hội",
+    "description": "Liên minh các dược sư luyện đan, ai cũng phải nể mặt vì cần thuốc.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_072",
+    "name": "Luyện Khí Sư Công Hội",
+    "description": "Nơi tập trung các thợ rèn giỏi nhất, chưởng quản thị trường vũ khí.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_073",
+    "name": "Tán Tu Liên Minh",
+    "description": "Hiệp hội bảo vệ các tu sĩ tự do, không gia nhập tông môn nào.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_074",
+    "name": "Vạn Thú Sơn",
+    "description": "Lãnh địa của yêu tộc cấp thấp, con người bước vào là bị tấn công nhưng không chủ động ra ngoài.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_075",
+    "name": "Dịch Chuyển Trận Điện",
+    "description": "Tổ chức độc quyền xây dựng và vận hành các trận pháp đi lại giữa các đại lục.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_076",
+    "name": "Thiên Lôi Đấu Trường",
+    "description": "Sàn đấu giá và đấu đài sinh tử giải trí của giới tu tiên.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_077",
+    "name": "Bách Kế Lâu",
+    "description": "Nơi thuê mướn các mưu sĩ, trận pháp sư làm thuê theo giờ.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_078",
+    "name": "Hải Linh Thương Hội",
+    "description": "Chuyên buôn bán các sản vật quý hiếm từ đáy biển sâu.",
+    "group": "1. Cấp thấp & Trung (Hạ Giới)",
+    "tier": "ha_gioi",
+    "rarity": "vuong",
+    "faction": "trung_lap",
+    "powerReq": 100
+  },
+  {
+    "id": "sect_079",
+    "name": "Vạn Giới Thương Minh",
+    "description": "Thương hội xuyên quốc gia cấp tiên giới, có phi thuyền bay giữa các tinh cầu.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_080",
+    "name": "Tiên Cơ Các",
+    "description": "Nơi tiên nhân đến để mua thiên cơ, dự đoán vận mệnh phi thăng.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_081",
+    "name": "Hoàng Tuyền Các",
+    "description": "Tổ chức sát thủ tiên giới, \"Hoàng Tuyền muốn ngươi chết canh ba, không ai giữ được đến canh năm\".",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_082",
+    "name": "Yêu Hoàng Cung",
+    "description": "Thánh địa của các yêu tiên cấp cao, thực lực ngang ngửa Đại La Thiên Đình.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_083",
+    "name": "Thái Cổ Long Tộc",
+    "description": "Tộc rồng ẩn thế ở Long Đảo, không thèm tham gia chiến tranh của loài người.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_084",
+    "name": "Phượng Hoàng Tiên Sào",
+    "description": "Nơi trú ngụ của tộc Phượng Hoàng lửa, sống biệt lập trên ngô đồng tiên thụ.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_085",
+    "name": "Vô Ngôn Đạo Tràng",
+    "description": "Nơi tu luyện của những tiên nhân câm lặng, chỉ tập trung ngộ đạo.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_086",
+    "name": "Minh Hà Vong Linh Tộc",
+    "description": "Quản lý linh hồn người chết tại tiên giới, trung lập tuyệt đối.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_087",
+    "name": "Khí Linh Cung",
+    "description": "Bộ tộc của các linh hồn vũ khí (kiếm linh, đao linh) tự hình thành ý thức và lập tông môn.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_088",
+    "name": "Phù Lục Tiên Gia",
+    "description": "Gia tộc độc quyền sản xuất bùa chú cấp cao cho tiên giới.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_089",
+    "name": "Thời Không Tháp",
+    "description": "Tòa tháp bí ẩn dịch chuyển liên tục, bên trong thời gian trôi chậm hơn bên ngoài.",
+    "group": "2. Cấp cao (Tiên Giới)",
+    "tier": "tien_gioi",
+    "rarity": "thanh",
+    "faction": "trung_lap",
+    "powerReq": 25000
+  },
+  {
+    "id": "sect_090",
+    "name": "Hồng Hoang Thương Hội",
+    "description": "Tổ chức kinh doanh buôn bán cả các mảnh vỡ của thế giới và đại đạo quy luật.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_091",
+    "name": "Thiên Đạo Chấp Pháp Giả",
+    "description": "Những thực thể không cảm xúc, chỉ xuất hiện để trừng phạt kẻ phá hoại quy luật vận hành của vũ trụ.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_092",
+    "name": "Vĩnh Hằng Tinh Không Bộ Tộc",
+    "description": "Các khổng lồ đá sống trên các vì sao, không quan tâm sự đời.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_093",
+    "name": "Thần Cơ Điện",
+    "description": "Nơi lưu giữ cuốn sổ ghi chép tên tuổi và thọ nguyên của tất cả thần linh.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_094",
+    "name": "Thái Cổ Nguyên Thủy Tộc",
+    "description": "Chủng tộc cổ xưa nhất còn sót lại, năng lượng của họ là hỗn độn khí.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_095",
+    "name": "Hư Không Độc Hành Giả",
+    "description": "Những vị thần thích đi lang thang một mình giữa các vũ trụ, nhận làm nhiệm vụ thuê.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_096",
+    "name": "Nhân Quả Các",
+    "description": "Nơi giải quyết các món nợ ân oán bằng quy luật nhân quả, không dùng vũ lực.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_097",
+    "name": "Thần Thú Vương Quốc",
+    "description": "Lãnh địa chí cao của toàn bộ thánh thú, thần thú vĩ đại nhất.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_098",
+    "name": "Đại Đạo Tàng Thư Viện",
+    "description": "Nơi lưu trữ tất cả các bí kíp công pháp từ lúc vũ trụ hình thành.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_099",
+    "name": "Bất Tử Điểu Gia Tộc",
+    "description": "Tộc chim bất tử, cứ chết lại tái sinh từ tro tàn, không ai giết nổi nên không ai dám động vào.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  },
+  {
+    "id": "sect_100",
+    "name": "Vô Cực Giới Minh",
+    "description": "Liên minh các chủ nhân giới vực nhỏ, hợp tác lại để giữ thế trung lập trước các Thần Quốc lớn.",
+    "group": "3. Chí cao (Thần Giới)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton",
+    "faction": "trung_lap",
+    "powerReq": 2500000
+  }
+]

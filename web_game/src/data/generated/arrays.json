@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "array_001",
+    "name": "诛仙剑阵 (Tru Tiên Kiếm Trận)",
+    "description": "Đệ nhất sát trận vạn cổ, bốn thanh tiên kiếm trấn giữ bốn phương, kiếm khí tung hoành cắt rách đa vũ trụ.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_002",
+    "name": "Cửu Thiên Lôi Đình Diệt Thế Trận",
+    "description": "Hút lôi đình từ chín tầng mây tạo thành lưới điện khổng lồ giật nổ nát vụn nhục thân quân địch.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_003",
+    "name": "Thập Diện Mai Phục Kiếm Trận",
+    "description": "Ngưng tụ vạn thanh kiếm khí vô hình mai phục trong không khí, chỉ cần chạm nhẹ là vạn kiếm xuyên tâm.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_004",
+    "name": "Vạn Độc hủ cốt Ma Trận",
+    "description": "Trận pháp ma đạo tỏa ra làn khói độc màu xanh lơ ăn mòn da thịt biến địch thành vũng máu trong một khắc.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_005",
+    "name": "Thái Dương Chân Hỏa Phần Thiên Trận",
+    "description": "Triệu hoán ngọn lửa chính tông của mặt trời thiêu rụi toàn bộ thành trì mục tiêu diện rộng.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_006",
+    "name": "Thái m Đóng Băng Linh Hồn Trận",
+    "description": "Trận pháp cực âm đóng băng hoàn toàn kinh mạch và thần thức hải của tu sĩ lọt vào trong.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_007",
+    "name": "Thần Ma Thí Huyết Đại Trận",
+    "description": "Hút máu tươi của sinh linh tử trận để nuôi dưỡng đại trận càng đánh càng mở rộng bán kính sát thương.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_008",
+    "name": "Cửu u oán Linh Phệ Hồn Trận",
+    "description": "Trận pháp ma đạo gọi hàng vạn oán hồn bãi tha ma đến cấu xé ăn mòn nguyên thần đối phương.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_009",
+    "name": "Canh Kim Sát Phạt Đại Trận",
+    "description": "Biến đổi địa hình đá sỏi xung quanh thành các mũi chông kim loại bén nhọn đâm thủng chân địch.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_010",
+    "name": "Bát Hoang Cuồng Phong Toái Thể Trận",
+    "description": "Tạo ra các trận cuồng phong mang theo lưỡi dao gió xé rách lớp giáp hộ thân tầm xa.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_011",
+    "name": "Tinh Thần Vạn Hóa oanh Kích Trận",
+    "description": "Mượn năng lượng ánh sáng của các vì tinh tú ban đêm bắn xuống các chùm sáng bạo kích hủy diệt.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_012",
+    "name": "Địa Sát Toái cốt Nện Đất Trận",
+    "description": "Trận pháp mượn sát khí lòng đất bộc phát các chấn động rung chuyển bẻ gãy hệ thống xương cốt.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_013",
+    "name": "Hỏa Lân Long Hoàng Thiêu Đốt Trận",
+    "description": "Triệu hoán hư ảnh rồng lửa bùng cháy khạc ra long hỏa nung chảy sắt thép vũ khí cấp thấp.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_014",
+    "name": "Ngũ Hành Nghịch Chuyển Diệt Vong Trận",
+    "description": "Đảo lộn năm nguồn năng lượng kim mộc thủy hỏa thổ tạo thành vụ nổ linh lực bạo tạng.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_015",
+    "name": "Thiên Hoang Chưởng Không Ấn Trận",
+    "description": "Ngưng tụ áp lực không khí to như ngọn núi đè bẹt toàn bộ đội hình quân địch bên dưới mặt đất.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_016",
+    "name": "Ly Hỏa Phần Thiên Quạt Gió Trận",
+    "description": "Trận pháp hệ hỏa tạo ra bão lửa Nam Minh Ly Hỏa xua tan mọi tà khí chính đạo.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_017",
+    "name": "Tử Ma Khấp Huyết Loạn Tâm Trận",
+    "description": "Phát ra tiếng khóc thê lương thấu tận tâm can làm nhiễu loạn lý trí khiến kẻ thù tự chém giết nhau.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_018",
+    "name": "U Minh Quỷ Vương Trảo Thuật Trận",
+    "description": "Mặt đất mọc lên hàng vạn cánh tay quỷ mang kịch độc hoại tử kéo chân đối thủ xuống vũng bùn.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_019",
+    "name": "Bàn Cổ Khai Sơn Nhát Chém Trận",
+    "description": "Trận pháp tụ lực chém ra một đường đao mang thổ thuộc tính nặng nề chẻ đôi vách đá cấm địa.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_020",
+    "name": "Thiên Địa Hoán Tâm Áp Sát Trận",
+    "description": "Trận pháp bộc phát tốc độ cực hạn hỗ trợ kiếm tu áp sát xuyên thủng lồng ngực bóp nát tim mục tiêu.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_021",
+    "name": "Tật Phong Truy Hồn Kiếm Trận Khóa",
+    "description": "Kiếm trận di động bám theo khí tức mục tiêu ra chiêu chém liên tục vạn nhát không để lại tàn ảnh.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_022",
+    "name": "Hắc Ám Hủy Diệt Nuốt Chửng Trận",
+    "description": "Nuốt chửng hoàn toàn ánh sáng và linh lực chính đạo biến khu vực thành bóng đêm tuyệt đối.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_023",
+    "name": "Hồng Hoang Huyết Hải Sát Lục Trận",
+    "description": "Tạo ra vũng lầy máu làm suy giảm 50% tốc độ di chuyển và phòng ngự nhục thân quân địch.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_024",
+    "name": "Tượng Vương Thần Lực m m Trận",
+    "description": "Giậm chân kích hoạt trận pháp phát ra sức nặng cơ bắp của mười vạn con voi thần thượng cổ đè địch.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_025",
+    "name": "Lam Hải Chấn Thiên Vòng Xoáy Trận",
+    "description": "Trận pháp thủy hệ khuấy động lòng biển tạo dòng lốc xoáy khổng lồ hút nổ tung tàu thuyền chiến.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_026",
+    "name": "Như Ý Kim Cang Gậy Đập Trận",
+    "description": "Trận pháp cơ quan điều khiển hàng loạt cột đồng lớn phóng to thu nhỏ đập nát tuyến phòng thủ địch.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_027",
+    "name": "Ất Mộc Phược Thần Ty Khóa Trận",
+    "description": "Phóng ra lưới sợi tơ mộc hệ quấn chặt hút sạch pin linh lực đan điền đối thủ trúng bẫy.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_028",
+    "name": "Băng Phách Thần Châm Khóa Huyệt Trận",
+    "description": "Trận pháp bắn hàng vạn kim băng găm chặt các tử huyệt chặn đứng dòng chảy tuần hoàn năng lượng.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_029",
+    "name": "Phong Lôi Diệt Thế Giật Nổ Trận",
+    "description": "Trận pháp tích tụ bão lốc sấm sét giật nổ liên hoàn phá hủy các kiến trúc thành trì lớn.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_030",
+    "name": "Thí Thần Đoạn Thủy Khóa Mạng Trận",
+    "description": "Chặn đứng hoàn toàn khả năng tự phục hồi nhục thân của các cường giả cấp cao lọt vào mắt trận.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_031",
+    "name": "Tử Viêm Ma Tính Bạo Kích Trận",
+    "description": "Tăng sát thương bạo kích ma đạo lên 200% nhưng khiến ma tu dễ nảy sinh tâm ma tẩu hỏa nhập ma.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_032",
+    "name": "Thiên Mệnh Trảm Tà Nhân Đôi Trận",
+    "description": "Kiếm trận chính đạo nhân hai lực sát thương lên toàn bộ đồ đệ ma tộc tà tu lọt vào phạm vi.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_033",
+    "name": "Cửu Thiên Long Uy Trầm Luân Trận",
+    "description": "Phát ra tiếng rồng ngâm từ bầu trời chấn nhiếp ý chí chiến đấu làm quỳ lạy yêu thú cấp thấp.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_034",
+    "name": "Huyết Diễm Cuồng Bạo Gia Lực Trận",
+    "description": "Trận pháp phụ trợ phe ta mất càng nhiều máu thì đòn công kích vung ra mang lực hủy diệt càng khủng.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_035",
+    "name": "Băng S Sương Thần Dực Chém Tầm Cao",
+    "description": "Kiếm trận treo trên không trung phóng xuống hàng vạn lá chắn băng sắc bén cắt dọc chiến trường.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_036",
+    "name": "Thổ Nhương Ẩn Mình Đâm Lén Trận",
+    "description": "Giúp phục binh ẩn nấp hoàn toàn dưới lòng đất bất ngờ trồi lên đâm thương chí mạng điểm yếu địch.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_037",
+    "name": "Tử Tiêu Kiếm Khí Lôi Quang Trận",
+    "description": "Phóng ra lưới kiếm lôi điện màu tím chuyên môn khắc chế tiêu diệt các loại tà ma ngoại đạo.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_038",
+    "name": "Hỗn Độn Vô Hạn Tiễn Khí Trận",
+    "description": "Triệu hoán vạn mũi tên hỗn độn từ vết rách không gian bắn thủng toàn bộ hệ thống lá chắn giáp.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_039",
+    "name": "Vạn Độc Xuyên Tâm Mũi Kim Trận",
+    "description": "Trận pháp ám khí phóng hàng ngàn mũi kim độc li ti xuất quỷ nhập thần phá hủy hệ thống huyệt đạo đối phương.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_040",
+    "name": "Kim Cang Phục Ma Quyền Pháp Trận",
+    "description": "Triệu hoán các pho tượng Phật vàng khổng lồ vung nắm đấm đập tan màng bảo vệ ma khí ma đạo.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_041",
+    "name": "Trảm Tiên Đao Khí Mỏng Nhẹ Trận",
+    "description": "Trận pháp giăng dây đao mỏng như cánh ve chém đứt dòng chảy linh lực của tất cả người đi qua.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_042",
+    "name": "Bá Thiên Chấn Địa Kích Quét Trận",
+    "description": "Quét vách kích dài năng lượng chấn nổ vỡ nát lục phủ ngũ tạng mục tiêu lọt vào khu vực mắt trận.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_043",
+    "name": "Bạch Cốt Liệt Thiên Vuốt Thép Trận",
+    "description": "Mặt đất mọc lên móng vuốt xương hung thú thái cổ xé rách lớp da thịt giáp trụ phòng ngự địch.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_044",
+    "name": "Canh Kim Phá Giáp Chưởng Lực Trận",
+    "description": "Tập trung toàn bộ thuộc tính kim sắc bén đâm thủng vỡ nát các đại trận hộ tông của đối thủ.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_045",
+    "name": "Hoàng Tuyền Trảm Hồn Nguyên Thần Trận",
+    "description": "Bỏ qua giáp thịt bên ngoài đánh trực diện phân rã cấu trúc linh hồn nguyên thần quân địch.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_046",
+    "name": "Thái Sơ Hỗn Nguyên Đâm Thương Trận",
+    "description": "Phóng ra các ngọn giáo năng lượng nguyên thủy đẩy lùi triệt tiêu mọi chiêu thức pháp thuật phàm giới.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_047",
+    "name": "Tuyết Phách Tỉnh Táo Phá Ảo Trận",
+    "description": "Trận pháp tỏa hương hoa cúc tuyết đánh thức đồng đội đang dính phải thuật thôi miên huyễn trận.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_048",
+    "name": "Thần Minh Nguyên Thần Vá Trời Trận",
+    "description": "Trận pháp cấp cao chữa lành tổn thương tâm trí rách nứt linh hồn cho thần tiên cường giả.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_049",
+    "name": "Bù Thọ Vạn Niên Kéo Dài Trận",
+    "description": "Gom góp sinh khí thảm thực vật xung quanh gia tăng thêm tuổi thọ cho lão quái bế quan sắp chết.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_050",
+    "name": "Siêu Thoát Vô Thạn Ý Niệm Diệt Trận",
+    "description": "Chí cao thần trận cấp 30 biến ý nghĩ hủy diệt của chủ trận thành sự thật xóa sổ đa vũ trụ.",
+    "group": "I. Nhóm Công Kích / Sát Lục & Diệt Thế Tiên Trận (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_051",
+    "name": "Huyền Hoàng Lĩnh Lung Bảo Tháp Trận",
+    "description": "Đệ nhất phòng ngự trận vạn cổ, rơi xuống huyền hoàng khí bao bọc tông môn, vạn pháp bất xâm.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_052",
+    "name": "Tinh Thần Hộ Thể Bầu Trời Sao Trận",
+    "description": "Mở ra màng chắn mô phỏng dải ngân hà bọc lấy cơ thể hóa giải hoàn toàn các đòn pháp thuật tầm xa.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_053",
+    "name": "Cửu Long Thần Hỏa Đại Đỉnh Trận",
+    "description": "Triệu hoán cự đỉnh năng lượng úp xuống bảo vệ bản thân, có chín con rồng lửa bao quanh đốt ám khí bay tới.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_054",
+    "name": "Bát Quái Kính Phản Phệ Sát Thương Trận",
+    "description": "Tạo màng gương đồng phản chiếu bật ngược lại 50% lực công kích pháp thuật của kẻ địch đánh vào.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_055",
+    "name": "Kim Cang Bất Hoại Phật Quang Trận",
+    "description": "Vận hành linh lực Phật môn đúc vách thành kiên cố khiến đao thương bất nhập không thể phá hủy.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_056",
+    "name": "Thái m Độc Long Khiên Độc Khí Trận",
+    "description": "Màng bảo vệ tỏa độc khí hoại tử ăn mòn vũ khí và da thịt kẻ nào dám đấm tay vào kết giới.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_057",
+    "name": "Thanh Liên Hộ Thể Hồi Sinh Kết Giới",
+    "description": "Hoa sen xanh nở rộ dưới chân tạo vùng an toàn phục hồi sinh mệnh lực liên tục cho phe ta.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_058",
+    "name": "Huyền Vũ Quy Giáp Thuẫn Phòng Ngự Trận",
+    "description": "Ngưng tụ lá chắn hình mai rùa Huyền Vũ thái cổ đạt chỉ số phòng thủ vật lý đứng đầu ngũ hành.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_059",
+    "name": "Hư Vô Độn Không Dịch Chuyển Trận",
+    "description": "Uốn cong không gian xung quanh dịch chuyển các đòn đánh tầm xa lọt vào kẽ nứt vị diện khác.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_060",
+    "name": "Tử Kim Hộ Tâm Châu Bảo Vệ Trận",
+    "description": "Kết giới tự động bảo vệ đan điền cốt lõi cản phá một đòn chí mạng phá hủy tu vi chủ trận.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_061",
+    "name": "Ngũ Sắc Thần Quang Kháng Pháp Trận",
+    "description": "Màng lọc dệt từ ánh sáng ngũ sắc giúp miễn nhiễm hoàn toàn với các pháp thuật ngũ hành tầm thấp.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_062",
+    "name": "Đại Địa Hậu Thổ Vách Đá Trận",
+    "description": "Trận pháp cắm cọc mọc lên các bức tường thạch anh kiên cố chắn sóng xung kích nổ nạt lớn.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_063",
+    "name": "Băng Phách Hàn Quang Làm Chậm Trận",
+    "description": "Kết giới băng vĩnh cửu làm đông cứng vũ khí cận chiến và giảm 50% tốc độ di chuyển kẻ công phá.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_064",
+    "name": "Vĩnh Hằng Kháng Nguyền Rủa Bào Trận",
+    "description": "Xua tan xé rách hoàn toàn các bùa chú độc hại nguyền rủa sả từ xa bám vào nhục thân phe ta.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_065",
+    "name": "Thiên Thần Hộ Thể Thần Quang Trận",
+    "description": "Tỏa vầng hào quang thánh khiết làm suy yếu chấn nhiếp tinh thần khát máu của ma tu tà ác dính phải.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_066",
+    "name": "Long Lân Giảm Chấn Sóng Nổ Trận",
+    "description": "Ngưng tụ kết cấu vảy rồng vàng bao quanh giảm 80% thiệt hại từ các vụ nổ bom linh lực diện rộng.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_067",
+    "name": "Hồng Hoang Chấn Thiên Đẩy Lui Trận",
+    "description": "Màng chắn năng lượng phát sóng xung kích cực mạnh hất văng toàn bộ kẻ địch áp sát tầm gần.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_068",
+    "name": "U Minh Hút Sinh Mệnh Giáp Ma Trận",
+    "description": "Làn sương ma khí bao quanh kết giới liên tục rút cạn sinh cơ của kẻ địch đứng bao vây bên ngoài.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_069",
+    "name": "Phật Quang Thu Nạp Tay Áo Trận",
+    "description": "Trận pháp mở không gian túi vải thu nạp hút sạch hoàn toàn vạn mũi tên ám khí bắn xối xả tới.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_070",
+    "name": "Cửu Thiên Tinh Thần Màn Chắn Đại Trận",
+    "description": "Kết giới mượn ánh sáng chòm sao Bắc Đẩu gia tăng lực phòng thủ cứng cáp gấp đôi vào ban đêm.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_071",
+    "name": "Canh Kim Hộ Thể Kiếm Trận Khóa Chặt",
+    "description": "Hàng vạn thanh kiếm nhỏ xoay tròn tạo bức tường sắt băm nát phi đao ám khí dính vào tầm gần.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_072",
+    "name": "Bách Thảo Sinh Cơ Tự Vá Kết Giới",
+    "description": "Mộc hệ trận pháp tự động vá lại các lỗ thủng kinh mạch nhục thân phe ta ngay lập tức khi dính chưởng.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_073",
+    "name": "Lam Hải Thuần Thủy Phân Tán Lực Trận",
+    "description": "Biến đổi thuộc tính kết giới mềm mại như dòng nước phân tán 90% lực đấm bạo lực cơ bắp địch.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_074",
+    "name": "Xích Viêm Long Hoàng Phát Nổ Giải Vây Trận",
+    "description": "Màng chắn hỏa hệ tự bạo nổ định kỳ đẩy lùi giải vây khi lượng chịu đòn đạt giới hạn tối đa.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_075",
+    "name": "Tuyết Phách Băng Tâm Khóa Tâm Trí Trận",
+    "description": "Trữ lạnh vùng không gian giữ cho đầu óc tu sĩ phe ta không bị lay chuyển dính bẫy ảo thuật mị công.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_076",
+    "name": "Thần Minh Quả Cầu Ánh Sáng Bảo Vệ Trận",
+    "description": "Tạo quả cầu năng lượng bảo vệ toàn diện 360 độ từ trên không trung xuống mặt đất động phủ.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_077",
+    "name": "Thiên Cơ Mê Trận Làm Rối Trận",
+    "description": "Lá chắn mặt gương phản chiếu làm làm loạn radar thần thức định vị phương hướng của cung thủ đối phương.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_078",
+    "name": "Bạch Ngân Chiến Thần Gia Lực Phòng Thủ",
+    "description": "Chỉ số cứng cáp của thành trì màng chắn tăng tỷ lệ thuận với mức độ khát máu chiến đấu tu sĩ ta.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_079",
+    "name": "Hỗn Độn Sạc Pin Đan Điền Trận",
+    "description": "Hấp thụ động năng chiêu thức pháp thuật kẻ địch đánh vào chuyển hóa thành linh lực bổ sung đan điền phe ta.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_080",
+    "name": "Như Ý Bảo Hộ Chuông Vàng Đại Trận",
+    "description": "Triệu hoán chiếc chuông vàng khổng lồ úp xuống che chở bảo vệ toàn bộ kiến trúc tông môn phàm giới.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_081",
+    "name": "Quỷ Diện Hộ Hồn Khóa Não Trận",
+    "description": "Kết giới tinh thần ngăn chặn tuyệt đối các đòn châm cứu linh hồn đâm thủng thần thức hải từ xa.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_082",
+    "name": "Thanh Mộc Gai Nhọn Phản Đòn Trận",
+    "description": "Vách thành gỗ tự động mọc vạn nhánh chông gai đâm nát tay chân kẻ nào dám dùng nhục thân công phá.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_083",
+    "name": "Thái Dương Nung Chảy Vũ Khí Trận",
+    "description": "Tỏa nhiệt lượng bốc cháy nung chảy gãy vụn các thanh đao kiếm bằng sắt phàm của quân địch dính phải.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_084",
+    "name": "Nhân Hoàng Hộ Quốc Kết Giới Trận",
+    "description": "Màng bảo vệ tập thể, càng nhiều người phàm đứng trong trận góp ý chí thì giáp trận càng bền vững.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_085",
+    "name": "Tử Kim Kiên Cố Hóa Tháp Trận",
+    "description": "Biến năng lượng thành tòa tháp nhỏ bọc lấy thân thể chống chịu thiên tai bão tố không gian dịch chuyển giới.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_086",
+    "name": "Hắc Ám Thực Năng Nuốt Sấm Sét Trận",
+    "description": "Lớp màng hắc ám nuốt chửng tiêu diệt hoàn toàn các chiêu thức lôi hệ hỏa hệ bốc cháy tầm thấp địch tung.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_087",
+    "name": "Huyền Minh Hàn Thiết Làm Tê Liệt Trận",
+    "description": "Giáp trận mang độc lạnh buốt xương làm đóng băng giảm 50% tốc độ phản xạ của quân địch áp sát.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_088",
+    "name": "Phượng Hoàng Hồi Sinh Đai Lưng Trận",
+    "description": "Ký ức trận pháp tự động đầy máu hồi sinh phe ta một lần khi nhục thân bị đánh vỡ nát chiến trường.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_089",
+    "name": "Cổ Thạch Hóa Đá Chống Đỡ Trận",
+    "description": "Tạm thời biến da thịt màng chắn cứng như khối thạch anh cổ để chống đỡ cự chùy đập phá hoại vách.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_090",
+    "name": "Vô Ảnh Kích Hoạt Tự Động Trận",
+    "description": "Màng phòng ngự vô hình ẩn giấu hoàn toàn chỉ bộc phát giăng màn khi phát hiện có sát ý ám sát cận kề.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_091",
+    "name": "Thiên Lôi Ngự Điện Hút Lôi Kiếp Trận",
+    "description": "Hộ thể chuyên dụng thu hút hấp thụ toàn bộ sấm sét lôi kiếp dẫn xuống lòng đất an toàn khi độ kiếp.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_092",
+    "name": "Huyết Hải Tự Vá Giáp Ma Trận",
+    "description": "Hút máu tươi bãi chiến trường xung quanh để vá nhanh các lỗ thủng cấm chế do địch oanh tạc phá hoại.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_093",
+    "name": "Chu Tước Linh Vũ Né Đòn Trận",
+    "description": "Trận pháp cung cấp tốc độ di chuyển bay lượn né tránh chiêu thức linh hoạt và kháng lửa cháy tuyệt đối.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_094",
+    "name": "Ất Mộc Phược Lực Gai Ngược Trận",
+    "description": "Kết giới mộc hệ hút động năng nắm đấm đối thủ chuyển thành lực phóng chông gai đâm ngược lại mục tiêu.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_095",
+    "name": "Thần Thú Hư Ảnh Đỡ Chí Mạng Trận",
+    "description": "Triệu hoán bóng ma con thú thần lớn lao ra chịu thay một đòn phá hủy nguyên thần linh hồn chủ trận.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_096",
+    "name": "Quý Thủy Hóa Pháp Dập Lửa Trận",
+    "description": "Màng nước bảo vệ dập tắt hòa tan hoàn toàn các đòn tấn công bốc cháy hỏa hệ tầm xa địch ném.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_097",
+    "name": "Canh Kim Ma Thuẫn Bẻ Gãy Ám Khí",
+    "description": "Khiên kiếm khí sắc bén xoay tròn chặt gãy vụn các loại phi đao mũi tên kim loại bay tới gần.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_098",
+    "name": "Hư Không Phòng Ngự Bẻ Cong Quỹ Đạo",
+    "description": "Uốn cong vách không gian trước mặt làm đổi hướng bay lạc của các mũi tên pháp bảo oanh tạc tông môn.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_099",
+    "name": "Tử Kim Giữ Hồn Khỏi Tán Trận",
+    "description": "Vòng sáng bảo vệ gom giữ chặt các mảnh tàn hồn nguyên thần không bị ly tán biến mất khi mất xác thịt.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_100",
+    "name": "Siêu Thoát Tuyệt Đối Bất Biến Trận",
+    "description": "Thần trận hộ thể chí cao cấp 30, ngăn chặn xóa sổ hoàn toàn ý niệm xóa bỏ tồn tại của thiên đạo đa vũ trụ.",
+    "group": "II. Nhóm Phòng Ngự / Hộ Tông & Kiên Cố Kết Giới (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "array_101",
+    "name": "Mê Hồn Trấn Thần Gián Đoạn Trận",
+    "description": "Lắc sóng âm tinh thần làm đóng băng đóng chặt lý trí đối phương lạc bước vào mắt huyễn trận.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_102",
+    "name": "Phá Vọng Thần Nhãn Nhìn Thông Trận",
+    "description": "Trận pháp hỗ trợ nhãn thuật nhìn xuyên qua các lớp sương mù ảo ảnh tìm thấy cấm địa đời trước.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_103",
+    "name": "Tử Tiêu Nhãn Nhìn Đêm Phát Sáng Trận",
+    "description": "Nâng cấp thị lực đồng đội thấy rõ dòng chảy linh lực trong kinh mạch địch giữa đêm tối hang sâu.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_104",
+    "name": "Thần Thức Hải Dương Mở Rộng Trận",
+    "description": "Tâm pháp trận mở rộng diện tích bao phủ quét thần thức ra bán kính vạn dặm nghe nhìn rõ ràng quân địch.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_105",
+    "name": "Thiên Cơ Bàn Tính Vận Mệnh Trận",
+    "description": "Trận pháp bói toán dự đoán cát hung tìm kiếm chính xác tọa độ vị trí thiên tài địa bảo bí cảnh ẩn giấu.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_106",
+    "name": "Hư Không Định Vị Dịch Chuyển Trận",
+    "description": "Trận pháp dịch chuyển tức thời vạn dặm đưa nhóm người về động phủ an toàn đã đánh dấu từ trước.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_107",
+    "name": "Tử Kim Hồ Lô Thu Nạp Tên Trận",
+    "description": "Trận pháp giam giữ gọi tên kẻ địch, đối phương cất tiếng đáp lại sẽ bị cưỡng ép hút vào không gian hồ lô.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_108",
+    "name": "Luân Hồi Ký Ức Thức Tỉnh Trận",
+    "description": "Truy lục thức tỉnh lại các mảng ký ức truyền thừa truyền lại từ các đời tiền kiếp tích tụ trong não.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_109",
+    "name": "Ngự Thú Chí Tôn Trói Buộc Vây Hãm",
+    "description": "Phóng vòng năng lượng trói đầu yêu thú hoang dã cưỡng ép ký kết hợp đồng nô dịch phục tùng vô điều kiện.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_110",
+    "name": "Phật Môn Bồ Đề Xua Tâm Ma Trận",
+    "description": "Giữ cho não bộ hoàn toàn trống rỗng thuần khiết xua tan tâm ma quấy nhiễu lúc đột phá cảnh giới lớn.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_111",
+    "name": "U Minh Luân Hồi Định Vị Hồn Trận",
+    "description": "Tìm kiếm sợi tơ duyên phận linh hồn người chết xem đã đầu thai sang vị diện thế giới nào phàm giới.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_112",
+    "name": "Tinh Thần La Bàn Định Hướng Trận",
+    "description": "La bàn ánh sao dùng để tìm đường đi lối thoát an toàn ngoài vũ trụ tinh không tối tăm bão bùng.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_113",
+    "name": "Tàn Ảnh Huyễn Linh Tạo Phân Thân Trận",
+    "description": "Vung quạt năng lượng tạo ra hàng loạt phân thân huyễn ảnh giống hệt chủ nhân để bỏ trốn chạy thoát vây.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_114",
+    "name": "Thanh Liên Tẩy Tủy Tẩy Linh Căn Trận",
+    "description": "Bí thuật điều khí rửa sạch cặn bã tạp chất nâng cấp phẩm chất hệ linh căn bản mệnh cho đệ tử bái sư.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_115",
+    "name": "Thiên Nhạc Thần Cầm Gảy Nhạc Trận",
+    "description": "Tiếng đàn tranh xoa dịu chữa lành vết thương hồn phách nguyên thần rách nứt siêu tốc khi chiến đấu bị thương.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_116",
+    "name": "Không Gian Toái Phiến Cắt Rách Trận",
+    "description": "Vạch ranh giới cắt rách một khe nứt không gian nhỏ để chui vào ẩn nấp trốn chạy khỏi vòng vây đại lão.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_117",
+    "name": "Phù Văn Vạn Hóa Vẽ Không Khí Trận",
+    "description": "Kỹ thuật hỗ trợ vẽ bùa chú tốc độ nhanh bằng ngón tay trong không trung không cần dùng đến giấy mực.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_118",
+    "name": "Thiên Âm Thôi Miên Giao Túi Trận",
+    "description": "Tiếng sáo trúc thôi miên làm đối phương mất kiểm soát tự động dâng hiến dâng nộp túi trữ đồ không gian cất giữ.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_119",
+    "name": "Hắc Ám Giấu Châu Ẩn Tu Vi Trận",
+    "description": "Thu hoàn toàn khí tức năng lượng ẩn giấu giả làm người phàm tục đi lừa heo ăn thịt hổ khắp phố thị.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_120",
+    "name": "Vạn Vật Linh Thông Kính Truyền Hình Trận",
+    "description": "Thiết lập đường truyền âm thanh hình ảnh từ xa giao tiếp giữa các giới vực đại lục độc lập phàm giới.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_121",
+    "name": "Thần Thức Tán Nhỏ Khiến Mù Trận",
+    "description": "Phân tách sóng não thành vạn sợi nhỏ làm nhiễu loạn radar thần thức quét tìm của đại lão vây bắt.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_122",
+    "name": "Càn Khôn Hoán Chuyển Đổi Chỗ Trận",
+    "description": "Tráo đổi vị trí không gian lập tức giữa bản thân chủ nhân và một con rối bóng đêm khi gặp nguy hiểm cận kề.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_123",
+    "name": "Thần Mục Phá Không Kính Viễn Vọng Trận",
+    "description": "Kỹ thuật phóng tầm mắt nhìn xuyên qua các tầng mây theo dõi trực tiếp cục diện chiến sự giới vực khác.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_124",
+    "name": "Thần Thú Cộng Minh Thổi Tù Và Trận",
+    "description": "Tiếng kêu gọi sự giúp đỡ trợ chiến quy tụ của các loài thú lành hoang dã xung quanh cánh rừng già.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_125",
+    "name": "Nghịch Thiên Đổi Mệnh Bàn Xoay Trận",
+    "description": "Xoay chuyển khí vận tráo đổi vận may của kẻ thù thành vận xui tột cùng bước hụt chân ngã xuống hố sâu.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_126",
+    "name": "Thôn Phệ Ma Công Hút Tu Vi Trận",
+    "description": "Pháp môn ma đạo đỉnh cao hút cạn linh lực huyết khí đối phương cày cấp tu vi siêu tốc cho ma tu phe ta.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_127",
+    "name": "Cửu Chuyển Ma Thể Hồi Sinh Chín Trận",
+    "description": "Kéo dài mạng sống chết đi sống lại chín lần mỗi lần sống dậy sức mạnh ma tính tăng gấp đôi bạo lực.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_128",
+    "name": "Tháp Sát Khát Máu Căng Màn Trận",
+    "description": "Tàn sát sinh linh ngưng tụ thành màn sương đỏ bảo vệ da thịt cứng cáp bộc phát sức mạnh cơ bắp.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_129",
+    "name": "Vô Biên Tà Khí Ám Vận May Trận",
+    "description": "Giải phóng làn khói xui xẻo làm kẻ địch tung chiêu thức hụt liên tục dính phản phệ năng lượng bạt mạng.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_130",
+    "name": "Địa Ngục Móng Vuốt Cào Rách Trận",
+    "description": "Biến đổi cấu trúc móng tay thành vuốt quỷ sắc nhọn mang kịch độc hoại tử phá vỡ giáp thịt đối phương.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_131",
+    "name": "Huyết Long Bạo Ngược Cuồng Lực Trận",
+    "description": "Kích hoạt sát ý rồng máu tăng 200% sức đấm cận chiến phá hủy vách thành mất trí nhớ lý trí tạm thời.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_132",
+    "name": "Vạn Quỷ Dạ Hành Gọi Cô Hồn Trận",
+    "description": "Triệu hoán hàng vạn cô hồn dã quỷ bãi tha ma đến phong tỏa vây hãm quấy nhiễu động phủ của kẻ thù tông môn.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_133",
+    "name": "Tử Vong Độc Huyết Làm Đông Kinh Mạch",
+    "description": "Phun máu mang kịch độc làm đông cứng toàn bộ hệ thống tuần hoàn máu đối thủ dính phải bẫy trận.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_134",
+    "name": "Hắc Ám Bóng Đêm Tàng Hình Ám Sát",
+    "description": "Biến cơ thể thành cái bóng vô hình tan biến hoàn toàn vào màn đêm để ám sát xuất quỷ nhập thần vạn phát.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_135",
+    "name": "Bạch Cốt Rút Xương Hóa Xương Trận",
+    "description": "Rút xương cơ thể ra làm vũ khí đâm chém hoặc hồi sinh các bộ xương khô chiến đấu phụ tá phe ta.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_136",
+    "name": "Thiên Hoàn Yêu Biến Đổi Hình Trận",
+    "description": "Giúp yêu thú hoang dã lột xác thay đổi hoàn toàn cấu trúc nhục thân hóa thành hình dạng người phàm hoàn hảo.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_137",
+    "name": "Mê Hồn Yêu Thuật Mị Hoặc Tu Sĩ",
+    "description": "Tỏa hương mị thuật làm mất kiểm soát lý trí dục vọng của đối phương lọt bước vào hang tối cấm địa.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_138",
+    "name": "Huyết Nguyệt Điên Cuồng Tăng Lực Trận",
+    "description": "Bộc phát tối đa năng lượng ma đạo lên gấp mười lần dưới ánh trăng máu ngày rằm tháng bảy ma tu.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_139",
+    "name": "Thiên S Sát Cô Tinh Nguyền Rủa Trận",
+    "description": "Viết tên kẻ thù lên giấy tế nguyền rủa gia tộc đối phương dính tai ương họa vô đơn chí liên tục rớt đài.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_140",
+    "name": "Oán Niệm Nuôi Dưỡng Nguyên Thần Ma Trận",
+    "description": "Gom hết sự căm phẫn thù hằn của người chết làm thức ăn bổ não tăng cấp bậc thần thức hải ma đạo.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_141",
+    "name": "Tà Linh Triệu Hoán Mở Cổng Ma Trận",
+    "description": "Sử dụng tế phẩm linh hồn mở cổng gọi tà thần quái dị từ vị diện khác đến tàn sát phá hủy thành trì địch.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_142",
+    "name": "Huyết Hải Trào Dâng Bể Máu Ma Trận",
+    "description": "Mở rộng thể tích bể chứa máu đan điền ma đạo, huyết hải không cạn mạng sống của ma tu còn hoài không diệt.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_143",
+    "name": "S Sát Lục Chiến Ma Khóa Đau Đớn Trận",
+    "description": "Khóa hoàn toàn hệ thần kinh cảm giác đau đớn thể xác, giúp binh sĩ chiến đấu đến giọt máu cuối cùng không lùi.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_144",
+    "name": "Dạ Xoa Địa Hình Tăng Tốc Bộ Trận",
+    "description": "Tăng 100% tốc độ di chuyển chạy nhảy trong địa hình hiểm trở đầm lầy hang động tối tăm cấm địa.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_145",
+    "name": "Hủ Bại Mục Nát Axit Dịch Trận",
+    "description": "Tiết chất dịch axit bào mòn làm rỉ sét gãy vụn đao kiếm vũ khí kim loại phàm sắt của quân địch trang bị.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_146",
+    "name": "Mị Ảnh Bóng Ma Khói Đen Làm Loạn",
+    "description": "Tạo hàng loạt bóng ma khói đen chuyển động làm hỗn loạn thị giác cung thủ bắn lén tầm xa đối phương.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_147",
+    "name": "Vạn Cốt Hấp Thụ Cốt Khí Đúc Thành",
+    "description": "Hấp thụ canxi từ núi xương cốt bãi tha ma đúc thành lớp giáp xương cứng quanh thịt tăng phòng ngự ngoại công.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_148",
+    "name": "Thực Hồn Ăn Não Tăng Linh Hồn Trận",
+    "description": "Nuốt chửng linh hồn người chết nuôi béo nguyên thần tăng nhanh cấp bậc thần thức hải không lo bình cảnh.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_149",
+    "name": "Độc Cơ Hơi Thở Khói Độc Tộc Trận",
+    "description": "Luyện khói độc diện rộng bao phủ giết sạch toàn bộ sinh linh một vương quốc phàm nhân trong nháy mắt.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_150",
+    "name": "Siêu Thoát Vô Thượng Diệt Thế Quyết Trận",
+    "description": "Thần thông trận pháp chí cao tầng thứ 30, phóng ra một ý niệm xóa sổ hoàn toàn sự tồn tại của thiên đạo đa vũ trụ.",
+    "group": "III. Nhóm Huyền Ảo / Huyễn Trận, Mê Cung & Khóa Thần Thức (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_151",
+    "name": "Hỗn Độn Thanh Liên Đại Đạo Trận",
+    "description": "Gom góp tinh hoa hỗn độn khí nuôi dưỡng vạn vật linh dược, mọc cánh hoa chứa quy luật cốt lõi vũ trụ.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "array_152",
+    "name": "Thái Cực Âm Dương Điều Hòa Đại Trận",
+    "description": "Cân bằng hai dòng năng lượng nóng lạnh, dập tắt phong ba bão táp rạn nứt không gian của giới vực vực.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "array_153",
+    "name": "Bàn Cổ Phiến Cuồng Phong Khai Thiên Trận",
+    "description": "Quạt ra luồng gió hỗn độn bạo phát xé rách ranh giới màn chắn ngăn cách giữa các đại đa vũ trụ vũ trụ.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "array_154",
+    "name": "Tạo Hóa Ngọc Điệp Ngộ Đạo Trận",
+    "description": "Trận pháp hiển thị toàn bộ 3000 đại đạo quy luật giúp đạo tổ bế quan đột phá tầng thứ chí cao vạn cổ.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "array_155",
+    "name": "Luân Hồi Thần Kính Hiển Thị Kiếp Trận",
+    "description": "Soi rọi hiển thị toàn bộ quá khứ hiện tại tương lai của một sinh linh lọt vào trong mắt trận pháp.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_156",
+    "name": "Thời Không Nghịch Chuyển Đồng Hồ Cát Trận",
+    "description": "Quay ngược dòng thời gian của một vùng chiến trường nhỏ lại thời điểm ba giây trước cứu mạng đồng đội.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "array_157",
+    "name": "Thiên Đạo Ý Chí Lôi Phạt Đại Trận",
+    "description": "Thay mặt ông trời ra lệnh cho hàng vạn tia sấm sét thiên lôi diệt thế giáng xuống đầu kẻ tội đồ nghịch thiên.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_158",
+    "name": "Hồng Hoang Khai Thiên Định Không Gian Trận",
+    "description": "Đóng cọc năng lượng cố định một vị diện không gian đang bị sụp đổ bất ổn định cấu trúc vật lý.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_159",
+    "name": "Vĩnh Hằng Sinh Mệnh Thủy Bình Tụ Khí Trận",
+    "description": "Bình chứa linh tuyền không bao giờ cạn, tưới tắm kích hoạt mọc nhanh vườn thảo dược ngàn năm tuổi thọ.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_160",
+    "name": "Hư Vô Tiêu Diệt Xóa Sổ Tồn Tại Trận",
+    "description": "Phóng luồng quang ti xóa sạch hoàn toàn sự tồn tại dấu vết của một cường giả khỏi dòng chảy lịch sử vũ trụ.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_161",
+    "name": "Đại Đạo Chí Cao Quyền Trượng Thao Túng Trận",
+    "description": "Thao túng thay đổi toàn bộ hằng số định luật vật lý và thuộc tính năng lượng vùng không gian mắt trận cai quản.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_162",
+    "name": "Nghịch Thiên Cải Mệnh Sổ Sinh Tử Trận",
+    "description": "Tráo đổi tên tuổi giúp tu sĩ trốn thoát khỏi sự tầm nã tìm kiếm bắt giữ linh hồn của diêm vương địa phủ.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_163",
+    "name": "Hỗn Độn Vũ Trụ Thuyền Vượt Biên Trận",
+    "description": "Trận pháp gia tốc phi thuyền bay xuyên vách ngăn giới vực di chuyển an toàn giữa các đại thế giới đa vị diện.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_164",
+    "name": "Tinh Không Vạn Hóa Nuốt Chửng Hệ Trận",
+    "description": "Mở rộng hố đen năng lượng nuốt chửng hoàn toàn cả một hệ mặt trời tinh cầu phàm nhân vào trong tranh cuộn.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_165",
+    "name": "Thần Cách Ngưng Tụ Thần Hỏa Đài Trận",
+    "description": "Bệ thờ trận pháp giúp các bán thần thu thập đức tin chúng sinh ngưng tụ thần cách chân chính nhanh gấp mười lần.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_166",
+    "name": "Cổ Thần Khai Thiên Thạch Công Phá Trận",
+    "description": "Tập trung động năng cự thạch đập vỡ nát lớp màng chắn thế giới cấp cao để thực hiện kế hoạch xâm lược.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_167",
+    "name": "Vực Ngoại Tinh Không Cắm Mốc Lãnh Địa",
+    "description": "Trận pháp cắm cờ khoanh vùng tuyên bố quyền sở hữu cai quản một tinh hệ ngoài vũ trụ tối tăm lạnh lẽo hoang dã.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_168",
+    "name": "Thần Vương Ý Chí Vương Miện Áp Chế Trận",
+    "description": "Giải phóng thần uy áp chế giảm 30% tất cả thuộc tính chiến đấu của những tu sĩ chưa đạt cấp vị thần thần.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_169",
+    "name": "Chủ Thần Sắc Lệnh Thay Đổi Quy Luật Trận",
+    "description": "Ban bố luật lệ tu luyện mới cưỡng ép hạ giới phàm nhân dưới quyền phải tuân thủ vận hành theo xích đạo.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_170",
+    "name": "Cửu Chuyển Hồi Sinh Gom Góp Tàn Hồn Trận",
+    "description": "Trận pháp tự động nhặt thâu tóm các mảnh vỡ linh hồn chết trận đúc lại một nguyên thần sau vạn năm.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_171",
+    "name": "Thần Ma Đảo Lộn Thuộc Tính Chuyển Hóa Trận",
+    "description": "Biến đổi thuộc tính thần tính thánh khiết thành ma tính tàn bạo hoặc ngược lại của một cường giả dính bẫy.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_172",
+    "name": "Không Gian Bản Nguyên Kiểm Soát Vị Diện Trận",
+    "description": "Khóa chặt giữ vững độ ổn định cấu trúc của một đại lục tránh sụp đổ vỡ vụn khi đại lão đánh nhau bạo lực.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_173",
+    "name": "Thời Gian Lưu Tốc Tháp Gia Tốc Tu Luyện",
+    "description": "Trận pháp thay đổi trục thời gian, bên trong tu luyện một trăm năm bằng bên ngoài trôi qua một năm ngắn ngủi.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_174",
+    "name": "Vạn Pháp Quy Nhất Dung Hợp Tuyệt Kỹ Trận",
+    "description": "Gom tất cả kỹ năng nhỏ lẻ vụn vặt của tu sĩ dung hợp đúc lại thành một chiêu thức tối cao bạo kích sát thương.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_175",
+    "name": "Thiên Mệnh Chi Tử Hào Quang Bảo Hộ Trận",
+    "description": "Trận pháp khí vận vô hình giữ mạng cho chủ trận không thể chết bởi các nhân vật phụ, luôn gặp cơ duyên hóa cát.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_176",
+    "name": "Đại Đạo Thần Thể Đúc Lại Nhục Thân Trận",
+    "description": "Bệ đá năng lượng đúc lại cơ thể cấp thần tiên khi xác thịt cũ bị kẻ thù đánh nổ tung thành mảnh vụn.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_177",
+    "name": "Hỗn Độn Diệt Thế Châm Chọc Tâm Đất Trận",
+    "description": "Khoan sâu năng lượng vào lõi kích nổ tung toàn bộ một hành tinh phàm nhân vỡ thành trăm mảnh vụn tinh thạch.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_178",
+    "name": "Thần Thú Thủy Tổ Thức Tỉnh Huyết Mạch Trận",
+    "description": "Trận pháp huyết tế giúp sủng vật yêu thú hấp thụ tinh huyết tổ tiên kích hoạt sức mạnh tiềm ẩn bộc phát.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_179",
+    "name": "Vô Lượng Công Đức Kim Thân Vòng Sáng Trận",
+    "description": "Ngưng tụ vòng công đức lá chắn sau lưng khiến kẻ thù không dám đánh vì sợ dính quả báo thiên phạt lôi kiếp.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_180",
+    "name": "Càn Khôn Tạo Hóa Lò Tự Động Rèn Luyện",
+    "description": "Lò trận pháp tự động hút kim loại Canh Kim nâng cấp binh khí phàm sắt lên cấp bậc tiên khí thần binh lợi khí.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_181",
+    "name": "Thái Sơ Nguyên Thủy Kinh Ghi Chép Ngoại Công",
+    "description": "Bia đá trận pháp lưu trữ phương pháp rèn luyện cơ bắp nhục thân của các vị cổ thần thời kỳ hồng hoang sơ khai.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_182",
+    "name": "Tinh Không Vạn Giới Hiển Thị Lối Đi Trận",
+    "description": "Bản đồ năng lượng 3D hiển thị các tuyến đường bay an toàn tránh bão lốc không gian ngoài vũ trụ tối tăm.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_183",
+    "name": "Hư Vô Thần Đạo Ấn Ký Đồng Hóa Trận",
+    "description": "Giúp tu sĩ ẩn nấp hoàn toàn đồng hóa vào hư không né tránh radar thần thức quét tìm của binh đoàn kẻ thù.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_184",
+    "name": "Thiên Định Duyên Phận Tìm Kiếm Đạo Lữ Trận",
+    "description": "Ngọc bài trận pháp phát sáng phát tín hiệu khi gặp được đệ tử chân truyền hoặc người yêu định mệnh vạn năm.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_185",
+    "name": "Tiên Hoàn Linh Mộc Trưởng Thành Tăng Tốc Trận",
+    "description": "Kích thích tế bào rễ thảo dược phát triển nhanh gấp trăm lần tiến độ thông thường cày linh dược cắn thuốc.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_186",
+    "name": "Thần Mục Phá Không Xé Rách Cổng Trận",
+    "description": "Chém đao năng lượng mở ra vết rách không gian lớn làm cổng dịch chuyển cho cả một đoàn binh lính hành quân xa.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_187",
+    "name": "Vô Thượng Chân Ma Giới Chỉ Triệu Hoán Trận",
+    "description": "Mở cổng nhẫn ma vương gọi đội quân mười vạn ma binh sẵn sàng lao ra băm vằn xé xác thịt thành trì kẻ địch đối thủ.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_188",
+    "name": "Tử Vi Đế Tinh Mượn Lực Khí Vận Đại Trận",
+    "description": "Quyền trượng hoàng đế kích hoạt trận pháp mượn sức mạnh đức tin của toàn bộ thần dân gia tăng lực đấm chưởng.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_189",
+    "name": "Thần Thú Cộng Minh Kèn Lệnh Cuồng Bạo Trận",
+    "description": "Tiếng kèn năng lượng đưa tất cả sủng vật súc vật xung quanh tiến vào trạng thái cuồng nhiệt tăng đôi sức đánh.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_190",
+    "name": "Hỗn Độn Nguyên Thủy Phong Ấn Hộp Trận",
+    "description": "Kết giới hộp gỗ trói chặt cách ly hoàn toàn các vật phẩm nguy hiểm mang năng lượng phản vật chất hủy diệt chúng sinh.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_191",
+    "name": "Nghịch Thiên Cải Mệnh Đánh Tráo May Mắn Trận",
+    "description": "Bàn xoay ma thuật hút hết may mắn của đối thủ chuyển sang phe ta khiến địch vấp đá ngã gãy răng liên tục.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_192",
+    "name": "Vạn Giới Thông Hành Thuyền Chở Người Qua Giới",
+    "description": "Thuyền rồng trận pháp chuyên dụng phá vỡ màng chắn bay qua lại an toàn giữa phàm giới thấp kém và tiên giới cấp cao.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_193",
+    "name": "Đại Đạo Đồng Hóa Sao Chép Chiêu Thức Trận",
+    "description": "Màn gương năng lượng ghi nhớ sao chép nguyên vẹn một tuyệt kỹ chí cao của đối phương để bắn trả ngược lại chính họ.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_194",
+    "name": "Vĩnh Hằng Nguyên Sơ Bảo Quản Linh Tính Trận",
+    "description": "Giữ cho vật phẩm đặt trong phòng bế quan không bao giờ bị mục nát suy giảm nồng độ linh tính theo dòng thời gian trôi.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_195",
+    "name": "Siêu Thoát Tuyệt Đối Chống Nguyền Rủa Trận",
+    "description": "Ngọc trận chí cao ngăn chặn triệt tiêu hoàn toàn mọi hình thức dán bùa rủa sả xóa sổ từ ý niệm các vị thần cổ xưa.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_196",
+    "name": "Nhân Ngân Kiếm Trận Phóng Vạn Thanh Kiếm",
+    "description": "Thẻ bài trận pháp di động phóng ra trận mạc một vạn thanh kiếm khí vây hãm cắt rách toàn bộ bầu trời giới vực địch.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_197",
+    "name": "Bát Quái Cơ Quan Pháo Đài Cơ Động Lâu",
+    "description": "Tòa lâu đài cơ quan di động có thể thu nhỏ bỏ túi nải mở ra thành pháo đài thép phòng thủ kiên cố trên chiến trường.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "array_198",
+    "name": "Tiên Hoàn Linh Long Triệu Hoán Hư Ảnh Trận",
+    "description": "Ấn ấn xuống đất gọi bóng ma rồng vàng lớn bay quanh bảo hộ bao bọc cho cả một gia tộc vương triều khi bị tấn công.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_199",
+    "name": "Thần Mục Phá Không Tiễn Đưa Tin Xuyên Giới",
+    "description": "Mũi tên năng lượng xé toạc vách ngăn không gian bắn thẳng từ phàm giới hạ cấp lên tiên giới để đưa thư khẩn cứu chi viện.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "array_200",
+    "name": "Siêu Thoát Vô Thượng Vạn Cổ Trận Pháp Vô Địch",
+    "description": "Trận pháp cuối cùng tối cao của nhân vật chính khi đạt cảnh giới 30, biến toàn bộ cấu trúc định luật đa vũ trụ vận hành theo ý muốn cá nhân trong một nốt nhạc.",
+    "group": "IV. Nhóm Khí Vận / Tụ Linh, Luyện Đan & Khai Thiên Địa (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

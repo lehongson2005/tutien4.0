@@ -1,0 +1,242 @@
+[
+  {
+    "id": "guild_001",
+    "name": "Vạn Bảo Các",
+    "description": "Thương hội lớn nhất chư thiên vạn giới, có chi nhánh từ tân thủ thôn hạ giới lên tới trung tâm thần giới. Phương châm: \"Chỉ cần có tiền, cái gì cũng bán\".",
+    "group": "Top 5 Đại Thương Hội Xuyên Vũ Trụ (5 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "guild_002",
+    "name": "Thiên Cơ Lâu",
+    "description": "Vừa buôn bán bảo vật vừa bán thông tin tình báo, bảng xếp hạng thiên tài (Thiên Kiêu Bảng).",
+    "group": "Top 5 Đại Thương Hội Xuyên Vũ Trụ (5 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "guild_003",
+    "name": "Cửu U Hắc Thị (Chợ Đen)",
+    "description": "Nơi giao dịch các món đồ bất hợp pháp: đồ trộm mộ, công pháp ma đạo cấm, nô lệ tù binh.",
+    "group": "Top 5 Đại Thương Hội Xuyên Vũ Trụ (5 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "guild_004",
+    "name": "Đan Đạo Thương Minh",
+    "description": "Liên minh của các đại sư luyện đan, độc quyền 90% nguồn cung cấp thuốc toàn vũ trụ.",
+    "group": "Top 5 Đại Thương Hội Xuyên Vũ Trụ (5 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "guild_005",
+    "name": "Thần Binh Các",
+    "description": "Chuyên đấu giá các loại vũ khí, trang bị, khôi lỗi chiến đấu tầm cỡ hành tinh.",
+    "group": "Top 5 Đại Thương Hội Xuyên Vũ Trụ (5 Thế Lực)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "guild_006",
+    "name": "Thẩm Định Bảo Vật",
+    "description": "Tu sĩ mang đồ đến, các giám định viên dùng trận pháp soi tuổi thọ, thuộc tính để định giá sàn.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "guild_007",
+    "name": "Phát Hành Lệnh Bài VIP",
+    "description": "Chia phòng ngồi theo đẳng cấp: Sảnh chung (Tán tu), Phòng chữ Địa (Thế gia địa phương), Phòng chữ Thiên (Đại tông môn, Tiên vương).",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "guild_008",
+    "name": "Áo Choàng Cách Ly Thần Thức",
+    "description": "Phát cho người tham gia để che giấu gương mặt, giọng nói và tu vi thật để tránh bị giết cướp sau buổi lễ.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "guild_009",
+    "name": "Đặt Cọc Linh Thạch",
+    "description": "Phải chứng minh có đủ số dư tài khoản mới được quyền ra giá bừa bãi.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_010",
+    "name": "Quy Tắc Ba Tiếng Chuông",
+    "description": "Một món đồ gõ chuông 3 lần không ai nâng giá thì thuộc về người trả giá cao nhất.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_011",
+    "name": "Đấu Giá Mù (Blind Bid)",
+    "description": "Người mua ghi giá vào ngọc giản ném lên đài, thương hội chọn giá cao nhất công bố, tránh việc đấu đá trực diện.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_012",
+    "name": "Giao Dịch Hậu Trường",
+    "description": "Người thắng cuộc vào mật thất giao tiền nhận đồ thông qua trận pháp dịch chuyển, bảo mật thông tin tuyệt đối.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_013",
+    "name": "Phí Hoa Hồng",
+    "description": "Thương hội thu từ 5% đến 10% tổng giá trị món đồ đấu giá thành công.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_014",
+    "name": "Hộ Tống VIP",
+    "description": "Trả thêm tiền để thương hội cử đại lão cấp cao hộ tống bạn ra khỏi thành an toàn.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_015",
+    "name": "Hợp Đồng Ký Gửi",
+    "description": "MC có thể ký gửi đan dược tự luyện để thương hội bán đấu giá trường kỳ, nhận tiền hoa hồng đều đặn mỗi tháng.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_016",
+    "name": "Quy Đổi Tiền Tệ Tự Động",
+    "description": "Tự động quy đổi từ linh thạch hạ giới sang tiên thạch theo tỷ giá thị trường cập nhật thời gian thực.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_017",
+    "name": "Quy Tắc Đền Bù",
+    "description": "Nếu bảo vật đấu giá bị phát hiện là đồ giả sau đó, thương hội đền gấp 10 lần giá trị.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "guild_018",
+    "name": "Giao Dịch Vật Đổi Vật",
+    "description": "Với các món đồ chí cao cấp thần, không dùng tiền thạch thanh toán mà đổi bằng thần dược hoặc mảnh vỡ quy luật tương đương.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "guild_019",
+    "name": "Đấu Giá Ép Buộc",
+    "description": "Đại lão có thể dùng uy áp ép phòng đấu giá dừng bán một món đồ nếu họ chịu đền bù hợp đồng gấp 5 lần giá sàn cho chủ sở hữu.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "guild_020",
+    "name": "Tịch Thu Tài Sản Quỵt Tiền",
+    "description": "Kẻ nào hét giá cho oai rồi không có tiền trả sẽ bị phế tu vi, bán làm nô lệ đào mỏ vĩnh viễn.",
+    "group": "Phương Thức Vận Hành & Quy Trình Đấu Giá (15 Bước & Quy Tắc)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "guild_021",
+    "name": "Chim Mồi Đẩy Giá",
+    "description": "Thương hội cài người dưới sảnh liên tục hét giá nâng món đồ tầm thường lên giá trên trời.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "guild_022",
+    "name": "Vả Mặt Thiếu Gia",
+    "description": "MC liên tục ra giá cao hơn tên thiếu gia hống hách đúng 1 viên linh thạch để sỉ nhục hắn.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "guild_023",
+    "name": "Mua Trúng Bảo Vật Rác",
+    "description": "Mọi người chê bai một miếng sắt rỉ, MC dùng thần nhãn phát hiện ra cấu trúc thần khí bên trong, mua được với giá rẻ mạt.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "guild_024",
+    "name": "Cướp Phòng Đấu Giá",
+    "description": "Ma tộc đột kích phá vỡ đại trận, cướp sạch kho bảo vật ngay giữa buổi lễ.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "guild_025",
+    "name": "Bán Đồ Lậu Của Chính Tông Môn Địch",
+    "description": "MC đem vũ khí trấn phái của trưởng lão vừa giết đi đấu giá ngay tại địa bàn của tông môn đó để trêu tức.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "guild_026",
+    "name": "Đấu Giá Đạo Lữ / Thánh Nữ",
+    "description": "Ma đạo đấu giá các nữ tu bắt được làm nô lệ, MC chi tiền cứu người đẹp về làm trợ thủ.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "guild_027",
+    "name": "Dùng Tiền Đập Chết Quy Tắc",
+    "description": "MC lôi ra Cực phẩm linh thạch thô chưa cắt khiến toàn bộ đấu giá hội sững sờ dừng cuộc chơi để phục vụ MC.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "guild_028",
+    "name": "Kẻ Thù Khóa Mục Tiêu",
+    "description": "Dù có áo choàng cách ly, kẻ địch vẫn dùng bí pháp mùi hương để đánh dấu túi trữ vật của MC chờ ra ngoài thành cướp.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "guild_029",
+    "name": "Đấu Giá Mảnh Bản Đồ Bí Cảnh",
+    "description": "Mảnh bản đồ dẫn đến nơi giấu 200 con linh thú hoặc dị hỏa, tạo ra cuộc đua tranh giành đẫm máu ở chương sau.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "guild_030",
+    "name": "Đại Lão Thu Trả Ơn",
+    "description": "Đại lão ẩn cư giả nghèo ngồi sảnh chung được MC tặng vài viên linh thạch mua thuốc, sau đó ra tay diệt sạch kẻ thù cứu MC ngoài thành.",
+    "group": "10 Chiêu Trò / Biến Cố Tại Đấu Giá Hội",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

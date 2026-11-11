@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "elixir_001",
+    "name": "聚气丹 (Tụ Khí Đan)",
+    "description": "Đan dược cơ bản nhất, giúp người mới bắt đầu ngưng tụ linh khí vào kinh mạch.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_002",
+    "name": "Ngưng Khí Đan",
+    "description": "Gia tăng nồng độ linh khí thể khí trong đan điền cho tu sĩ Luyện Khí giai đoạn sau.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_003",
+    "name": "Trúc Cơ Đan",
+    "description": "Viên đan tối quan trọng giúp hóa lỏng linh khí, xây dựng nền móng Trúc Cơ, chính thức bước vào con đường tu tiên.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_004",
+    "name": "Bổ Thiên Đan",
+    "description": "Vá lại những tổn thương trong quá trình Trúc Cơ, nâng cao phẩm chất đạo đài.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_005",
+    "name": "降 long đan (Giáng Long Đan)",
+    "description": "Tích lũy linh lực bạo phát để chuẩn bị cho quá trình ngưng tụ nội đan.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_006",
+    "name": "Kim Đan Phá Cảnh Đan",
+    "description": "Hỗ trợ nén linh dịch thành Kim Đan, tăng tỷ lệ thành đan thượng phẩm.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_007",
+    "name": "Cửu Chuyển Kim Đan",
+    "description": "Loại Kim Đan đan dược cao cấp nhất, giúp tu sĩ rèn luyện Kim Đan đạt mức viên mãn bất hủ.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_008",
+    "name": "Phá Anh Đan",
+    "description": "Giúp vỡ vỏ Kim Đan, hỗ trợ Nguyên Anh sơ sinh thoát thai ra ngoài an toàn.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_009",
+    "name": "Dưỡng Anh Đan",
+    "description": "Cung cấp chất dinh dưỡng bằng năng lượng thuần khiết để nuôi dưỡng Nguyên Anh trưởng thành.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_010",
+    "name": "Hóa Thần Đan",
+    "description": "Giúp Nguyên Anh giao thông với thiên địa nguyên khí, mở rộng thần thức đột phá Hóa Thần.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_011",
+    "name": "Ngộ Đạo Đan",
+    "description": "Đưa tu sĩ vào trạng thái ngộ đạo tức thời để cảm ứng quy luật của Luyện Hư Cảnh.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_012",
+    "name": "Dung hợp Đan",
+    "description": "Đồng hóa hoàn toàn nhục thân và Nguyên Anh làm một, bứt phá lên Hợp Thể Cảnh.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_013",
+    "name": "Độ Kiếp Đan",
+    "description": "Giảm bớt 30% uy lực của thiên lôi lôi kiếp bám vào nhục thân khi độ kiếp.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_014",
+    "name": "Tâm Ma Tĩnh Táo Đan",
+    "description": "Giúp giữ vững lý trí, cản phá hoàn toàn tâm ma kiếp trong lúc phá cảnh lớn.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_015",
+    "name": "Đại Thừa Phi Thăng Đan",
+    "description": "Chuyển hóa toàn bộ linh lực phàm giới thành tiên nguyên lực, chuẩn bị phi thăng Tiên giới.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_016",
+    "name": "Hóa Tiên Đan",
+    "description": "Giúp tu sĩ phi thăng tẩy rửa hoàn toàn phàm cốt tại Hóa Tiên Trì nhanh gấp mười lần.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_017",
+    "name": "Nhân Tiên củng cố Đan",
+    "description": "Ổn định tiên căn và nhục thân mới cải tạo cho tu sĩ mới lên Tiên giới.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_018",
+    "name": "Địa Linh Quy Nguyên Đan",
+    "description": "Giúp Địa Tiên tích lũy tiên nguyên để mở rộng không gian phúc địa trong người.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_019",
+    "name": "Thiên Tiên Phá Cảnh Đan",
+    "description": "Đan dược cao cấp phá vỡ rào cản đưa tu sĩ tự do đi lại giữa các tinh cầu.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_020",
+    "name": "Bất Hủ Kim Thân Đan",
+    "description": "Đúc lại làn da và xương cốt thành trạng thái vạn pháp không phá của Kim Tiên.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_021",
+    "name": "Đại La Tam Sinh Đan",
+    "description": "Giúp tu sĩ nhảy ra khỏi dòng chảy ngũ hành phàm trần để đạt cảnh giới Đại La Kim Tiên.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_022",
+    "name": "Tiên Vương Chúa Tể Đan",
+    "description": "Ngưng tụ khí vận vương giả, giúp chúa tể một phương bứt phá bình cảnh vạn năm.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_023",
+    "name": "Tiên Tôn Hóa Pháp Đan",
+    "description": "Giúp Tiên Vương thấu hiểu sâu sắc các quy luật thiên tai để thăng cấp Tiên Tôn.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_024",
+    "name": "Đế Cấp Phá Cảnh Đan",
+    "description": "Đan dược đỉnh phong Tiên giới, giúp Tiên Đế bước nửa bước vào ngưỡng cửa Thần giới.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_025",
+    "name": "Thần Tính Lột Xác Đan",
+    "description": "Tích lũy thần hỏa bẩm sinh, cải tạo tiên lực thành thần lực mênh mông.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_026",
+    "name": "Hạ Vị Ngưng Thần Đan",
+    "description": "Đan dược hỗ trợ ngưng tụ Thần cách sơ khai cho các tu sĩ mới thành thần.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_027",
+    "name": "Trung Vị Thần Quốc Đan",
+    "description": "Gia cố và mở rộng phạm vi kiểm soát của Thần quốc độc lập bên trong đan điền.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_028",
+    "name": "Thượng Vị Vĩnh Hằng Đan",
+    "description": "Đồng hóa sinh mệnh lực với vũ trụ vĩnh hằng, bất tử bất dịch theo thời gian.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_029",
+    "name": "Thần Vương Hỗn Độn Đan",
+    "description": "Đan dược chứa quy luật cốt lõi (Thời gian, Không gian) cho các vị chủ thần.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_030",
+    "name": "Thần Đế Chí Tôn Đan",
+    "description": "Đỉnh phong Thần giới, giúp cường giả đứng đầu vạn tộc bứt phá cực hạn bản thân.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_031",
+    "name": "Thái Cổ Hồng Hoang Đan",
+    "description": "Đan dược luyện từ huyết mạch hung thú thái cổ, kích phát sức mạnh khai thiên lập địa.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_032",
+    "name": "Hỗn Độn Nguyên Thủy Đan",
+    "description": "Biến đổi nhục thân thành một đa vũ trụ thu nhỏ chứa đầy hỗn độn khí.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_033",
+    "name": "Nghịch Thiên Cải Mệnh Đan",
+    "description": "Cưỡng ép phá vỡ sự kìm hãm vận mệnh của Thiên đạo để thăng cấp nghịch thiên.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_034",
+    "name": "Đại Đạo Chí Cao Đan",
+    "description": "Đồng hóa hoàn toàn ý niệm của tu sĩ vào dòng chảy đại đạo khởi thủy vạn vật.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_035",
+    "name": "Siêu Thoát Vô Thượng Đan",
+    "description": "Viên đan tối cao, uống vào nhảy ra khỏi mọi xiềng xích, mọi dòng thời gian vũ trụ.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_036",
+    "name": "Thông Thiên Đả Thông Đan",
+    "description": "Đả thông tức thời toàn bộ kinh mạch và tử huyệt bế tắc cho người phàm cốt.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_037",
+    "name": "Tụ Khí Hoàn",
+    "description": "Viên thuốc nhỏ tụ khí tầm ngắn, hồi phục 20% linh lực hao hụt khi đang chiến đấu.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_038",
+    "name": "Hoán Huyết Đan",
+    "description": "Thay thế máu phàm tục bằng linh huyết dồi dào sức sống cho người mới nhập môn.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_039",
+    "name": "Tuyệt Vách Phá Cảnh Đan",
+    "description": "Giúp giật sập các bức tường bình cảnh nhỏ giữa các tầng trong cùng một cảnh giới.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_040",
+    "name": "Canh Kim Phá Ứ Đan",
+    "description": "Mang thuộc tính kim tinh thuần, đâm thủng các điểm tắc nghẽn linh lực cứng đầu.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_041",
+    "name": "Nhược Thủy Quy Nguyên Đan",
+    "description": "Hóa lỏng linh khí trong đan điền với tốc độ nhanh gấp năm lần tốc độ thiền định.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_042",
+    "name": "Địa Mạch Hấp Thụ Đan",
+    "description": "Cưỡng ép rút linh khí từ các mạch đá xung quanh nạp thẳng vào cơ thể.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_043",
+    "name": "Thiên Lôi Kích Phát Đan",
+    "description": "Mượn một tia sấm sét nhỏ để kích nổ rào cản cảnh giới lớn của lôi hệ tu sĩ.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_044",
+    "name": "Băng Hỏa Lưỡng Nghi Đan",
+    "description": "Điều hòa sự xung đột bạo tạng giữa hai nguồn năng lượng lửa và nước trong người.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_045",
+    "name": "Hoàng Kim Đúc Cốt Đan",
+    "description": "Đúc lại khung xương cứng cáp, tăng mạnh lực phòng ngự cho tu sĩ ngoại công.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_046",
+    "name": "Bách Thảo Vạn Năng Đan",
+    "description": "Viên đan bổ trợ, tăng gấp đôi dược hiệu của các viên đan tu vi uống kèm sau đó.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_047",
+    "name": "Tử Viêm Bộc Phát Đan",
+    "description": "Đan dược ma đạo, bộc phát tu vi vượt cấp tạm thời nhưng để lại đan độc nặng nề.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_048",
+    "name": "Thanh Liên Thanh Khiết Đan",
+    "description": "Xóa sạch toàn bộ tâm niệm tạp nham để tập trung tinh thần thăng cấp viên mãn.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_049",
+    "name": "Xích Dương Liệt Hỏa Đan",
+    "description": "Thiêu rụi toàn bộ cặn bã và tạp chất tích tụ lâu ngày trong hệ thống kinh mạch.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_050",
+    "name": "Phong Lôi Tốc Độ Đan",
+    "description": "Gia tăng vận tốc chu thiên linh lực chạy trong người để bứt phá giới hạn chịu đựng.",
+    "group": "I. Nhóm Nâng Cấp Tu Vi & Đột Phá Cảnh Giới (1 - 50)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "elixir_051",
+    "name": "Hồi Xuân Đan",
+    "description": "Đan dược chữa nội thương và ngoại thương cơ bản, phục hồi vết thương hở nhanh chóng.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_052",
+    "name": "Tục Đoạn Cốt Đan",
+    "description": "Nối liền xương cốt bị dập nát, gãy rời cho tu sĩ sau các trận giao tranh bạo lực.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_053",
+    "name": "Hồi Hồn Đan",
+    "description": "Kéo dài hơi tàn, giữ chặt linh hồn không cho xuất khiếu khi nhục thân sắp sụp đổ.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_054",
+    "name": "Tẩy Tủy Đan",
+    "description": "Rửa sạch tủy xương, đẩy đan độc và tạp chất ra ngoài qua tuyến mồ hôi.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_055",
+    "name": "Vạn Ách Giải Độc Đan",
+    "description": "Khắc tinh của hàng vạn loại độc tố phàm giới, thanh lọc lục phủ ngũ tạng.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_056",
+    "name": "Băng Phách Hàn Quang Đan",
+    "description": "Hạ hỏa độc bùng cháy, làm mát cơ thể khi bị trúng chưởng pháp hệ hỏa.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_057",
+    "name": "Nhược Thủy Thông Mạch Đan",
+    "description": "Làm tan máu bầm, thông suốt các mạch máu bị bế tắc sau chấn thương nặng.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_058",
+    "name": "Hoàng Kim Tái Sinh Đan",
+    "description": "Tái tạo lại các tế bào da thịt bị hoại tử do dính phải tà khí thối rữa.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_059",
+    "name": "Niết Bàn Hồi Sinh Đan",
+    "description": "Đan dược chứa huyết mạch phượng hoàng, mọc lại tay chân bị chặt đứt lìa.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_060",
+    "name": "Cửu Chuyển Hoạt Huyết Đan",
+    "description": "Bù đắp lại lượng máu huyết cực lớn đã mất sau khi thi triển cấm thuật hao tổn tuổi thọ.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_061",
+    "name": "Tịnh Hóa Ma Khí Đan",
+    "description": "Trục xuất toàn bộ ma khí đen đang ăn mòn năng lượng chính đạo bên trong cơ thể.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_062",
+    "name": "Long Lân Hộ Thể Đan",
+    "description": "Nuôi dưỡng và chữa lành lớp vảy rồng hoặc giáp thịt bảo vệ bên ngoài của tu sĩ.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_063",
+    "name": "Tiêu Viêm Bình Ổn Đan",
+    "description": "Dập tắt các ngọn lửa bản mệnh đang bạo động mất kiểm soát trong đan điền.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_064",
+    "name": "U Minh Tục Mạng Đan",
+    "description": "Mượn tử khí cõi chết để duy trì nhịp tim tạm thời cho người bị hủy hoại nội tạng.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_065",
+    "name": "Phật Quang Độ Hóa Đan",
+    "description": "Tịnh hóa lời nguyền rủa rủa sả và oán niệm đeo bám làm suy giảm sinh mệnh lực.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_066",
+    "name": "Định Thần Hải Đan",
+    "description": "Làm dịu các cơn đau nhói ở vùng não bộ do thần thức hải bị tấn công rách nứt.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_067",
+    "name": "Kiếm Khí Giải Trừ Đan",
+    "description": "Bài tiết các vụn kiếm khí li ti còn găm lại trong các cơ bắp ra ngoài da thịt.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_068",
+    "name": "Cải Tử Hoàn Sinh Đan",
+    "description": "Viên đan vạn năm cứu sống người chết nếu linh hồn chưa bước qua cổng địa phủ.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_069",
+    "name": "Quy Nguyên Bù Nước Đan",
+    "description": "Phục hồi thể lực và bổ sung nước tức thời cho tu sĩ kiệt sức trên chiến trường.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_070",
+    "name": "Hóa Băng Nung Chảy Đan",
+    "description": "Phát ra hơi ấm nung chảy lớp băng phong đang đóng băng hoàn toàn hệ tuần hoàn.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_071",
+    "name": "Tỉnh Táo Thần Trí Đan",
+    "description": "Đánh thức tu sĩ đang hôn mê sâu do dính phải ảo thuật hoặc mê hồn hương.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_072",
+    "name": "Thần Minh Nguyên Thần Đan",
+    "description": "Chữa lành các vết rách nứt nguy hiểm trên linh hồn của cấp thần tiên.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_073",
+    "name": "Bù Thọ Vạn Niên Đan",
+    "description": "Gia tăng tuổi thọ lập tức cho các lão quái vật sắp cạn thọ nguyên bế quan.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_074",
+    "name": "Sinh Cơ Dồi Dào Đan",
+    "description": "Cung cấp sinh mệnh lực dồi dào liên tục để chống đỡ các vết thương chảy máu liên tục.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_075",
+    "name": "Thanh Lọc Đan Độc Hoàn",
+    "description": "Viên đan chuyên dùng để hóa giải lượng độc tố tích tụ do uống thuốc tăng tu vi quá đà.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_076",
+    "name": "Hộ Hồn Bảo Mệnh Đan",
+    "description": "Bảo vệ hồn phách nguyên vẹn không bị tiêu tán khi cơ thể bị đánh nổ tung.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_077",
+    "name": "Mọc Lại Tay Chân Đan",
+    "description": "Kích thích tế bào mọc lại các bộ phận cơ thể bị cắt rời trong vòng ba ngày.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_078",
+    "name": "Xua Tan Hàn Khí Đan",
+    "description": "Trục xuất cái lạnh thấu xương ăn sâu vào xương tủy do trúng độc băng vĩnh cửu.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_079",
+    "name": "An Thần Điều Hòa Đan",
+    "description": "Làm dịu cơn bạo động linh lực diện rộng trong cơ thể khi tu luyện quá độ.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_080",
+    "name": "Hộ Tâm Trấn Động Đan",
+    "description": "Bảo vệ tim mạch khỏi tác động chấn thương từ các đòn đánh chấn động tầm gần.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_081",
+    "name": "Tiêu Ung Thối Rữa Đan",
+    "description": "Nuốt chửng và tiêu diệt các tế bào ung độc nguy hiểm đang hoại tử bên trong.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_082",
+    "name": "Định Thần Tơ Hoàn",
+    "description": "Kết nối các mảnh vỡ nguyên thần đang có dấu hiệu rạn nứt tiêu biến lập tức.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_083",
+    "name": "Chu Tước Sinh Mệnh Đan",
+    "description": "Đốt cháy tế bào cũ hoại tử để sinh ra các tế bào mới dồi dào sức sống.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_084",
+    "name": "Thuận Khí Đỡ Đau Đan",
+    "description": "Điều hòa khí huyết, giảm bớt đau đớn thể xác khi kinh mạch bị đứt gãy.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_085",
+    "name": "Hộ Tạng Kiên Cố Đan",
+    "description": "Giữ cho lục phủ ngũ tạng không bị dập nát khi chịu áp lực sóng xung kích mạnh.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_086",
+    "name": "Lọc Sạch Huyết Dịch Đan",
+    "description": "Lọc sạch các tạp chất gốc nước bám sâu trong hệ tuần hoàn của tu sĩ.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_087",
+    "name": "Kiếm Khí Bài Tiết Hoàn",
+    "description": "Gom tất cả sát khí kiếm bén găm trong thịt đưa ra ngoài an toàn.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_088",
+    "name": "Vá Trời Không Gian Đan",
+    "description": "Vá lại vết rách kinh mạch do bão không gian xé rách khi di chuyển xuyên giới.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_089",
+    "name": "Vạn Năng Nội Thương Đan",
+    "description": "Đan dược điều trị tổng hợp mọi loại vết thương nội tạng tầm trung bình.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_090",
+    "name": "Sủng Vật Hồi Phục Đan",
+    "description": "Viên đan chuyên dụng chữa lành vết thương nhục thân cho yêu thú sủng vật.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_091",
+    "name": "Hỗn Độn Tái Sinh Tiên Đan",
+    "description": "Tái tạo nhục thân cấp Tiên giới từ một ngụm hỗn độn sinh cơ nguyên thủy.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_092",
+    "name": "Lật Ngược Kiệt Quệ Đan",
+    "description": "Biến trạng thái mất máu trầm trọng thành trạng thái đầy máu viên mãn tức thời.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_093",
+    "name": "Bất Tử Nhục Thân Tiên Đan",
+    "description": "Giữ cho cơ thể bất hoại vĩnh viễn không bị thối rữa dù linh hồn đã chết.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_094",
+    "name": "Đúc Lại Khung Xương Đan",
+    "description": "Kết nối và tái tạo lại toàn bộ hệ thống xương cốt đã bị đánh thành bột mịn.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_095",
+    "name": "Gom Tàn Hồn Tiên Đan",
+    "description": "Thu thập toàn bộ các sợi tàn hồn vỡ nát đúc lại thành một nguyên thần nguyên vẹn.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_096",
+    "name": "Kế Thừa Truyền Thừa Đan",
+    "description": "Giúp tiếp nhận trọn vẹn sức sống và tu vi của tiền bối trước khi lâm chung.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_097",
+    "name": "Công Đức Thiên Phạt Đan",
+    "description": "Chữa lành các tổn thương nhục thân và linh hồn do thiên phạt lôi kiếp gây ra.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_098",
+    "name": "Rửa Tủy Não Thông Tuệ Đan",
+    "description": "Rửa sạch cặn bã trong tủy não, giúp tinh thần đạt trạng thái thanh thoát tuyệt đối.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "elixir_099",
+    "name": "Tái Tạo Đan Điền Thần Đan",
+    "description": "Đúc lại hoàn toàn vùng đan điền cốt lõi đã bị đối thủ phế bỏ.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_100",
+    "name": "Thái Sơ Sinh Mạng Thần Đan",
+    "description": "Đan dược chứa sinh cơ nguyên thủy đầu tiên của vũ trụ, cứu sống mọi thực thể.",
+    "group": "II. Nhóm Chữa Thương, Tái Sinh & Tiêu Độc (51 - 100)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_101",
+    "name": "Trấn Thần Hải Đan",
+    "description": "Định thần, chống lại các đòn tấn công huyễn thuật và thôi miên cấp phàm.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_102",
+    "name": "Phá Vọng Nhãn Đan",
+    "description": "Thuốc nhỏ mắt đan dược, giúp nhìn thấu qua lớp ngụy trang và mắt trận pháp.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_103",
+    "name": "Tử Tiêu Quang Minh Đan",
+    "description": "Nâng cấp thị lực tầm xa, nhìn rõ mọi vật trong sương mù dày đặc.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_104",
+    "name": "Mở Rộng Thần Thức Đan",
+    "description": "Gia tăng diện tích bao phủ và sức chứa thần thức của não bộ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_105",
+    "name": "Che Giấu Tư Duy Đan",
+    "description": "Ngăn chặn các đại lão có khả năng đọc tâm trí nhìn thấu suy nghĩ của mình.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_106",
+    "name": "Hấp Thụ Ánh Sao Đan",
+    "description": "Giúp nguyên thần hấp thụ năng lượng tinh tú ban đêm để ngưng tụ vững chắc.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_107",
+    "name": "Bồ Đề Vô Ngã Đan",
+    "description": "Đưa tâm trí đạt trạng thái tĩnh lặng tuyệt đối, cản phá hoàn toàn ngoại tà quấy nhiễu.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_108",
+    "name": "Thông Tuệ Trí Tuệ Đan",
+    "description": "Tăng cường tốc độ tư duy logic để suy toán sơ đồ trận pháp nhanh chóng.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_109",
+    "name": "Mở Thiên Nhãn Hoàn",
+    "description": "Kích hoạt con mắt thứ ba tạm thời để nhìn thấy long mạch và khí vận quốc gia.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_110",
+    "name": "Xuyên Thấu Vật Thể Đan",
+    "description": "Giúp đôi mắt nhìn xuyên qua các bức tường đá dày hoặc giáp trụ đối phương.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_111",
+    "name": "Liên Kết Đạo Lữ Đan",
+    "description": "Thiết lập đường truyền suy nghĩ thần thức không lời giữa hai người yêu nhau.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_112",
+    "name": "Phá Pháp Quang Ti Đan",
+    "description": "Khiến đôi mắt bắn ra luồng ánh sáng phá hủy lớp màng phòng ngự huyễn trận.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_113",
+    "name": "Huyễn Ảnh Linh Hồn Đan",
+    "description": "Tạo ra một làn sóng thần thức giả lập đánh lừa sự dò tìm của kẻ địch xung quanh.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_114",
+    "name": "Rạn Nứt Không Gian Đan",
+    "description": "Giúp đôi mắt nhìn thấy các đường nứt không gian vô hình mắt thường không thấy.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_115",
+    "name": "Mị Lực Ánh Mắt Đan",
+    "description": "Tăng cường sức quyến rũ bẩm sinh trong ánh nhìn của các nữ tu sĩ mị công.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_116",
+    "name": "Huyết Nhãn Tử Huyệt Đan",
+    "description": "Giúp đôi mắt thấy rõ hệ thống tuần hoàn máu và tử huyệt của kẻ địch trước mặt.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_117",
+    "name": "Che Giấu La Bàn Đan",
+    "description": "Biến đổi tần số thần thức làm biến mất tung tích trên la bàn thiên cơ bói toán.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_118",
+    "name": "Sóng Ý Niệm Bạo Kích Đan",
+    "description": "Gia tăng lực bộc phá cho các chiêu thức tấn công linh hồn bằng ý nghĩ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_119",
+    "name": "Kiếm Tâm Thông Minh Đan",
+    "description": "Giúp kiếm tu dễ dàng cộng hưởng tần số rung động với thanh cổ kiếm bản mệnh.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_120",
+    "name": "Xua Tan Trầm Cảm Đan",
+    "description": "Thanh lọc tâm trí khỏi sự u uất, mất ý chí chiến đấu do ma công gây ra.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_121",
+    "name": "Mê Hồn Ngủ Ngàn Năm Đan",
+    "description": "Thuốc mê cực mạnh, khiến mục tiêu ngủ say trong tâm trí suốt trăm năm.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_122",
+    "name": "Tử Vong Giảm Thọ Đan",
+    "description": "Đan dược nguyền rủa, ném trúng ai người đó bị tước đoạt tuổi thọ qua ánh nhìn.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_123",
+    "name": "Mù Mắt Thánh Quang Đan",
+    "description": "Phát ra vầng hào quang chói lòa làm mù mắt kẻ địch tầm gần tạm thời.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_124",
+    "name": "Phân Tách Hồn Phách Đan",
+    "description": "Giúp chia tách thần thức thành vạn sợi nhỏ để điều khiển binh đoàn rối gỗ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_125",
+    "name": "Vạn Dặm Thính Giác Đan",
+    "description": "Nâng cao thính giác não bộ, nghe được âm thanh bàn tán từ khoảng cách vạn dặm.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_126",
+    "name": "Vô Tình Kiếm Tâm Đan",
+    "description": "Đóng băng toàn bộ cảm xúc phàm trần để tu luyện sát lục kiếm pháp đạt độ chính xác.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_127",
+    "name": "Nhìn Chậm Quỹ Đạo Đan",
+    "description": "Tăng phản xạ thị giác, nhìn thấy các chiêu thức tốc độ cao di chuyển chậm lại mười lần.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_128",
+    "name": "Băng Phách Trấn Tĩnh Đan",
+    "description": "Giữ cho cái đầu luôn lạnh lùng, đưa ra quyết định chuẩn xác giữa ranh giới sinh tử.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_129",
+    "name": "Trí Tuệ Đan Phương Đan",
+    "description": "Nâng cấp não bộ tính toán và sáng tạo ra các loại đan phương mới trong nốt nhạc.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_130",
+    "name": "Lưu Trữ Tinh Thần Đan",
+    "description": "Giúp đôi mắt lưu trữ năng lượng tinh thần lực rút ra từ các chòm sao Bắc Đẩu.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_131",
+    "name": "Ma Tu Thần Thức Đan",
+    "description": "Hấp thụ oán khí bãi chiến trường để gia tăng bán kính quét thần thức ma đạo.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_132",
+    "name": "Ý Nghĩ Vẽ Phù Đan",
+    "description": "Giúp tăng tốc độ vẽ bùa chú trong không khí bằng ý nghĩ không cần dùng tay.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_133",
+    "name": "Sóng m Phá Toái Đan",
+    "description": "Nâng cấp âm lượng thanh quản phát ra tiếng hét phá vỡ vũ khí kim loại đối phương.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_134",
+    "name": "Bách Biến Dị Dung Đan",
+    "description": "Thay đổi cấu trúc cơ mặt và khí chất bên ngoài để ngụy trang hoàn hảo thành người khác.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_135",
+    "name": "Long Uy Giọng Nói Đan",
+    "description": "Tích tụ uy nghiêm rồng thần vào tiếng nói để trấn áp ý chí chiến đấu kẻ địch.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_136",
+    "name": "Thuyết Phục Đại Lão Đan",
+    "description": "Giúp lời nói phát ra mang tần số thuyết phục tuyệt đối, dễ đi vào lòng người.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_137",
+    "name": "Nhìn Đêm Hang Sâu Đan",
+    "description": "Cung cấp khả năng nhìn rõ cấu trúc địa hình trong bóng tối tuyệt đối không cần linh lực.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_138",
+    "name": "Vạn Kiếm Ý Niệm Đan",
+    "description": "Giúp thần thức không bị quá tải não khi điều khiển một vạn thanh kiếm khí cùng lúc.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_139",
+    "name": "Logic Cơ Quan Đan",
+    "description": "Tăng tư duy hình học không gian để hóa giải các ổ khóa cơ quan mật thất cổ xưa.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_140",
+    "name": "Dẫn Đường Mê Cung Đan",
+    "description": "Phát ra một sợi chỉ thần thức vô hình dẫn dắt lối ra khỏi trận pháp sương mù.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_141",
+    "name": "Xé Toạc Ảo Ảnh Tiên Đan",
+    "description": "Viên đan cấp cao giúp đôi mắt bắn thần quang phá tan mọi huyễn cảnh Tiên giới.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_142",
+    "name": "Giữ Vững Lý Trí Ma Đan",
+    "description": "Đỉnh cao ma đạo, giúp giữ vững lý trí tối thượng không bị ma tính nuốt chửng cấu xé.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_143",
+    "name": "Thiên Tử Vương Giả Đan",
+    "description": "Nâng cao khí chất lãnh đạo và tầm nhìn chiến lược cho hoàng đế triều đại tu tiên.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_144",
+    "name": "Kết Nối Sủng Vật Thần Đan",
+    "description": "Thiết lập đường truyền trò chuyện bằng ngôn ngữ tâm trí trực tiếp với thần thú.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_145",
+    "name": "Hỗn Độn Đồng Hóa Đan",
+    "description": "Giúp thần thức không bị đồng hóa sụp đổ khi tiếp xúc năng lượng vũ trụ sơ khai.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_146",
+    "name": "Bói Toán An Toàn Thần Đan",
+    "description": "Giúp thiên cơ sư bói toán vận mệnh đa vũ trụ không bị thiên phạt làm nổ não.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_147",
+    "name": "Thần Thức Du Ngoạn Đan",
+    "description": "Giúp nguyên thần xuất khiếu bay xuyên qua ranh giới các vị diện khác an toàn vạn dặm.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_148",
+    "name": "Hòa Mình Thiên Địa Thần Đan",
+    "description": "Giúp thần thức hòa tan 100% vào quy luật đất trời để ngộ ra đại đạo tối cao.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_149",
+    "name": "Ký Ức Luân Hồi Thần Đan",
+    "description": "Giữ cho toàn bộ ký ức truyền thừa không bị xóa sạch khi bước qua cầu Nại Hà đầu thai.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_150",
+    "name": "Bất Diệt Nguyên Thần Chí Cao Đan",
+    "description": "Viên đan tối cao giúp linh hồn đạt trạng thái bất tử tuyệt đối không thể bị xóa sổ.",
+    "group": "III. Nhóm Rèn Luyện Thần Thức, Nhãn Thuật & Tâm Trí (101 - 150)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_151",
+    "name": "Hủ Cốt Đan",
+    "description": "Viên đan kịch độc ăn mòn nhục thân, biến da thịt thành vũng nước độc trong một khắc dính phải.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "elixir_152",
+    "name": "Thất Bộ Đoạt Mệnh Hoàn",
+    "description": "Trúng phải độc tính của viên đan này, đi quá bảy bước chân sẽ nổ tung mạch máu tim.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "elixir_153",
+    "name": "Thôn Phệ Ma Tính Đan",
+    "description": "Kích hoạt bản năng nuốt chửng linh lực và tu vi của người khác cho ma tu cày cấp.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "elixir_154",
+    "name": "Tử Vong Xác Chết Đan",
+    "description": "Luyện từ dịch mục nát của hung thú, gây nhiễm trùng thối rữa toàn bộ nội tạng mục tiêu.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "elixir_155",
+    "name": "Thiên Ma Hoàng Huyết Đan",
+    "description": "Chứa ma huyết hoàng tộc Ma giới, kích phát tối đa sức mạnh bạo lực tiềm ẩn.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "elixir_156",
+    "name": "Khát Máu Cuồng Bạo Đan",
+    "description": "Hút máu chiến trường xung quanh đưa người uống vào trạng thái điên cuồng tăng sức đánh.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "elixir_157",
+    "name": "Giảm Thiểu Khí Vận Đan",
+    "description": "Viên đan tỏa khói đen đem xui xẻo tột cùng đến cho đối thủ, đi đường cũng dính bẫy.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_158",
+    "name": "Móng Vuốt Dạ Xoa Đan",
+    "description": "Biến đổi móng tay thành vũ khí sắc bén mang kịch độc cào rách mọi phòng ngự thịt.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_159",
+    "name": "Bạo Ngược Mất Trí Đan",
+    "description": "Tăng 200% lực đấm vật lý tầm gần nhưng khiến người uống mất kiểm soát lý trí tạm thời.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_160",
+    "name": "Thu Hút Cô Hồn Đan",
+    "description": "Tỏa mùi hương thu hút hàng vạn cô hồn dã quỷ đến cắn xé phong tỏa khu vực bế quan đối phương.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_161",
+    "name": "Đông Cứng Huyết Dịch Đan",
+    "description": "Biến toàn bộ dòng máu đang chảy trong người mục tiêu thành các khối băng sắc nhọn.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_162",
+    "name": "Hòa Tan Bóng Đêm Đan",
+    "description": "Biến nhục thân thành một cái bóng vô hình hòa tan hoàn toàn vào màn đêm để ám sát.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_163",
+    "name": "Mềm Nhũn Xương Cốt Đan",
+    "description": "Nghiền thành bột mịn rải vào không khí làm tê liệt hệ thống khung xương đối phương lập tức.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_164",
+    "name": "Yêu Tộc Hóa Hình Đan",
+    "description": "Đan dược hỗ trợ yêu thú đẩy nhanh tiến trình lột xác hóa thành hình dạng người phàm.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_165",
+    "name": "Mị Hồn Kích Dục Đan",
+    "description": "Tỏa hương mị thuật cực mạnh, khiến các tu sĩ mất kiểm soát dục vọng bản thân trong hang tối.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_166",
+    "name": "Trăng Máu Kích Hoạt Đan",
+    "description": "Bộc phát 500% ma lực ma đạo vào những đêm trăng máu rằm tháng bảy.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_167",
+    "name": "Thiên Sát Nguyền Rủa Đan",
+    "description": "Viên đan dùng làm vật tế để nguyền rủa gia tộc đối phương dính tai ương liên tục.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_168",
+    "name": "Oán NiệmNuôi Dưỡng Đan",
+    "description": "Thu gom sự căm phẫn của người chết đúc thành viên đan bổ sung năng lượng cho ma công.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_169",
+    "name": "Tà Linh Tế Phẩm Đan",
+    "description": "Viên đan chứa linh hồn tu sĩ chính đạo dùng để mở cổng gọi tà thần vị diện khác.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_170",
+    "name": "Huyết Hải Mở Rộng Đan",
+    "description": "Gia tăng thể tích chứa đựng của bể máu đan điền ma tu lên gấp mười lần.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_171",
+    "name": "Mất Cảm Giác Đau Đan",
+    "description": "Khóa chặt hệ thần kinh cảm giác đau, chiến đấu đến giọt máu cuối cùng không lùi bước.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_172",
+    "name": "Địa Hình Hang Động Đan",
+    "description": "Tăng 100% tốc độ di chuyển bộc phát trong địa hình hang tối hiểm trở đầm lầy.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_173",
+    "name": "Rỉ Sét Vũ Khí Đan",
+    "description": "Tiết dịch axit bào mòn phá hủy độ sắc bén của các thanh thần binh cấp thấp đối phương giữ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_174",
+    "name": "Mị Ảnh Bóng Ma Hoàn",
+    "description": "Tạo ra hàng loạt khói đen hình người chuyển động quấy nhiễu tầm nhìn cung thủ bắn lén.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_175",
+    "name": "Cốt Khí Hóa Giáp Đan",
+    "description": "Hấp thụ cốt khí từ bãi tha ma đúc thành lớp giáp xương cứng ngắc bao phủ da thịt.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_176",
+    "name": "Thực Hồn Nuốt Não Đan",
+    "description": "Nuốt chửng linh hồn người chết để nuôi béo nguyên thần ma tu tăng cấp vèo vèo.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_177",
+    "name": "Khói Độc Bao Phủ Đan",
+    "description": "Luyện chế thành làn khói độc ngập trời có thể diệt sạch sinh linh cả một vương quốc phàm nhân.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_178",
+    "name": "Hoàng Tuyền Bào Mòn Đan",
+    "description": "Mang khí tức sông Hoàng Tuyền bào mòn thọ mệnh kẻ địch liên tục theo từng hơi thở dính phải.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_179",
+    "name": "Vực Sâu Lực Đấm Đan",
+    "description": "Cung cấp sức mạnh cơ bắp bạo lực của quỷ vương vực sâu xé rách vách đá phòng thủ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_180",
+    "name": "Kích Hoạt Tâm Ma Đan",
+    "description": "Đan dược độc ác lẻn hạ độc vào đồ ăn đối thủ trước khi họ đi độ kiếp để kích nổ tâm ma phá hủy đạo基.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_181",
+    "name": "Sợi Thép Cắt Cổ Hoàn",
+    "description": "Biến đổi các sợi tóc dài thành vũ khí sắc bén cứa đứt cổ họng kẻ địch khi áp sát.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_182",
+    "name": "Không Dấu Vết Độc Đan",
+    "description": "Hòa tan vào nước không màu không mùi không vị không để lại tàn dư khí tức độc chết đại lão.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_183",
+    "name": "Sát Khí Đóng Băng Đan",
+    "description": "Ngưng tụ toàn bộ sát ý chiến trường thành thực thể đóng băng không khí xung quanh mục tiêu.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_184",
+    "name": "Hồ Ly Thiên Hồ Đan",
+    "description": "Giúp hồ ly tinh nâng cấp mị thuật mị công lên tầm tối thượng mê hoặc cả tiên nhân.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_185",
+    "name": "Sừng Rồng Bạo Lực Đan",
+    "description": "Kích thích mọc sừng rồng trên đầu tăng lực húc nổ tung trận pháp hộ tông tầm thấp.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_186",
+    "name": "Chính Đạo Ăn Mòn Đan",
+    "description": "Tiết ra chất dịch triệt tiêu hoàn toàn lớp màng hộ thân linh lực chính tông của đối thủ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_187",
+    "name": "Miễn Dịch Nguyền Rủa Đan",
+    "description": "Đan dược ma đạo giúp nhục thân vô cảm trước mọi đòn nguyền rủa sả từ xa trong vòng một tiếng.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_188",
+    "name": "Giậm Chân Nổ Đất Đan",
+    "description": "Gia tăng trọng lượng cơ thể tạm thời lên ngàn cân để thực hiện cú giậm chân nứt đất nổ đá.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_189",
+    "name": "Hung Thú Tàn Bạo Đan",
+    "description": "Kích hoạt bản tính tàn bạo ăn tươi nuốt sống hung thú hồng hoang tăng sức chống chịu đònroi.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_190",
+    "name": "Ẩn Nấp Kẽ Đá Hoàn",
+    "description": "Thu nhỏ kích thước cơ thể phàm nhân xuống mười lần để trốn thoát qua các khe nứt nhỏ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_191",
+    "name": "Khói Tím Che Chở Đan",
+    "description": "Tỏa ra đám mây ma khí màu tím bao quanh bảo vệ chủ nhân khỏi các mũi tên bắn lén tầm xa.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_192",
+    "name": "Lật Ngược Tuần Hoàn Đan",
+    "description": "Đảo ngược dòng máu chạy trong kinh mạch giúp thoát khỏi bùa chú trói buộc cơ thể lập tức.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_193",
+    "name": "Xuyên Qua Cấm Chế Đan",
+    "description": "Chứa dịch phá giải kết giới, giúp đi xuyên qua các bức màn ánh sáng bảo vệ động phủ đời trước.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_194",
+    "name": "Phản Vật Chất Tiên Đan",
+    "description": "Đan dược ma đạo mang năng lượng triệt tiêu mọi định luật vật lý thông thường của thiên đạo Tiên giới.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_195",
+    "name": "Vết Thương Thối Rữa Tiên Đan",
+    "description": "Khiến vết thương chém dính độc thối rữa vĩnh viễn không thể dùng linh lực mộc hệ để chữa lành phục hồi.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "elixir_196",
+    "name": "Xóa Sổ Sách Sinh Tử Đan",
+    "description": "Đan dược ma đạo chí cao xóa sạch hoàn toàn dấu vết luân hồi của mục tiêu khỏi sổ địa phủ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_197",
+    "name": "Tẩm Độc Kiếm Khí Đan",
+    "description": "Nghiền bột bôi lên lưỡi đao kiếm gia tăng lực sát thương chém hoại tử tế bào đối phương dính phải.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_198",
+    "name": "Ăn Mòn Mắt Trận Đan",
+    "description": "Chất dịch kịch độc chuyên dùng ném vào các mắt xích cơ quan để phá hủy đại trận hộ tông kẻ thù.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_199",
+    "name": "Bạo Động Thú Triều Đan",
+    "description": "Tỏa mùi hương kích thích hàng vạn yêu thú hoang dã tiến vào trạng thái cuồng bạo lao vào công thành.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "elixir_200",
+    "name": "Siêu Thoát Vô Thượng Diệt Thế Đan",
+    "description": "Viên đan ma đạo tối cao chí cao, một hạt phát nổ có thể độc chết phá hủy cả ý niệm tồn tại của thiên đạo đa vũ trụ.",
+    "group": "IV. Nhóm Độc Dược, Ma Tính & Kịch Độc Tà Môn (151 - 200)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

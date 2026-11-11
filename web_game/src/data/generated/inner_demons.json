@@ -1,0 +1,242 @@
+[
+  {
+    "id": "demon_001",
+    "name": "Hồng Trần Kiếp Tâm Ma",
+    "description": "Ép tu sĩ sống lại một đời làm người phàm nghèo khổ, nếu quên mất mình là tu sĩ sẽ chết già trong ảo cảnh.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "demon_002",
+    "name": "Sát Lục Nghiệp Tâm Ma",
+    "description": "Hiện hình tất cả những kẻ tu sĩ từng giết dọc đường đời để đòi mạng, gây điên loạn.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "demon_003",
+    "name": "Tình Duyên Trói Buộc",
+    "description": "Ảo cảnh về đạo lữ hoặc người tình cũ, cám dỗ tu sĩ buông bỏ tu vi để hưởng lạc vĩnh viễn.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "demon_004",
+    "name": "Quyền Lực Đỉnh Cao",
+    "description": "Đưa tu sĩ lên làm Tiên Đế thống trị vũ trụ, nếu thỏa mãn dừng bước, tu vi ngoài đời sẽ nổ tung.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "demon_005",
+    "name": "Tham Lam Vô Đáy",
+    "description": "Rải đầy thần khí, thần dược cấp cao trước mắt, tu sĩ tham lam nhặt lấy sẽ bị hỏa thiêu.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "demon_006",
+    "name": "Đố Kỵ Thiên Tài",
+    "description": "Tâm ma mô phỏng lại kẻ thù mạnh nhất của tu sĩ, liên tục sỉ nhục khiến tu sĩ mất bình tĩnh dẫn đến tẩu hỏa nhập ma.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "demon_007",
+    "name": "Sợ Chết Kiếp",
+    "description": "Tạo ra viễn cảnh thọ nguyên cạn kiệt, cơ thể già nua thối rữa để bẻ gãy ý chí nghịch thiên.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "demon_008",
+    "name": "Phu Mẫu Ly Bi",
+    "description": "Tái hiện lại cảnh tượng cha mẹ, gia tộc bị thảm sát mà tu sĩ không thể cứu, thử thách lòng nhẫn nại.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "demon_009",
+    "name": "Tự Ti Cốt Tủy",
+    "description": "Biến tu sĩ về lại thời kỳ phế vật tạp dịch bị vùi dập, phá hủy sự tự tin vừa tạo dựng.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_010",
+    "name": "Tuyệt Vọng Đạo Cảnh",
+    "description": "Khiến tu sĩ cảm thấy con đường phía trước đã bị chặn đứng bởi quy luật, tu luyện vô ích.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_011",
+    "name": "Ngạo Mạn Cuồng Vọng",
+    "description": "Tạo cảm giác vô địch giả tạo, khiến tu sĩ ngoài đời khinh địch dẫn đến đột phá thất bại.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_012",
+    "name": "Nghi Ngờ Đại Đạo",
+    "description": "Làm tu sĩ lung lay niềm tin vào công pháp mình đang tu luyện là sai lầm.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_013",
+    "name": "Phản Bội Trầm Luân",
+    "description": "Ảo cảnh đệ tử ruột hoặc tri kỷ đâm sau lưng, thử thách độ kiên định của tâm trí.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_014",
+    "name": "Ký Ức Đau Thương",
+    "description": "Đào bới góc khuất tủi nhục nhất trong quá khứ để dày vò linh hồn.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_015",
+    "name": "Hư Vô Tịch Mịch",
+    "description": "Giam cầm thần thức vào không gian tối đen không âm thanh, không ánh sáng suốt vạn năm ảo tưởng để bẻ gãy tinh thần.",
+    "group": "Các Loại Tâm Ma Bản Thân (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_016",
+    "name": "Bát Quái Điên Đảo Trận",
+    "description": "Ảo cảnh khiến Đông thành Tây, Nam thành Bắc, ngũ quan bị đảo lộn hoàn toàn.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_017",
+    "name": "Cửu U U Minh Ảo Cảnh",
+    "description": "Nơi đầy rẫy những bóng ma khóc lóc, hút dần năng lượng thần thức.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "demon_018",
+    "name": "Hỏa Diệm Sơn Trùng Điệp",
+    "description": "Ảo cảnh nóng bức khiến linh lực trong người tự bốc cháy vì tưởng thật.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "demon_019",
+    "name": "Băng Phong Vạn Niên",
+    "description": "Ảo cảnh đóng băng ý thức, làm chậm tốc độ suy nghĩ của tu sĩ xuống 100 lần.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "demon_020",
+    "name": "Tử Linh Đại Địa",
+    "description": "Ảo cảnh bước đi trên núi xương sông máu, ngửi mùi xác thối làm nôn mửa, tiêu hao ý chí.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "demon_021",
+    "name": "Tinh Không Mê Lộ",
+    "description": "Ảo cảnh các vì sao xoay tròn liên tục, gây choáng váng và mù lòa tạm thời.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "demon_022",
+    "name": "Hồng Hoang Đại Chiến",
+    "description": "Kéo tu sĩ vào chiến trường vĩ mô thời cổ đại, nơi các vị thần chém giết nhau, áp lực nghẹt thở.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "demon_023",
+    "name": "Gương Thần Chiếu Dạ",
+    "description": "Bản sao của chính tu sĩ bước ra từ gương với đầy đủ chiêu thức để sinh tử chiến.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "demon_024",
+    "name": "Thanh Âm Ma Linh",
+    "description": "Tiếng hát của còi siren tu tiên, quyến rũ tu sĩ nhảy xuống vực sâu đầm lầy.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "demon_025",
+    "name": "Thời Gian Ngưng Đọng",
+    "description": "Ảo cảnh khiến tu sĩ tưởng mình đã đi qua hàng triệu năm nhưng thực chất ngoài đời mới 1 giây.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "demon_026",
+    "name": "Luân Hồi Bách Thế",
+    "description": "Trải qua 100 kiếp sống làm đủ loại sinh vật (chó, mèo, cây, đá) để làm loãng ký ức gốc.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "demon_027",
+    "name": "Thiên Đình Sụp Đổ",
+    "description": "Ảo cảnh ngày tận thế, trời sập đất nứt để ép tu sĩ bộc lộ bản năng chạy trốn hay đối mặt.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "demon_028",
+    "name": "Tâm Ma Lâm",
+    "description": "Rừng cây di động tấn công bằng xúc tu tinh thần.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "demon_029",
+    "name": "Huyễn Thần Sa Mạc",
+    "description": "Đi hoài không thấy điểm dừng, cơn khát linh khí giả tạo phá hủy đan điền.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "demon_030",
+    "name": "Nhân Quả Đoạn Tuyệt",
+    "description": "Ảo cảnh xóa sạch sự tồn tại của tu sĩ khỏi tâm trí của tất cả người thân, biến họ thành người xa lạ vĩnh viễn.",
+    "group": "Các Loại Ảo Cảnh Tự Nhiên & Bí Cảnh (15 Loại)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  }
+]

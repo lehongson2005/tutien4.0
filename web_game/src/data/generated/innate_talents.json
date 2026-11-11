@@ -1,0 +1,242 @@
+[
+  {
+    "id": "innate_001",
+    "name": "Long Uy Áp Chế (Long tộc)",
+    "description": "Tiếng gầm bóp nghẹt linh hồn các chủng tộc cấp thấp hơn 1 cảnh giới.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "innate_002",
+    "name": "涅槃 Tái Sinh (Phượng tộc)",
+    "description": "Khi máu về 0, tự bùng cháy thành đống tro và hồi sinh với 100% trạng thái (3 vạn năm dùng 1 lần).",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "innate_003",
+    "name": "Thao Thiết Thực Địa (Ma thú)",
+    "description": "Há mồm hút sạch toàn bộ kỹ năng năng lượng của đối thủ vào bụng để hóa giải.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "innate_004",
+    "name": "Vương Giả Triệu Hồi (Hổ tộc)",
+    "description": "Triệu hồi tất cả yêu thú cấp thấp trong bán kính vạn dặm đến làm khiên thịt.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "innate_005",
+    "name": "Hóa Ảnh Vô Hình (Báo tộc)",
+    "description": "Đồng hóa thân thể vào bóng tối, miễn nhiễm 100% sát thương vật lý ban đêm.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "innate_006",
+    "name": "Cửu Vĩ Mê Hồn (Hồ tộc)",
+    "description": "Ánh mắt khiến đối thủ sa vào ảo cảnh tình ái, tự phế tu vi trong 5 giây.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "innate_007",
+    "name": "Huyền Vũ Tuyệt Phòng (Quy tộc)",
+    "description": "Thu mình vào mai, tạo màng bọc kháng được đòn tấn công vượt 2 đại cảnh giới.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "innate_008",
+    "name": "Cự Lực Hám Thiên (Viên tộc)",
+    "description": "Cự viên hóa khổng lồ, nhục thân tăng tiến sức mạnh gấp 50 lần trong thời gian ngắn.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "innate_009",
+    "name": "Kịch Độc Châm Tủy (Hạt tộc)",
+    "description": "Vết châm bỏ qua mọi hộ thể tiên khí, trực tiếp làm thối rữa thần cốt.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_010",
+    "name": "Tật Phong Không Bộ (Ưng tộc)",
+    "description": "Di chuyển không để lại gợn sóng không gian, tốc độ nhanh hơn dịch chuyển tức thời.",
+    "group": "Yêu Tộc & Long Tộc (10 Chiêu)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_011",
+    "name": "Ma Hóa Bùng Nổ",
+    "description": "Chuyển hóa toàn bộ máu thành lực chiến, tốc độ và sát thương nhân ba nhưng mất lý trí.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_012",
+    "name": "Tử Khí Quấn Thân",
+    "description": "Tỏa ra màn sương chết chóc làm giảm thọ nguyên của kẻ địch đứng gần.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_013",
+    "name": "Vực Ngoại Ký Sinh",
+    "description": "Linh hồn có thể phân tách bám vào tâm ma của tu sĩ nhân loại để đoạt xá.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_014",
+    "name": "Huyết Hải Trùng Sinh",
+    "description": "Còn một giọt máu chảy ngoài sông Hoàng Tuyền thì vẫn có thể tái tạo nhục thân.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_015",
+    "name": "Oán Linh Cuồng Nộ",
+    "description": "Hút năng lượng từ sự oán hận của người chết xung quanh để tăng phòng ngự.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_016",
+    "name": "Bóng Đêm Đồng Hóa",
+    "description": "Chuyển dịch vết thương của bản thân sang bóng của kẻ thù.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_017",
+    "name": "Minh Hà Triệu Hồi",
+    "description": "Triệu hồi một nhánh sông cõi âm lên ăn mòn tiên phách của đối thủ.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "innate_018",
+    "name": "Cốt Nhục Tái Sinh",
+    "description": "Xương cốt gãy nát tự động nối liền trong vài nhịp thở nhờ ma khí.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "innate_019",
+    "name": "Đoạt Hồn Nhãn",
+    "description": "Nhìn thẳng vào mắt kẻ địch để kéo linh hồn họ ra khỏi xác trong 3 giây.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "innate_020",
+    "name": "Vô Niệm Tà Hỏa",
+    "description": "Đốt cháy thanh năng lượng (linh lực) của đối thủ bằng ngọn lửa tâm linh đen.",
+    "group": "Ma Tộc & Minh Tộc (10 Chiêu)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "innate_021",
+    "name": "Thần Quang Tịnh Hóa",
+    "description": "Ánh sáng xóa bỏ hoàn toàn mọi hiệu ứng độc tố, ma khí và nguyền rủa.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_022",
+    "name": "Không Gian Đồng Hóa (Tinh tộc)",
+    "description": "Biến cơ thể thành một phần của bầu trời sao, né tránh mọi đòn khóa mục tiêu.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_023",
+    "name": "Đại Đạo Cộng Hưởng",
+    "description": "Thiên phú khiến trời đất tự hạ linh khí xuống trợ lực khi cạn kiệt.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_024",
+    "name": "Đồng Tử Nhìn Thấu Tương Lai",
+    "description": "Nhìn trước được quỹ đạo ra chiêu của đối thủ trong 3 giây tiếp theo.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_025",
+    "name": "Vạn Pháp Bất Xâm",
+    "description": "Cơ thể bẩm sinh đẩy lùi mọi loại ngũ hành pháp thuật cấp thấp.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_026",
+    "name": "Pháp Tượng Thiên Địa",
+    "description": "Hóa thân cao vạn trượng sánh ngang thiên thần, một chân đạp nát thành trì.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_027",
+    "name": "Nhân Quả Đảo Ngược",
+    "description": "Chuyển đòn chí mạng của kẻ địch thành đòn hồi máu cho bản thân (Cực hao tổn thần lực).",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_028",
+    "name": "Tâm Quy Lĩnh",
+    "description": "Đưa tâm trí đối thủ về trạng thái sơ sinh phàm nhân trong 1 tích tắc.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_029",
+    "name": "Mộc Linh Trị Liệu",
+    "description": "Hút sinh mệnh lực của cây cối xung quanh để chữa lành vết thương chí mạng lập tức.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "innate_030",
+    "name": "Lôi Đình Thần Phạt",
+    "description": "Gọi thiên lôi tự nhiên xuống đánh mà không cần kích hoạt trận pháp.",
+    "group": "Thần Tộc & Dị Tộc Ẩn Thế (10 Chiêu)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  }
+]

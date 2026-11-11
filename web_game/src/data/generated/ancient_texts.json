@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ancient_001",
+    "name": "Thái Cổ Thần Văn",
+    "description": "Chữ viết được tạo ra từ chính nét vẽ của quy luật vũ trụ. Nhìn lâu sẽ bị nổ mắt, chảy máu tai, chỉ người có Mệnh cách Chí Tôn hoặc Thần nhãn mới đọc hiểu được.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ancient_002",
+    "name": "Hồng Hoang Long Ngữ",
+    "description": "Ngôn ngữ của tộc rồng cổ đại, phát âm ra tiếng gầm có khả năng làm rung chuyển không gian, kích hoạt thần thông hệ long.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ancient_003",
+    "name": "Minh Tộc Văn Tự (Văn Tự Xương)",
+    "description": "Khắc trên xương cốt người chết bằng nét vẽ ma khí đen, chuyên dùng để ghi chép ma công và cấm thuật đoạt xá.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ancient_004",
+    "name": "Tiên Giới Ngọc Giản Văn",
+    "description": "Chữ viết chuẩn hóa bằng tiên khí lấp lánh bụi sao, chứa dung lượng thông tin khổng lồ trong một nét chữ.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ancient_005",
+    "name": "Tinh Không Di Tích Tự",
+    "description": "Chữ viết của các bộ tộc du mục vũ trụ, nhìn giống như các chòm sao đan xen nhau.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ancient_006",
+    "name": "Nho Thánh Thảo Thư",
+    "description": "Chữ viết bay bướm chứa khí hạo nhiên chính nghĩa, ma quỷ chạm vào chữ này sẽ bị thiêu rụi.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ancient_007",
+    "name": "Phù Văn Biến Dị",
+    "description": "Các nét vẽ bùa chú tự chuyển động, thay đổi kết cấu liên tục theo thời gian thực để chống sao chép lậu.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ancient_008",
+    "name": "Thiên Đạo Mã Vạch",
+    "description": "Các vệt năng lượng tự nhiên trên vỏ cây thế giới hoặc mai rùa, chứa công thức toán học vận hành vũ trụ.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "pham"
+  },
+  {
+    "id": "ancient_009",
+    "name": "Ma Thai Ký Hiệu",
+    "description": "Chữ viết thô sơ của ma tộc vực, mang tính chất nguyền rủa tâm linh cho người đọc.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_010",
+    "name": "Hư Không Ngữ",
+    "description": "Ngôn ngữ không phát ra âm thanh mà truyền thẳng sóng não vào đan điền đối phương thông qua khe nứt không gian.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "ha_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_011",
+    "name": "Huyền Hoàng Khí Tự",
+    "description": "Chữ viết nặng nghìn cân, viết trên giấy ngọc bình thường sẽ làm rách giấy, phải viết trên da yêu thú vạn năm.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_012",
+    "name": "Nhân Quả Ấn Ký",
+    "description": "Văn tự ẩn giấu, chỉ xuất hiện khi tu sĩ hoàn thành một ân tình hoặc lời thề với người để lại di sản.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_013",
+    "name": "Mộc Linh Diệp Văn",
+    "description": "Chữ hiện trên gân lá cây thần dược, tự biến mất khi lá cây bị hái xuống quá 1 giờ.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_014",
+    "name": "Thọ Nguyên Văn Tự",
+    "description": "Muốn đọc hiểu một chữ phải tiêu hao chính xác 10 năm tuổi thọ của bản thân làm học phí.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_015",
+    "name": "V Căn Nghịch Chuyển Tự",
+    "description": "Văn tự lộn ngược từ phải sang trái, từ dưới lên trên, dành riêng cho người xuyên không có cấu trúc não bộ dị biệt.",
+    "group": "Phân Loại Văn Tự Cổ & Ngôn Ngữ Quy Luật (15 Loại)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_016",
+    "name": "Truyền Thừa Ngọc Giản",
+    "description": "Thần thức khắc công pháp vào miếng ngọc bích. Người đọc chỉ cần áp ngọc vào trán, toàn bộ hình ảnh chiêu thức sẽ hiện lên trong não. Đọc xong ngọc tự vỡ nát (Độc quyền).",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_017",
+    "name": "Huyết Mạch Thức Tỉnh",
+    "description": "Công pháp không viết ra ngoài mà giấu trong chuỗi DNA máu. Khi đệ tử đạt đến cảnh giới Nguyên Anh, công pháp tự động mở khóa trong đầu.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "tien_gioi",
+    "rarity": "linh"
+  },
+  {
+    "id": "ancient_018",
+    "name": "Mộng Cảnh Truyền Thừa",
+    "description": "Đại lão sắp chết kéo thần thức của MC vào giấc mơ, bắt MC sống lại một đời của họ để học trọn vẹn võ học.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ancient_019",
+    "name": "Bức Tranh Kiếm Ý",
+    "description": "Một bức tranh vẽ người cầm kiếm phong thái bình thường, nhưng nếu tu sĩ có kiếm tâm nhìn vào sẽ thấy người trong tranh đang múa 100 đại thần thông kiếm pháp.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ancient_020",
+    "name": "Lão Tổ Trong Nhẫn (Hồn Phách Dạy Kèm)",
+    "description": "Linh hồn đại lão ẩn nấp trong món đồ cổ của MC, trực tiếp chỉ tay day việc dọc đường đi.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "tien_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ancient_021",
+    "name": "Bia Đá Vạn Cổ",
+    "description": "Bia đá khổng lồ dựng giữa quảng trường, ai cũng nhìn thấy nhưng chỉ kẻ có ngộ tính cao nhất mới ngộ ra tuyệt học ẩn giấu phía sau lớp rêu phong.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ancient_022",
+    "name": "Hài Cốt Khắc Chữ",
+    "description": "Công pháp khắc trực tiếp lên xương sườn của con yêu thú thủy tổ, phải lột da róc xương mới thấy được.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ancient_023",
+    "name": "Nhân Quả Di Sản",
+    "description": "Di sản tự động bay tìm đến người có nhân duyên phù hợp (Ví dụ: MC cứu cháu nội của đại lão thì di sản tự bay về tay MC).",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ancient_024",
+    "name": "Thiên Đạo Ban Thưởng Đan",
+    "description": "Nuốt viên đan dược ngộ đạo cấp thần, công pháp tự động hình thành trong đan điền mà không cần học.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "vuong"
+  },
+  {
+    "id": "ancient_025",
+    "name": "Ma Hóa Đoạt Xác Truyền Thừa",
+    "description": "Ma đầu truyền công pháp tốt cho MC nhưng thực chất gieo ấn ký đoạt xá, chờ MC tu luyện thành công sẽ nhảy ra cướp xác.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ancient_026",
+    "name": "Nguyện Lực Tụ Kinh",
+    "description": "Lực cầu nguyện của 10 vạn phàm nhân tụ lại thành một cuốn kinh sách vàng kim lơ lửng giữa trời.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ancient_027",
+    "name": "Hư Không Vết Rách Lưu Trữ",
+    "description": "Công pháp được khắc bằng kiếm khí vào vết nứt không gian, phải có tu vi không gian mới thò tay vào lấy ra được.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ancient_028",
+    "name": "Tiên Nhân Sờ Đầu (Đỉnh Phong Quán Đỉnh)",
+    "description": "Đại lão đặt tay lên đỉnh đầu MC, truyền thẳng tu vi và ngộ tính pháp thuật sang trong vài giây.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "tien_gioi",
+    "rarity": "thanh"
+  },
+  {
+    "id": "ancient_029",
+    "name": "Tử Linh Trích Xuất",
+    "description": "Giết kẻ thù xong, dùng hồn sư trích xuất tàn hồn của chúng ra để tra tấn, ép phun ra công pháp trấn phái.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "chi_ton"
+  },
+  {
+    "id": "ancient_030",
+    "name": "Bản Nguyên Thần Quy Nháy Mắt",
+    "description": "Con rùa vũ trụ số 200 nháy mắt một cái, phóng ra một tia sáng chứa toàn bộ dữ liệu hệ thống tối cao vào thẳng não bộ MC.",
+    "group": "Phương Thức Lưu Trữ & Truyền Thừa Công Pháp (15 Cách)",
+    "tier": "than_gioi",
+    "rarity": "thanh"
+  }
+]
