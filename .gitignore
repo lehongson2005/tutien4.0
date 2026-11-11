@@ -1,0 +1,10 @@
+node_modules/
+web_game/node_modules/
+web_game/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+Thumbs.db
+scratch/
+*.log
